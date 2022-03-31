@@ -1,60 +1,69 @@
 schema: https://htr-united.github.io/schema/2021-10-15/schema.json
-title: Titre dataset
-description: Courte description du depot
-url: "https://github.com/Gallicorpora/template-depot"
+title: Imprimés 16e siècle
+description: "Corpus d'entrainement pour l'HTR compos\xE9 d'imprim\xE9s fran\xE7ais du 16e s."
+url: "https://github.com/Gallicorpora/HTR-imprime-16e-siecle"
 authors:
-  - name: Pinche
-    surname: Ariane
-    roles:
-      - project-manager
-  - name: Gabay
-    surname: Simon
-    roles:
-      - project-manager
-  - name: Bawden
-    surname: Rachel
-    roles:
-      - project-manager
-  - name: Ortiz Suárez
-    surname: Pedro Javier
-    roles:
-      - project-manager
-   - name: Camps
-    surname: Jean-Baptiste
-    roles:
-      - project-manager
-   - name: Romary
-    surname: Laurent
-    roles:
-      - project-manager 
-   - name: Sagot
-    surname: Benoît
-    roles:
-      - project-manager
-   - name: Vlachou-Efstathiou
-    surname: malamatenia
-    roles:
-      - transcriber
-      
-project-name: Gallicorpora
-project-website: "https://github.com/Gallicorpora"
-language:
-  - frm
-  - fra
-script:
-  - Latn
-script-type: only-typed
-time:
-  notBefore: '1500'
-  notAfter: '1599'
+- name: Pinche
+  roles:
+  - project-manager
+  surname: Ariane
+- name: Gabay
+  roles:
+  - project-manager
+  surname: Simon
+- name: Bawden
+  roles:
+  - project-manager
+  surname: Rachel
+- name: "Ortiz Su\xE1rez"
+  roles:
+  - project-manager
+  surname: Pedro Javier
+- name: Camps
+  roles:
+  - project-manager
+  surname: Jean-Baptiste
+- name: Romary
+  roles:
+  - project-manager
+  surname: Laurent
+- name: Sagot
+  roles:
+  - project-manager
+  surname: "Beno\xEEt"
+- name: Vlachou-Efstathiou
+  roles:
+  - transcriber
+  surname: malamatenia
+description: Courte description du depot
+format: Alto-XML
 hands:
   count: 1-per-folder
   precision: estimated
+language:
+- frm
+- fra
 license:
-  - name: CC-BY 4.0
-    url: "https://creativecommons.org/licenses/by/4.0/"
-format: Alto-XML
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+project-name: Gallicorpora
+project-website: https://github.com/Gallicorpora
+schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+script:
+- Latn
+script-type: only-typed
+time:
+  notAfter: '1599'
+  notBefore: '1500'
+title: Titre dataset
+transcription-guidelines: "Ajouter les r\xE9f\xE9rences des normes de transcription"
+url: https://github.com/Gallicorpora/template-depot
 volume:
-  - metric: lines
-    count: 0
-transcription-guidelines: "Ajouter les références des normes de transcription"
+- metric: characters
+  count: 11877
+- metric: files
+  count: 20
+- metric: lines
+  count: 424
+- metric: regions
+  count: 44
