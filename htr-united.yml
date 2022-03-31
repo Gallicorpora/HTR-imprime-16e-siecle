@@ -1,60 +1,69 @@
-schema: https://htr-united.github.io/schema/2021-10-15/schema.json
-title: Titre dataset
-description: Courte description du depot
-url: "https://github.com/Gallicorpora/template-depot"
-authors:
-  - name: Pinche
+--- 
+authors: 
+  - 
+    name: Pinche
+    roles: 
+      - project-manager
     surname: Ariane
-    roles:
+  - 
+    name: Gabay
+    roles: 
       - project-manager
-  - name: Gabay
     surname: Simon
-    roles:
+  - 
+    name: Bawden
+    roles: 
       - project-manager
-  - name: Bawden
     surname: Rachel
-    roles:
+  - 
+    name: "Ortiz Suárez"
+    roles: 
       - project-manager
-  - name: Ortiz Suárez
-    surname: Pedro Javier
-    roles:
+    surname: "Pedro Javier"
+  - 
+    name: Camps
+    roles: 
       - project-manager
-   - name: Camps
     surname: Jean-Baptiste
-    roles:
+  - 
+    name: Romary
+    roles: 
       - project-manager
-   - name: Romary
     surname: Laurent
-    roles:
-      - project-manager 
-   - name: Sagot
-    surname: Benoît
-    roles:
+  - 
+    name: Sagot
+    roles: 
       - project-manager
-   - name: Vlachou-Efstathiou
-    surname: malamatenia
-    roles:
+    surname: Benoît
+  - 
+    name: Vlachou-Efstathiou
+    roles: 
       - transcriber
-      
-project-name: Gallicorpora
-project-website: "https://github.com/Gallicorpora"
-language:
-  - frm
-  - fra
-script:
-  - Latn
-script-type: only-typed
-time:
-  notBefore: '1500'
-  notAfter: '1599'
-hands:
+    surname: malamatenia
+description: "Courte description du depot"
+format: Alto-XML
+hands: 
   count: 1-per-folder
   precision: estimated
-license:
-  - name: CC-BY 4.0
+language: 
+  - frm
+  - fra
+license: 
+  - 
+    name: "CC-BY 4.0"
     url: "https://creativecommons.org/licenses/by/4.0/"
-format: Alto-XML
-volume:
-  - metric: lines
-    count: 0
+project-name: Gallicorpora
+project-website: "https://github.com/Gallicorpora"
+schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
+script: 
+  - Latn
+script-type: only-typed
+time: 
+  notAfter: "1599"
+  notBefore: "1500"
+title: "Titre dataset"
 transcription-guidelines: "Ajouter les références des normes de transcription"
+url: "https://github.com/Gallicorpora/template-depot"
+volume: 
+  - count: 0
+    metric: lines
