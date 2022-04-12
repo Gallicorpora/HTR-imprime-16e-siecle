@@ -9,33 +9,33 @@ authors:
   - project-manager
   surname: Ariane
 - name: Gabay
-  roles:
-  - project-manager
   surname: Simon
+  roles:
+  - project-manager
 - name: Bawden
-  roles:
-  - project-manager
   surname: Rachel
+  roles:
+  - project-manager
 - name: "Ortiz Su\xE1rez"
-  roles:
-  - project-manager
   surname: Pedro Javier
+  roles:
+  - project-manager
 - name: Camps
-  roles:
-  - project-manager
   surname: Jean-Baptiste
+  roles:
+  - project-manager
 - name: Romary
-  roles:
-  - project-manager
   surname: Laurent
-- name: Sagot
   roles:
   - project-manager
+- name: Sagot
   surname: "Beno\xEEt"
+  roles:
+  - project-manager
 - name: Vlachou-Efstathiou
+  surname: malamatenia
   roles:
   - transcriber
-  surname: malamatenia
 format: Alto-XML
 hands:
   count: 1-per-folder
@@ -57,10 +57,10 @@ time:
 transcription-guidelines: "Ajouter les r\xE9f\xE9rences des normes de transcription"
 volume:
 - metric: characters
-  count: 11877
+  count: 31300
 - metric: files
-  count: 20
+  count: 40
 - metric: lines
-  count: 424
+  count: 966
 - metric: regions
-  count: 42
+  count: 104
