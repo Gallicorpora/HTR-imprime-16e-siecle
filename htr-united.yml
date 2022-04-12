@@ -57,10 +57,10 @@ time:
 transcription-guidelines: "Ajouter les r\xE9f\xE9rences des normes de transcription"
 volume:
 - metric: characters
-  count: 31300
+  count: 47590
 - metric: files
-  count: 40
+  count: 60
 - metric: lines
-  count: 966
+  count: 1476
 - metric: regions
-  count: 104
+  count: 173
