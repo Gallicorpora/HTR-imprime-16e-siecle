@@ -42,11 +42,11 @@ transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisat
   \ du projet Gallicorpora"
 volume:
 - metric: characters
-  count: 47590
+  count: 63259
 - metric: files
-  count: 60
+  count: 80
 - metric: lines
-  count: 1476
+  count: 1903
 - metric: regions
-  count: 173
+  count: 235
 citation-file-link: https://github.com/Gallicorpora/HTR-imprime-16e-siecle/CITATION.cff
