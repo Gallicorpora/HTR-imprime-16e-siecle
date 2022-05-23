@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f21.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1855" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1866" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1865" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1864" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT1863" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1862" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1861" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1860" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT1859" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1858" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1857" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1856" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+    <OtherTag ID="LT641" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT642" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT643" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT644" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT645" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2592"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2592"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="1006"
+                   VPOS="297"
+                   WIDTH="497"
+                   HEIGHT="48"
+                   ID="block_0"
+                   TAGREFS="BT1863">
+          <Shape><Polygon POINTS="1492 297 1503 345 1006 345 1011 302"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT641"
+                    BASELINE="1006 339 1486 330" 
+                    HPOS="1000"
+                    VPOS="283"
+                    WIDTH="486"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1006 339 1000 289 1477 283 1486 330 1486 339 1006 347"/></Shape>
+	    <String CONTENT="DE BIEN TRADVIRE."
+                    HPOS="1000"
+                    VPOS="283"
+                    WIDTH="486"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1685"
+                   VPOS="277"
+                   WIDTH="77"
+                   HEIGHT="63"
+                   ID="eSc_textblock_3458fc19"
+                   TAGREFS="BT1861">
+          <Shape><Polygon POINTS="1693 277 1759 280 1762 340 1685 340"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT641"
+                    BASELINE="1701 326 1751 327" 
+                    HPOS="1699"
+                    VPOS="282"
+                    WIDTH="50"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1701 283 1699 324 1699 338 1749 344 1749 324 1746 284 1728 282"/></Shape>
+	    <String CONTENT="19"
+                    HPOS="1699"
+                    VPOS="282"
+                    WIDTH="50"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="726"
+                   VPOS="367"
+                   WIDTH="1068"
+                   HEIGHT="1027"
+                   ID="eSc_textblock_8d474ae1"
+                   TAGREFS="BT1858">
+          <Shape><Polygon POINTS="726 377 743 1394 1794 1390 1774 367"/></Shape>
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT641"
+                    BASELINE="740 423 1761 415" 
+                    HPOS="734"
+                    VPOS="365"
+                    WIDTH="1027"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="740 423 734 377 1752 365 1761 415 1758 432 740 441"/></Shape>
+	    <String CONTENT="tene. Entre les latins, Marc Tulle Ciceron a esté grand"
+                    HPOS="734"
+                    VPOS="365"
+                    WIDTH="1027"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT641"
+                    BASELINE="743 488 1764 476" 
+                    HPOS="737"
+                    VPOS="429"
+                    WIDTH="1027"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="743 488 737 441 1755 429 1764 476 1761 491 743 502"/></Shape>
+	    <String CONTENT="obserauateur des nombres. Mais ne pense pas que cela"
+                    HPOS="737"
+                    VPOS="429"
+                    WIDTH="1027"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT641"
+                    BASELINE="737 546 1767 532" 
+                    HPOS="731"
+                    VPOS="491"
+                    WIDTH="1036"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="737 546 731 505 1758 491 1767 532 1764 549 737 564"/></Shape>
+	    <String CONTENT="se doibue plus obseruer par les orateurs que par les"
+                    HPOS="731"
+                    VPOS="491"
+                    WIDTH="1036"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT641"
+                    BASELINE="740 610 1767 593" 
+                    HPOS="731"
+                    VPOS="549"
+                    WIDTH="1036"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="740 610 731 552 1758 549 1767 593 1767 605 740 622"/></Shape>
+	    <String CONTENT="historiographes. Et qu&#39;ainsi soit, tu ne trouueras"
+                    HPOS="731"
+                    VPOS="549"
+                    WIDTH="1036"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT641"
+                    BASELINE="743 666 1764 654" 
+                    HPOS="737"
+                    VPOS="613"
+                    WIDTH="1027"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="743 666 737 625 1755 613 1764 654 1761 672 743 684"/></Shape>
+	    <String CONTENT="Cæsar et Salluste moins nombreux que Ciceron. Con¬"
+                    HPOS="737"
+                    VPOS="613"
+                    WIDTH="1027"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT641"
+                    BASELINE="746 730 1767 719" 
+                    HPOS="740"
+                    VPOS="675"
+                    WIDTH="1027"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="746 730 740 686 1758 675 1767 719 1764 739 746 745"/></Shape>
+	    <String CONTENT="clusion quant à ce propos, sans grande obseruation"
+                    HPOS="740"
+                    VPOS="675"
+                    WIDTH="1027"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT641"
+                    BASELINE="743 792 1769 780" 
+                    HPOS="734"
+                    VPOS="730"
+                    WIDTH="1035"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="743 792 734 745 1761 730 1769 780 1767 798 743 809"/></Shape>
+	    <String CONTENT="des nombres vn autheur n’est rien: et auec yceulx il"
+                    HPOS="734"
+                    VPOS="730"
+                    WIDTH="1035"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT641"
+                    BASELINE="746 856 1767 838" 
+                    HPOS="740"
+                    VPOS="795"
+                    WIDTH="1027"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="746 856 740 815 912 795 915 795 1761 798 1767 838 1764 856 746 874"/></Shape>
+	    <String CONTENT="ne peult faillir à auoir bruict en eloquence si pareil¬"
+                    HPOS="740"
+                    VPOS="795"
+                    WIDTH="1027"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT641"
+                    BASELINE="746 917 1769 906" 
+                    HPOS="740"
+                    VPOS="862"
+                    WIDTH="1029"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="746 917 740 871 1761 862 1769 906 1767 920 746 932"/></Shape>
+	    <String CONTENT="lement il est propre en diction, et graue en sentences:"
+                    HPOS="740"
+                    VPOS="862"
+                    WIDTH="1029"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT641"
+                    BASELINE="746 979 1769 964" 
+                    HPOS="737"
+                    VPOS="917"
+                    WIDTH="1032"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="746 979 737 932 1761 917 1769 964 1767 982 746 996"/></Shape>
+	    <String CONTENT="et en arguments subtil. Qui sont les poincts d&#39;vn ora¬"
+                    HPOS="737"
+                    VPOS="917"
+                    WIDTH="1032"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT641"
+                    BASELINE="746 1040 1772 1023" 
+                    HPOS="737"
+                    VPOS="979"
+                    WIDTH="1035"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="746 1040 737 996 1764 979 1772 1023 1769 1043 746 1061"/></Shape>
+	    <String CONTENT="teur parfaict, et vrayment comblé de toute gloire d’e¬"
+                    HPOS="737"
+                    VPOS="979"
+                    WIDTH="1035"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT641"
+                    BASELINE="746 1096 944 1102" 
+                    HPOS="743"
+                    VPOS="1052"
+                    WIDTH="201"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="746 1096 746 1052 942 1061 944 1102 942 1119 743 1119"/></Shape>
+	    <String CONTENT="loquence."
+                    HPOS="743"
+                    VPOS="1052"
+                    WIDTH="201"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT641"
+                    BASELINE="1214 1347 1313 1347" 
+                    HPOS="1214"
+                    VPOS="1292"
+                    WIDTH="99"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1214 1347 1214 1292 1313 1292 1313 1347 1313 1371 1214 1371"/></Shape>
+	    <String CONTENT="FIN."
+                    HPOS="1214"
+                    VPOS="1292"
+                    WIDTH="99"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

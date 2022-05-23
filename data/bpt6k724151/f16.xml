@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f16.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1855" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1866" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1865" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1864" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT1863" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1862" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1861" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1860" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT1859" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1858" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1857" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1856" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+    <OtherTag ID="LT641" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT642" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT643" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT644" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT645" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2592"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2592"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="748"
+                   VPOS="339"
+                   WIDTH="67"
+                   HEIGHT="67"
+                   ID="block_0"
+                   TAGREFS="BT1861">
+          <Shape><Polygon POINTS="748 406 748 339 815 339 815 406"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT641"
+                    BASELINE="740 397 807 397" 
+                    HPOS="740"
+                    VPOS="336"
+                    WIDTH="67"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="740 397 740 336 807 336 807 397 807 409 740 412"/></Shape>
+	    <String CONTENT="14"
+                    HPOS="740"
+                    VPOS="336"
+                    WIDTH="67"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1088"
+                   VPOS="339"
+                   WIDTH="320"
+                   HEIGHT="67"
+                   ID="eSc_textblock_b1ef7b3d"
+                   TAGREFS="BT1863">
+          <Shape><Polygon POINTS="1088 350 1123 339 1386 339 1408 406 1094 406"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT641"
+                    BASELINE="1097 391 1395 382" 
+                    HPOS="1091"
+                    VPOS="339"
+                    WIDTH="304"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1097 391 1091 347 1377 339 1395 382 1395 397 1097 403"/></Shape>
+	    <String CONTENT="LA MANIERE"
+                    HPOS="1091"
+                    VPOS="339"
+                    WIDTH="304"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="737"
+                   VPOS="410"
+                   WIDTH="1055"
+                   HEIGHT="1451"
+                   ID="eSc_textblock_2e510401"
+                   TAGREFS="BT1858">
+          <Shape><Polygon POINTS="737 426 737 1861 1792 1861 1792 410"/></Shape>
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT641"
+                    BASELINE="734 482 1761 470" 
+                    HPOS="725"
+                    VPOS="423"
+                    WIDTH="1036"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="734 482 725 435 1752 423 1761 470 1758 485 734 496"/></Shape>
+	    <String CONTENT="» animam, et efflare dicimus : et animosos, et bene"
+                    HPOS="725"
+                    VPOS="423"
+                    WIDTH="1036"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT641"
+                    BASELINE="734 543 1764 534" 
+                    HPOS="728"
+                    VPOS="491"
+                    WIDTH="1036"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="734 543 728 499 1755 491 1764 534 1761 549 734 558"/></Shape>
+	    <String CONTENT="» animatos : et ex animi sententia. Ipse autem animus"
+                    HPOS="728"
+                    VPOS="491"
+                    WIDTH="1036"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT641"
+                    BASELINE="734 605 1196 596" 
+                    HPOS="728"
+                    VPOS="546"
+                    WIDTH="468"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="734 605 728 564 880 546 883 546 1190 555 1196 596 1196 608 734 616"/></Shape>
+	    <String CONTENT="» ab anima dictus est. »"
+                    HPOS="728"
+                    VPOS="546"
+                    WIDTH="468"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT641"
+                    BASELINE="781 666 1767 654" 
+                    HPOS="775"
+                    VPOS="610"
+                    WIDTH="992"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="781 666 775 622 1758 610 1767 654 1764 669 781 681"/></Shape>
+	    <String CONTENT="Traduisant cest oeuure de Ciceron, i’ay parlé"
+                    HPOS="775"
+                    VPOS="610"
+                    WIDTH="992"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT641"
+                    BASELINE="734 724 1767 716" 
+                    HPOS="728"
+                    VPOS="672"
+                    WIDTH="1039"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="734 724 728 681 1758 672 1767 716 1764 733 734 742"/></Shape>
+	    <String CONTENT="comme il s’ensuyt. « Quant à la difference (dy ie) de"
+                    HPOS="728"
+                    VPOS="672"
+                    WIDTH="1039"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT641"
+                    BASELINE="734 792 1764 774" 
+                    HPOS="728"
+                    VPOS="730"
+                    WIDTH="1036"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="734 792 728 748 898 730 901 730 1758 730 1764 774 1761 792 734 806"/></Shape>
+	    <String CONTENT="ces dictions animus et anima, il ne s&#39;y fault point"
+                    HPOS="728"
+                    VPOS="730"
+                    WIDTH="1036"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT641"
+                    BASELINE="734 853 1767 838" 
+                    HPOS="728"
+                    VPOS="795"
+                    WIDTH="1039"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="734 853 728 809 1758 795 1767 838 1764 853 734 868"/></Shape>
+	    <String CONTENT="arrester : car les facons de parler Latines, qui sont"
+                    HPOS="728"
+                    VPOS="795"
+                    WIDTH="1039"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT641"
+                    BASELINE="734 915 1767 897" 
+                    HPOS="728"
+                    VPOS="856"
+                    WIDTH="1039"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="734 915 728 874 1758 856 1767 897 1764 915 734 932"/></Shape>
+	    <String CONTENT="deduictes de ces deux mots, nous donnent à entendre"
+                    HPOS="728"
+                    VPOS="856"
+                    WIDTH="1039"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT641"
+                    BASELINE="737 976 1767 964" 
+                    HPOS="731"
+                    VPOS="920"
+                    WIDTH="1036"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="737 976 731 932 1758 920 1767 964 1764 979 737 991"/></Shape>
+	    <String CONTENT="qu’ilz signifient presque vne mesme chose. Et est cer¬"
+                    HPOS="731"
+                    VPOS="920"
+                    WIDTH="1036"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT641"
+                    BASELINE="734 1040 1769 1026" 
+                    HPOS="728"
+                    VPOS="976"
+                    WIDTH="1041"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="734 1040 728 996 1140 976 1143 976 1764 982 1769 1026 1767 1040 734 1055"/></Shape>
+	    <String CONTENT="tain que animus est dict de anima, et que anima est"
+                    HPOS="728"
+                    VPOS="976"
+                    WIDTH="1041"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT641"
+                    BASELINE="734 1102 1769 1084" 
+                    HPOS="728"
+                    VPOS="1040"
+                    WIDTH="1041"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="734 1102 728 1058 1761 1040 1769 1084 1769 1096 734 1110"/></Shape>
+	    <String CONTENT="l’organe de animus, comme si tu voulois dire la"
+                    HPOS="728"
+                    VPOS="1040"
+                    WIDTH="1041"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT641"
+                    BASELINE="740 1163 1767 1145" 
+                    HPOS="734"
+                    VPOS="1099"
+                    WIDTH="1033"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="740 1163 734 1116 1758 1099 1767 1145 1764 1160 740 1178"/></Shape>
+	    <String CONTENT="vertu, et instrumens vitaulx estre origine de l’esperit:"
+                    HPOS="734"
+                    VPOS="1099"
+                    WIDTH="1033"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT641"
+                    BASELINE="734 1227 1767 1207" 
+                    HPOS="728"
+                    VPOS="1160"
+                    WIDTH="1039"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="734 1227 728 1181 1758 1160 1767 1207 1764 1219 734 1239"/></Shape>
+	    <String CONTENT="et icelluy esperit estre vn effect de ladicte vertu vi¬"
+                    HPOS="728"
+                    VPOS="1160"
+                    WIDTH="1039"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT641"
+                    BASELINE="734 1286 1767 1268" 
+                    HPOS="728"
+                    VPOS="1221"
+                    WIDTH="1039"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="734 1286 728 1239 1758 1221 1767 1268 1764 1283 734 1300"/></Shape>
+	    <String CONTENT="tale. Dy moy, toy qui entends Latin, estoit il possi¬"
+                    HPOS="728"
+                    VPOS="1221"
+                    WIDTH="1039"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT641"
+                    BASELINE="737 1350 1769 1330" 
+                    HPOS="731"
+                    VPOS="1283"
+                    WIDTH="1038"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="737 1350 731 1300 1761 1283 1769 1330 1767 1341 737 1362"/></Shape>
+	    <String CONTENT="ble de bien traduire ce passage sans vne grande in¬"
+                    HPOS="731"
+                    VPOS="1283"
+                    WIDTH="1038"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT641"
+                    BASELINE="737 1411 1769 1388" 
+                    HPOS="731"
+                    VPOS="1341"
+                    WIDTH="1038"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="737 1411 731 1365 1761 1341 1769 1388 1769 1397 737 1423"/></Shape>
+	    <String CONTENT="telligence de Ciceron? Or saiche donques qu&#39;il est"
+                    HPOS="731"
+                    VPOS="1341"
+                    WIDTH="1038"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT641"
+                    BASELINE="737 1470 1772 1452" 
+                    HPOS="731"
+                    VPOS="1406"
+                    WIDTH="1041"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="737 1470 731 1420 1764 1406 1772 1452 1772 1464 737 1485"/></Shape>
+	    <String CONTENT="besoing et necessaire à tout traducteur d’entendre"
+                    HPOS="731"
+                    VPOS="1406"
+                    WIDTH="1041"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19"
+                    TAGREFS="LT641"
+                    BASELINE="737 1534 1769 1514" 
+                    HPOS="731"
+                    VPOS="1464"
+                    WIDTH="1038"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="737 1534 731 1485 1761 1464 1769 1514 1767 1525 737 1555"/></Shape>
+	    <String CONTENT="parfaictement le sens de l’autheur, qu’il tourne d’vne"
+                    HPOS="731"
+                    VPOS="1464"
+                    WIDTH="1038"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20"
+                    TAGREFS="LT641"
+                    BASELINE="740 1596 1769 1575" 
+                    HPOS="734"
+                    VPOS="1528"
+                    WIDTH="1035"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="740 1596 734 1543 1761 1528 1769 1575 1767 1587 740 1613"/></Shape>
+	    <String CONTENT="langue en autre. Et sans cela, il ne peut traduire"
+                    HPOS="734"
+                    VPOS="1528"
+                    WIDTH="1035"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21"
+                    TAGREFS="LT641"
+                    BASELINE="740 1657 1222 1642" 
+                    HPOS="734"
+                    VPOS="1596"
+                    WIDTH="488"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="740 1657 734 1610 1214 1596 1222 1642 1219 1657 740 1675"/></Shape>
+	    <String CONTENT="seurement et fidelement."
+                    HPOS="734"
+                    VPOS="1596"
+                    WIDTH="488"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22"
+                    TAGREFS="LT641"
+                    BASELINE="792 1718 1767 1695" 
+                    HPOS="786"
+                    VPOS="1634"
+                    WIDTH="981"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="792 1718 786 1669 1395 1639 1398 1639 1635 1648 1638 1648 1667 1634 1670 1634 1673 1634 1761 1648 1767 1695 1767 1710 792 1730"/></Shape>
+	    <String CONTENT="La seconde chose qui est requise en traduction,"
+                    HPOS="786"
+                    VPOS="1634"
+                    WIDTH="981"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_23"
+                    TAGREFS="LT641"
+                    BASELINE="743 1777 1767 1754" 
+                    HPOS="737"
+                    VPOS="1710"
+                    WIDTH="1030"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="743 1777 737 1733 1758 1710 1767 1754 1767 1768 743 1789"/></Shape>
+	    <String CONTENT="c&#39;est que le traducteur ait parfaicte congnoissance de"
+                    HPOS="737"
+                    VPOS="1710"
+                    WIDTH="1030"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24"
+                    TAGREFS="LT641"
+                    BASELINE="746 1844 1769 1818" 
+                    HPOS="740"
+                    VPOS="1768"
+                    WIDTH="1029"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="746 1844 740 1792 1761 1768 1769 1818 1769 1830 746 1859"/></Shape>
+	    <String CONTENT="la langue de l&#39;autheur qu’il traduict: et soit pareille¬"
+                    HPOS="740"
+                    VPOS="1768"
+                    WIDTH="1029"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

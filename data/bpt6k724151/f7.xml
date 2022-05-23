@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f7.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1855" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1866" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1865" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1864" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT1863" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1862" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1861" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1860" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT1859" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1858" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1857" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1856" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+    <OtherTag ID="LT641" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT642" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT643" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT644" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT645" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2592"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2592"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="684"
+                   VPOS="281"
+                   WIDTH="1299"
+                   HEIGHT="1746"
+                   ID="eSc_textblock_f50d112c"
+                   TAGREFS="BT1858">
+          <Shape><Polygon POINTS="684 281 684 2027 1983 2027 1983 281"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT643"
+                    BASELINE="924 727 1641 733" 
+                    HPOS="918"
+                    VPOS="651"
+                    WIDTH="723"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="924 727 921 663 1568 651 1570 651 1641 669 1641 733 1635 745 918 739"/></Shape>
+	    <String CONTENT="ESTIENNE DOLET,"
+                    HPOS="918"
+                    VPOS="651"
+                    WIDTH="723"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT643"
+                    BASELINE="988 827 1582 821" 
+                    HPOS="982"
+                    VPOS="780"
+                    WIDTH="600"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="988 827 982 786 1573 780 1582 821 1579 838 988 844"/></Shape>
+	    <String CONTENT="A MON SEIGNEVR DE LANGEI,"
+                    HPOS="982"
+                    VPOS="780"
+                    WIDTH="600"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT641"
+                    BASELINE="813 915 1749 909" 
+                    HPOS="807"
+                    VPOS="871"
+                    WIDTH="942"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="813 915 807 877 1740 871 1749 909 1749 923 813 929"/></Shape>
+	    <String CONTENT="Humble salut et recognoissance de sa liberalité enuers luy."
+                    HPOS="807"
+                    VPOS="871"
+                    WIDTH="942"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26ae7abe"
+                    TAGREFS="LT642"
+                    BASELINE="770 1302 992 1292" 
+                    HPOS="751"
+                    VPOS="1075"
+                    WIDTH="240"
+                    HEIGHT="231">
+            <Shape><Polygon POINTS="769 1300 751 1090 974 1075 991 1289 991 1297 769 1306"/></Shape>
+	    <String CONTENT="I"
+                    HPOS="751"
+                    VPOS="1075"
+                    WIDTH="240"
+                    HEIGHT="231"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT641"
+                    BASELINE="1003 1176 1799 1151" 
+                    HPOS="994"
+                    VPOS="1105"
+                    WIDTH="802"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1000 1175 994 1119 1787 1105 1796 1148 1796 1157 1000 1183"/></Shape>
+	    <String CONTENT="E n&#39;ignore pas (seigneur par gloire im¬"
+                    HPOS="994"
+                    VPOS="1105"
+                    WIDTH="802"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT641"
+                    BASELINE="1003 1221 1802 1213" 
+                    HPOS="994"
+                    VPOS="1169"
+                    WIDTH="805"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1000 1219 994 1172 1790 1169 1799 1210 1799 1224 1000 1233"/></Shape>
+	    <String CONTENT="mortel) que plusieurs ne s&#39;esbaissent gran¬"
+                    HPOS="994"
+                    VPOS="1169"
+                    WIDTH="805"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT641"
+                    BASELINE="1003 1287 1805 1274" 
+                    HPOS="991"
+                    VPOS="1230"
+                    WIDTH="811"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1000 1286 991 1236 1793 1230 1802 1271 1802 1289 1000 1300"/></Shape>
+	    <String CONTENT="dement de veoir sortir de moy ce present"
+                    HPOS="991"
+                    VPOS="1230"
+                    WIDTH="811"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT641"
+                    BASELINE="772 1341 1802 1335" 
+                    HPOS="763"
+                    VPOS="1292"
+                    WIDTH="1039"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="772 1341 763 1297 1793 1292 1802 1335 1799 1350 772 1356"/></Shape>
+	    <String CONTENT="Oeuure : attendu que par le passé i&#39;ay faict et fais"
+                    HPOS="763"
+                    VPOS="1292"
+                    WIDTH="1039"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT641"
+                    BASELINE="772 1406 1796 1394" 
+                    HPOS="766"
+                    VPOS="1350"
+                    WIDTH="1030"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="772 1406 766 1362 1787 1350 1796 1394 1793 1409 772 1420"/></Shape>
+	    <String CONTENT="encores maintenant profession totalle de la langue La¬"
+                    HPOS="766"
+                    VPOS="1350"
+                    WIDTH="1030"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT641"
+                    BASELINE="772 1467 1802 1455" 
+                    HPOS="766"
+                    VPOS="1411"
+                    WIDTH="1036"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="772 1467 766 1423 1793 1411 1802 1455 1799 1467 772 1479"/></Shape>
+	    <String CONTENT="tine. Mais à cecy ie donne deux raisons : l&#39;vne, que"
+                    HPOS="766"
+                    VPOS="1411"
+                    WIDTH="1036"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT641"
+                    BASELINE="772 1525 1802 1517" 
+                    HPOS="766"
+                    VPOS="1473"
+                    WIDTH="1036"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="772 1525 766 1482 1793 1473 1802 1517 1799 1531 772 1540"/></Shape>
+	    <String CONTENT="mon affection est telle enuers l&#39;honneur de mon païs"
+                    HPOS="766"
+                    VPOS="1473"
+                    WIDTH="1036"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT641"
+                    BASELINE="775 1587 1805 1575" 
+                    HPOS="769"
+                    VPOS="1531"
+                    WIDTH="1036"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="775 1587 769 1543 1796 1531 1805 1575 1802 1590 775 1601"/></Shape>
+	    <String CONTENT="que ie veux trouver tout moyen de l&#39;illustrer. Et ne"
+                    HPOS="769"
+                    VPOS="1531"
+                    WIDTH="1036"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT641"
+                    BASELINE="772 1648 1805 1637" 
+                    HPOS="766"
+                    VPOS="1593"
+                    WIDTH="1039"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="772 1648 766 1601 1796 1593 1805 1637 1802 1651 772 1663"/></Shape>
+	    <String CONTENT="le puis myeulx faire que de celebrer sa langue, comme"
+                    HPOS="766"
+                    VPOS="1593"
+                    WIDTH="1039"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT641"
+                    BASELINE="775 1707 1805 1698" 
+                    HPOS="769"
+                    VPOS="1654"
+                    WIDTH="1036"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="775 1707 769 1663 1787 1654 1805 1698 1802 1713 775 1721"/></Shape>
+	    <String CONTENT="ont faict Grecs et Rommains la leur. L&#39;autre raison"
+                    HPOS="769"
+                    VPOS="1654"
+                    WIDTH="1036"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT641"
+                    BASELINE="775 1768 1802 1759" 
+                    HPOS="769"
+                    VPOS="1715"
+                    WIDTH="1033"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="775 1768 769 1724 1793 1715 1802 1759 1799 1774 775 1783"/></Shape>
+	    <String CONTENT="est, que non sans exemple de plusieurs ie m&#39;addonne"
+                    HPOS="769"
+                    VPOS="1715"
+                    WIDTH="1033"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT641"
+                    BASELINE="772 1827 1802 1818" 
+                    HPOS="766"
+                    VPOS="1777"
+                    WIDTH="1036"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="772 1827 766 1786 1793 1777 1802 1818 1802 1832 772 1841"/></Shape>
+	    <String CONTENT="à ceste exercitation. Quand aux antiques tant Grecs"
+                    HPOS="766"
+                    VPOS="1777"
+                    WIDTH="1036"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT641"
+                    BASELINE="781 1888 1799 1876" 
+                    HPOS="775"
+                    VPOS="1832"
+                    WIDTH="1024"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="781 1888 775 1844 1790 1832 1799 1876 1796 1897 781 1908"/></Shape>
+	    <String CONTENT="que Latins, ilz n&#39;ont prins aultre instrument de leur"
+                    HPOS="775"
+                    VPOS="1832"
+                    WIDTH="1024"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="806"
+                   VPOS="423"
+                   WIDTH="987"
+                   HEIGHT="163"
+                   ID="eSc_textblock_fe9b464f"
+                   TAGREFS="BT1857">
+          <Shape><Polygon POINTS="806 423 806 586 1793 586 1793 423"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="780"
+                   VPOS="1094"
+                   WIDTH="212"
+                   HEIGHT="205"
+                   ID="eSc_textblock_1899985b"
+                   TAGREFS="BT1856">
+          <Shape><Polygon POINTS="780 1094 780 1299 992 1299 992 1094"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
