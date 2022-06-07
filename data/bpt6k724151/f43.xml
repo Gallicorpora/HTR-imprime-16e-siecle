@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f43.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1855" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1866" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1865" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1864" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT1863" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1862" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1861" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1860" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT1859" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1858" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1857" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1856" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+    <OtherTag ID="LT641" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT642" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT643" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT644" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT645" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2592"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2592"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="901"
+                   VPOS="163"
+                   WIDTH="671"
+                   HEIGHT="61"
+                   ID="block_0"
+                   TAGREFS="BT1863">
+          <Shape><Polygon POINTS="1550 163 1572 183 1572 224 915 224 901 175 1029 163"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT643"
+                    BASELINE="903 213 1556 213" 
+                    HPOS="903"
+                    VPOS="160"
+                    WIDTH="653"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="903 213 903 160 1556 166 1556 213 1556 228 903 228"/></Shape>
+	    <String CONTENT="DE LA LANGVE FRANCOYSE."
+                    HPOS="903"
+                    VPOS="160"
+                    WIDTH="653"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1656"
+                   VPOS="158"
+                   WIDTH="93"
+                   HEIGHT="66"
+                   ID="eSc_textblock_cac12aaf"
+                   TAGREFS="BT1861">
+          <Shape><Polygon POINTS="1692 158 1749 175 1749 224 1656 224 1658 173"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT641"
+                    BASELINE="1658 207 1731 213" 
+                    HPOS="1652"
+                    VPOS="157"
+                    WIDTH="79"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1658 207 1658 157 1731 157 1731 213 1726 222 1652 216"/></Shape>
+	    <String CONTENT="41"
+                    HPOS="1652"
+                    VPOS="157"
+                    WIDTH="79"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="709"
+                   VPOS="258"
+                   WIDTH="1054"
+                   HEIGHT="1400"
+                   ID="eSc_textblock_3c8b66fb"
+                   TAGREFS="BT1858">
+          <Shape><Polygon POINTS="713 259 709 1653 1760 1658 1763 258"/></Shape>
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT641"
+                    BASELINE="769 292 1743 298" 
+                    HPOS="766"
+                    VPOS="245"
+                    WIDTH="977"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="769 292 769 245 1740 251 1743 298 1740 312 766 312"/></Shape>
+	    <String CONTENT="Exemple de si: S&#39;il estoit possible, ie vouldrois"
+                    HPOS="766"
+                    VPOS="245"
+                    WIDTH="977"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT641"
+                    BASELINE="719 362 1743 356" 
+                    HPOS="713"
+                    VPOS="309"
+                    WIDTH="1030"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="719 362 713 312 1734 309 1743 356 1740 371 719 377"/></Shape>
+	    <String CONTENT="bien faire cela. Pour si il estoit possible: Toutesfoys"
+                    HPOS="713"
+                    VPOS="309"
+                    WIDTH="1030"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT641"
+                    BASELINE="719 420 1743 420" 
+                    HPOS="719"
+                    VPOS="374"
+                    WIDTH="1024"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="719 420 719 374 1743 374 1743 420 1743 432 719 444"/></Shape>
+	    <String CONTENT="tu ne verras gueres qu’il recoipue apostrophe auec"
+                    HPOS="719"
+                    VPOS="374"
+                    WIDTH="1024"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT641"
+                    BASELINE="722 482 1746 482" 
+                    HPOS="722"
+                    VPOS="435"
+                    WIDTH="1024"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="722 482 722 435 1746 435 1746 482 1746 499 722 499"/></Shape>
+	    <String CONTENT="autre mot que ce mot il. Exemple de toutes autres"
+                    HPOS="722"
+                    VPOS="435"
+                    WIDTH="1024"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT641"
+                    BASELINE="725 543 1743 543" 
+                    HPOS="725"
+                    VPOS="496"
+                    WIDTH="1018"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="725 543 725 496 1743 499 1743 543 1743 558 725 564"/></Shape>
+	    <String CONTENT="voyelles. De la voyelle a: Si audace estoit prisée,"
+                    HPOS="725"
+                    VPOS="496"
+                    WIDTH="1018"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT641"
+                    BASELINE="719 605 1743 605" 
+                    HPOS="719"
+                    VPOS="558"
+                    WIDTH="1024"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="719 605 719 558 1743 558 1743 605 1743 619 719 619"/></Shape>
+	    <String CONTENT="chascun seroit audacieux. De la voyelle e: Si elo¬"
+                    HPOS="719"
+                    VPOS="558"
+                    WIDTH="1024"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT641"
+                    BASELINE="722 660 1746 666" 
+                    HPOS="716"
+                    VPOS="613"
+                    WIDTH="1030"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="722 660 722 613 1743 619 1746 666 1740 678 716 675"/></Shape>
+	    <String CONTENT="quence est en luy grande, ce n’est de merueille; car"
+                    HPOS="716"
+                    VPOS="613"
+                    WIDTH="1030"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT641"
+                    BASELINE="716 727 1746 722" 
+                    HPOS="707"
+                    VPOS="675"
+                    WIDTH="1039"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="716 727 707 681 1737 675 1746 722 1743 736 716 742"/></Shape>
+	    <String CONTENT="il a vn esperit merueilleux, et puis il estudie conti¬"
+                    HPOS="707"
+                    VPOS="675"
+                    WIDTH="1039"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT641"
+                    BASELINE="722 789 1746 783" 
+                    HPOS="716"
+                    VPOS="736"
+                    WIDTH="1030"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="722 789 716 742 1737 736 1746 783 1743 800 722 803"/></Shape>
+	    <String CONTENT="nuellement en Ciceron. De la voyelle i: Si ignorance"
+                    HPOS="716"
+                    VPOS="736"
+                    WIDTH="1030"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT641"
+                    BASELINE="722 850 1746 850" 
+                    HPOS="719"
+                    VPOS="803"
+                    WIDTH="1027"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="722 850 722 803 1746 803 1746 850 1743 865 719 862"/></Shape>
+	    <String CONTENT="vient à regner, tout est perdu. De la voyelle o: Si"
+                    HPOS="719"
+                    VPOS="803"
+                    WIDTH="1027"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT641"
+                    BASELINE="722 912 1696 912" 
+                    HPOS="722"
+                    VPOS="865"
+                    WIDTH="974"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="722 912 722 865 1696 865 1696 912 1696 929 722 929"/></Shape>
+	    <String CONTENT="orgueil est en vn homme, ie ne le puis frequenter."
+                    HPOS="722"
+                    VPOS="865"
+                    WIDTH="974"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT641"
+                    BASELINE="769 973 1746 967" 
+                    HPOS="763"
+                    VPOS="923"
+                    WIDTH="983"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="769 973 763 926 1737 923 1746 967 1743 982 769 988"/></Shape>
+	    <String CONTENT="De la voyelle u: Si vn homme diligent peult par¬"
+                    HPOS="763"
+                    VPOS="923"
+                    WIDTH="983"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT641"
+                    BASELINE="722 1026 1746 1031" 
+                    HPOS="716"
+                    VPOS="982"
+                    WIDTH="1030"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="722 1026 722 982 1743 988 1746 1031 1740 1052 716 1037"/></Shape>
+	    <String CONTENT="uenir à richesses, i’espere quelque iour estre riche."
+                    HPOS="716"
+                    VPOS="982"
+                    WIDTH="1030"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT641"
+                    BASELINE="722 1096 1740 1090" 
+                    HPOS="716"
+                    VPOS="1043"
+                    WIDTH="1024"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="722 1096 716 1046 1731 1043 1740 1090 1737 1110 722 1110"/></Shape>
+	    <String CONTENT="En tous ces exemples, ie confesse que l’apostrophe y"
+                    HPOS="716"
+                    VPOS="1043"
+                    WIDTH="1024"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT641"
+                    BASELINE="722 1157 1746 1157" 
+                    HPOS="722"
+                    VPOS="1107"
+                    WIDTH="1024"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="722 1157 722 1107 1746 1107 1746 1157 1746 1169 722 1175"/></Shape>
+	    <String CONTENT="peult escheoir: mais auec apostrophe le parler sera"
+                    HPOS="722"
+                    VPOS="1107"
+                    WIDTH="1024"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT641"
+                    BASELINE="722 1219 1746 1213" 
+                    HPOS="716"
+                    VPOS="1166"
+                    WIDTH="1030"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="722 1219 716 1172 1737 1166 1746 1213 1743 1224 722 1239"/></Shape>
+	    <String CONTENT="plus rude que sans apostrophe: ce que peult facile¬"
+                    HPOS="716"
+                    VPOS="1166"
+                    WIDTH="1030"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT641"
+                    BASELINE="722 1277 1749 1271" 
+                    HPOS="716"
+                    VPOS="1227"
+                    WIDTH="1033"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="722 1277 716 1233 1740 1227 1749 1271 1746 1286 722 1292"/></Shape>
+	    <String CONTENT="ment iuger vn homme d’oreilles delicates, i&#39;excepte"
+                    HPOS="716"
+                    VPOS="1227"
+                    WIDTH="1033"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19"
+                    TAGREFS="LT641"
+                    BASELINE="725 1338 1746 1333" 
+                    HPOS="719"
+                    VPOS="1286"
+                    WIDTH="1027"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="725 1338 719 1292 1737 1286 1746 1333 1743 1344 725 1350"/></Shape>
+	    <String CONTENT="tousiours les licences poetiques et les laisse en leur"
+                    HPOS="719"
+                    VPOS="1286"
+                    WIDTH="1027"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20"
+                    TAGREFS="LT641"
+                    BASELINE="722 1400 1749 1400" 
+                    HPOS="722"
+                    VPOS="1353"
+                    WIDTH="1027"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="722 1400 722 1353 1749 1353 1749 1400 1749 1411 722 1411"/></Shape>
+	    <String CONTENT="entier. Car vn poete pourra dire (à cause de sa ry¬"
+                    HPOS="722"
+                    VPOS="1353"
+                    WIDTH="1027"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21"
+                    TAGREFS="LT641"
+                    BASELINE="725 1455 1749 1461" 
+                    HPOS="719"
+                    VPOS="1409"
+                    WIDTH="1030"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="725 1455 725 1409 1746 1409 1749 1461 1743 1473 719 1467"/></Shape>
+	    <String CONTENT="thme) s’audace, s’eloquence, s’ignorance, s&#39;orgueil"
+                    HPOS="719"
+                    VPOS="1409"
+                    WIDTH="1030"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22"
+                    TAGREFS="LT641"
+                    BASELINE="722 1520 1035 1511" 
+                    HPOS="713"
+                    VPOS="1467"
+                    WIDTH="322"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="722 1520 713 1476 1026 1467 1035 1511 1032 1525 722 1534"/></Shape>
+	    <String CONTENT="s&#39;vn homme."
+                    HPOS="713"
+                    VPOS="1467"
+                    WIDTH="322"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_23"
+                    TAGREFS="LT641"
+                    BASELINE="775 1575 1752 1581" 
+                    HPOS="769"
+                    VPOS="1525"
+                    WIDTH="983"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="775 1575 775 1525 1749 1531 1752 1581 1746 1593 769 1587"/></Shape>
+	    <String CONTENT="D&#39;aduantage il te conuient scauoir que ceste parti¬"
+                    HPOS="769"
+                    VPOS="1525"
+                    WIDTH="983"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24"
+                    TAGREFS="LT641"
+                    BASELINE="725 1637 1749 1642" 
+                    HPOS="719"
+                    VPOS="1590"
+                    WIDTH="1030"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="725 1637 725 1590 1746 1596 1749 1642 1743 1657 719 1654"/></Shape>
+	    <String CONTENT="cule si est aulcunes foys conditionnale ou demonstra¬"
+                    HPOS="719"
+                    VPOS="1590"
+                    WIDTH="1030"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1541"
+                   VPOS="1667"
+                   WIDTH="74"
+                   HEIGHT="66"
+                   ID="eSc_textblock_c6d9f2d1"
+                   TAGREFS="BT1861">
+          <Shape><Polygon POINTS="1615 1733 1608 1667 1546 1669 1541 1732"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_6dd0912b"
+                    TAGREFS="LT641"
+                    BASELINE="1552 1721 1604 1717" 
+                    HPOS="1535"
+                    VPOS="1642"
+                    WIDTH="68"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1550 1718 1535 1663 1565 1642 1568 1642 1568 1642 1568 1642 1570 1642 1570 1642 1570 1642 1573 1642 1573 1642 1576 1642 1576 1642 1576 1642 1600 1654 1603 1715 1603 1727 1550 1727"/></Shape>
+	    <String CONTENT="4"
+                    HPOS="1535"
+                    VPOS="1642"
+                    WIDTH="68"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f40.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1855" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1866" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1865" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1864" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT1863" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1862" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1861" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1860" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT1859" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1858" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1857" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1856" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+    <OtherTag ID="LT641" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT642" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT643" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT644" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT645" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2592"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2592"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="747"
+                   VPOS="198"
+                   WIDTH="85"
+                   HEIGHT="66"
+                   ID="block_2"
+                   TAGREFS="BT1861">
+          <Shape><Polygon POINTS="827 198 832 261 747 264 748 198"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT641"
+                    BASELINE="746 254 819 254" 
+                    HPOS="746"
+                    VPOS="190"
+                    WIDTH="73"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="746 254 746 190 819 190 819 254 819 271 746 271"/></Shape>
+	    <String CONTENT="38"
+                    HPOS="746"
+                    VPOS="190"
+                    WIDTH="73"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1109"
+                   VPOS="198"
+                   WIDTH="312"
+                   HEIGHT="58"
+                   ID="block_0"
+                   TAGREFS="BT1863">
+          <Shape><Polygon POINTS="1410 198 1421 254 1109 256 1111 208"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT643"
+                    BASELINE="1113 245 1415 239" 
+                    HPOS="1111"
+                    VPOS="198"
+                    WIDTH="302"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1401 198 1372 198 1342 198 1313 198 1284 198 1255 198 1225 198 1196 198 1167 198 1138 198 1111 242 1111 260 1413 248 1413 236 1404 201 1401 198"/></Shape>
+	    <String CONTENT="LES ACCENTS"
+                    HPOS="1111"
+                    VPOS="198"
+                    WIDTH="302"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="738"
+                   VPOS="308"
+                   WIDTH="1068"
+                   HEIGHT="1393"
+                   ID="eSc_textblock_2e6c93f7"
+                   TAGREFS="BT1858">
+          <Shape><Polygon POINTS="738 311 746 1701 1806 1691 1784 308"/></Shape>
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT641"
+                    BASELINE="1044 365 1471 359" 
+                    HPOS="1035"
+                    VPOS="309"
+                    WIDTH="436"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1044 365 1035 312 1459 309 1471 359 1471 371 1176 391 1173 391 1146 388 1073 380 1050 394"/></Shape>
+	    <String CONTENT="Exemple en rhythme."
+                    HPOS="1035"
+                    VPOS="309"
+                    WIDTH="436"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT641"
+                    BASELINE="865 473 1626 461" 
+                    HPOS="860"
+                    VPOS="418"
+                    WIDTH="766"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="865 473 860 429 1617 418 1626 461 1626 485 865 488"/></Shape>
+	    <String CONTENT="Tu es tant belle et de grace tant bonne,"
+                    HPOS="860"
+                    VPOS="418"
+                    WIDTH="766"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT641"
+                    BASELINE="871 537 1673 523" 
+                    HPOS="865"
+                    VPOS="479"
+                    WIDTH="808"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="871 537 865 494 1664 479 1673 523 1673 537 871 549"/></Shape>
+	    <String CONTENT="Qu’à te seruir tout gentil cueur s’addonne."
+                    HPOS="865"
+                    VPOS="479"
+                    WIDTH="808"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT641"
+                    BASELINE="792 643 1781 628" 
+                    HPOS="781"
+                    VPOS="575"
+                    WIDTH="1000"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="792 643 781 602 810 584 813 584 816 584 819 584 1170 593 1380 575 1383 575 1775 587 1781 628 1781 648 792 672"/></Shape>
+	    <String CONTENT="Necessairement en ce mot belle, le dernier e est"
+                    HPOS="781"
+                    VPOS="575"
+                    WIDTH="1000"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT641"
+                    BASELINE="746 701 1778 689" 
+                    HPOS="740"
+                    VPOS="646"
+                    WIDTH="1038"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="746 701 740 660 1769 646 1778 689 1775 719 746 727"/></Shape>
+	    <String CONTENT="mangé, ou autrement le vers seroit tron long. Et"
+                    HPOS="740"
+                    VPOS="646"
+                    WIDTH="1038"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT641"
+                    BASELINE="746 768 1775 751" 
+                    HPOS="740"
+                    VPOS="707"
+                    WIDTH="1035"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="746 768 740 719 1767 707 1775 751 1772 774 746 792"/></Shape>
+	    <String CONTENT="les Faictistes, qui composent rhythmes en langage vul¬"
+                    HPOS="740"
+                    VPOS="707"
+                    WIDTH="1035"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT641"
+                    BASELINE="748 833 1781 812" 
+                    HPOS="743"
+                    VPOS="768"
+                    WIDTH="1038"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="748 833 743 789 1772 768 1781 812 1778 830 748 850"/></Shape>
+	    <String CONTENT="gaire, appellent cela couppe feminine, c’est à dire"
+                    HPOS="743"
+                    VPOS="768"
+                    WIDTH="1038"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT641"
+                    BASELINE="746 888 1781 874" 
+                    HPOS="740"
+                    VPOS="830"
+                    WIDTH="1041"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="746 888 740 844 1772 830 1781 874 1778 894 746 909"/></Shape>
+	    <String CONTENT="abolition de l’e feminin, qui rencontre vne aultre"
+                    HPOS="740"
+                    VPOS="830"
+                    WIDTH="1041"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT641"
+                    BASELINE="748 950 1781 932" 
+                    HPOS="743"
+                    VPOS="888"
+                    WIDTH="1038"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="748 950 743 906 1772 888 1781 932 1778 947 748 964"/></Shape>
+	    <String CONTENT="voyelle, par laquelle il est aboli apres la quatriesme"
+                    HPOS="743"
+                    VPOS="888"
+                    WIDTH="1038"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT641"
+                    BASELINE="748 1008 1781 993" 
+                    HPOS="743"
+                    VPOS="947"
+                    WIDTH="1038"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="748 1008 743 961 1772 947 1781 993 1781 1011 1366 1034 1363 1034 746 1026"/></Shape>
+	    <String CONTENT="syllabe du vers. De cecy ie parleray plus amplement"
+                    HPOS="743"
+                    VPOS="947"
+                    WIDTH="1038"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT641"
+                    BASELINE="746 1069 1099 1069" 
+                    HPOS="743"
+                    VPOS="1008"
+                    WIDTH="356"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="746 1069 743 1026 944 1008 947 1008 1099 1026 1099 1069 1097 1090 743 1087"/></Shape>
+	    <String CONTENT="en l&#39;art poétique."
+                    HPOS="743"
+                    VPOS="1008"
+                    WIDTH="356"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT641"
+                    BASELINE="795 1131 1781 1116" 
+                    HPOS="789"
+                    VPOS="1069"
+                    WIDTH="992"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="795 1131 789 1084 1772 1069 1781 1116 1778 1137 795 1163"/></Shape>
+	    <String CONTENT="Ce dict e feminin est aucunes foys autrement mangé"
+                    HPOS="789"
+                    VPOS="1069"
+                    WIDTH="992"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT641"
+                    BASELINE="748 1192 1784 1183" 
+                    HPOS="743"
+                    VPOS="1137"
+                    WIDTH="1041"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="748 1192 743 1145 1775 1137 1784 1183 1781 1204 748 1216"/></Shape>
+	    <String CONTENT="par apostrophe. Or l’apostrophe oste du tout la voyelle"
+                    HPOS="743"
+                    VPOS="1137"
+                    WIDTH="1041"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT641"
+                    BASELINE="751 1257 1781 1248" 
+                    HPOS="746"
+                    VPOS="1198"
+                    WIDTH="1035"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="751 1257 746 1207 1772 1198 1781 1248 1778 1268 751 1271"/></Shape>
+	    <String CONTENT="finale de ce qui precede la voyelle du mot ensuyuant,"
+                    HPOS="746"
+                    VPOS="1198"
+                    WIDTH="1035"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT641"
+                    BASELINE="754 1315 1784 1306" 
+                    HPOS="748"
+                    VPOS="1259"
+                    WIDTH="1036"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="754 1315 748 1268 1775 1259 1784 1306 1781 1321 754 1330"/></Shape>
+	    <String CONTENT="et faict qu’elle ne s’escript, ne profere aucunement,"
+                    HPOS="748"
+                    VPOS="1259"
+                    WIDTH="1036"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT641"
+                    BASELINE="754 1376 1784 1365" 
+                    HPOS="748"
+                    VPOS="1321"
+                    WIDTH="1036"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="754 1376 748 1333 1775 1321 1784 1365 1781 1385 754 1397"/></Shape>
+	    <String CONTENT="et suffist que seulement on la marque en dessus par"
+                    HPOS="748"
+                    VPOS="1321"
+                    WIDTH="1036"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT641"
+                    BASELINE="754 1438 1787 1429" 
+                    HPOS="748"
+                    VPOS="1373"
+                    WIDTH="1039"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="754 1438 748 1391 1091 1373 1094 1373 1781 1382 1787 1429 1787 1449 754 1458"/></Shape>
+	    <String CONTENT="son petit poinct. Deuant que de t&#39;en bailler exemple,"
+                    HPOS="748"
+                    VPOS="1373"
+                    WIDTH="1039"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19"
+                    TAGREFS="LT641"
+                    BASELINE="751 1499 1781 1487" 
+                    HPOS="746"
+                    VPOS="1441"
+                    WIDTH="1035"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="751 1499 746 1452 1772 1441 1781 1487 1778 1505 751 1517"/></Shape>
+	    <String CONTENT="ie t’aduertis qu’apostrophe eschet princinalement sur"
+                    HPOS="746"
+                    VPOS="1441"
+                    WIDTH="1035"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20"
+                    TAGREFS="LT641"
+                    BASELINE="754 1558 1784 1552" 
+                    HPOS="748"
+                    VPOS="1508"
+                    WIDTH="1036"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="754 1558 748 1514 1775 1508 1784 1552 1781 1569 754 1575"/></Shape>
+	    <String CONTENT="ces monosyllabes, ce, se, si, te, me, que, ne, ie, re,"
+                    HPOS="748"
+                    VPOS="1508"
+                    WIDTH="1036"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21"
+                    TAGREFS="LT641"
+                    BASELINE="757 1622 1784 1607" 
+                    HPOS="751"
+                    VPOS="1561"
+                    WIDTH="1033"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="757 1622 751 1566 1775 1561 1784 1607 1781 1628 757 1637"/></Shape>
+	    <String CONTENT="le, la, de. Et combien que les Francoys n&#39;ayent de"
+                    HPOS="751"
+                    VPOS="1561"
+                    WIDTH="1033"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22"
+                    TAGREFS="LT641"
+                    BASELINE="757 1680 1784 1669" 
+                    HPOS="751"
+                    VPOS="1622"
+                    WIDTH="1033"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="757 1680 751 1669 768 1624 1240 1648 1263 1625 1263 1622 1266 1622 1269 1622 1272 1622 1778 1631 1784 1669 1781 1686 757 1698"/></Shape>
+	    <String CONTENT="coustume de signer ledict apostrophe, si en vsent ilz"
+                    HPOS="751"
+                    VPOS="1622"
+                    WIDTH="1033"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

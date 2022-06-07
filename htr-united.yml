@@ -1,5 +1,5 @@
 schema: https://htr-united.github.io/schema/2021-10-15/schema.json
-title: "Données imprim\xE9s du 16e si\xE8cle"
+title: "Donn\xE9es imprim\xE9s du 16e si\xE8cle"
 description: "Corpus d'entrainement pour l'HTR constitu\xE9 d'imprim\xE9s du 16e si\xE8\
   cle"
 url: https://github.com/Gallicorpora/HTR-imprime-16e-siecle
@@ -16,8 +16,8 @@ authors:
   surname: malamatenia
   roles:
   - transcriber
-- name : Christensen
-  surname : Kelly
+- name: Christensen
+  surname: Kelly
   roles:
   - support
 format: Alto-XML
@@ -42,12 +42,11 @@ transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisat
   \ du projet Gallicorpora"
 volume:
 - metric: characters
-  count: 47590
+  count: 63259
 - metric: files
-  count: 60
+  count: 80
 - metric: lines
-  count: 1476
+  count: 1903
 - metric: regions
-  count: 173
+  count: 235
 citation-file-link: https://github.com/Gallicorpora/HTR-imprime-16e-siecle/CITATION.cff
-

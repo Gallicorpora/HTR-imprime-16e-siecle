@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f29.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1855" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1866" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1865" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1864" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT1863" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1862" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1861" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1860" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT1859" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1858" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1857" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1856" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+    <OtherTag ID="LT641" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT642" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT643" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT644" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT645" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2592"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2592"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="911"
+                   VPOS="304"
+                   WIDTH="711"
+                   HEIGHT="71"
+                   ID="block_0"
+                   TAGREFS="BT1863">
+          <Shape><Polygon POINTS="1609 315 1622 358 1622 375 911 375 924 315 1018 304"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT641"
+                    BASELINE="915 353 1582 359" 
+                    HPOS="909"
+                    VPOS="306"
+                    WIDTH="673"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="915 353 915 306 1579 312 1582 359 1576 371 909 365"/></Shape>
+	    <String CONTENT="DE LA LANGVE FRANCOYSE."
+                    HPOS="909"
+                    VPOS="306"
+                    WIDTH="673"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1669"
+                   VPOS="304"
+                   WIDTH="104"
+                   HEIGHT="71"
+                   ID="eSc_textblock_f3bd3de6"
+                   TAGREFS="BT1861">
+          <Shape><Polygon POINTS="1682 304 1772 304 1773 375 1669 375 1669 317"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT641"
+                    BASELINE="1688 359 1755 353" 
+                    HPOS="1679"
+                    VPOS="292"
+                    WIDTH="76"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1688 359 1679 301 1746 292 1755 353 1755 365 1688 371"/></Shape>
+	    <String CONTENT="27"
+                    HPOS="1679"
+                    VPOS="292"
+                    WIDTH="76"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="718"
+                   VPOS="392"
+                   WIDTH="1093"
+                   HEIGHT="1447"
+                   ID="eSc_textblock_19efb7ee"
+                   TAGREFS="BT1858">
+          <Shape><Polygon POINTS="718 392 735 1834 1811 1839 1789 392"/></Shape>
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT641"
+                    BASELINE="743 444 1769 444" 
+                    HPOS="743"
+                    VPOS="397"
+                    WIDTH="1026"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="743 444 743 397 1769 397 1769 444 1769 461 743 464"/></Shape>
+	    <String CONTENT="plus puissant. Exemple de Et. Il a tousiours esté cons¬"
+                    HPOS="743"
+                    VPOS="397"
+                    WIDTH="1026"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT641"
+                    BASELINE="746 505 1559 505" 
+                    HPOS="746"
+                    VPOS="458"
+                    WIDTH="813"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="746 505 746 458 1559 458 1559 505 1559 523 746 523"/></Shape>
+	    <String CONTENT="ant et en bonne fortune, et en mauuaise."
+                    HPOS="746"
+                    VPOS="458"
+                    WIDTH="813"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT641"
+                    BASELINE="792 564 1772 570" 
+                    HPOS="786"
+                    VPOS="511"
+                    WIDTH="986"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="792 564 792 511 1769 520 1772 570 1767 581 786 578"/></Shape>
+	    <String CONTENT="Ie viens maintenant à parler du Comma: lequel se"
+                    HPOS="786"
+                    VPOS="511"
+                    WIDTH="986"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT641"
+                    BASELINE="746 628 1772 628" 
+                    HPOS="746"
+                    VPOS="584"
+                    WIDTH="1026"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="746 628 746 584 1772 584 1772 628 1772 648 746 648"/></Shape>
+	    <String CONTENT="mect en sentence suspendue, et non du tout finie. Et"
+                    HPOS="746"
+                    VPOS="584"
+                    WIDTH="1026"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT641"
+                    BASELINE="743 689 1775 684" 
+                    HPOS="737"
+                    VPOS="643"
+                    WIDTH="1038"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="743 689 737 648 1767 643 1775 684 1772 710 743 710"/></Shape>
+	    <String CONTENT="aulcunesfois il n’y en a qu’vn en vne sentence: aul¬"
+                    HPOS="737"
+                    VPOS="643"
+                    WIDTH="1038"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT641"
+                    BASELINE="743 751 1275 751 1775 751" 
+                    HPOS="740"
+                    VPOS="707"
+                    WIDTH="1032"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="740 748 740 707 1772 707 1772 748 1772 768 740 768"/></Shape>
+	    <String CONTENT="cunesfois deux, ou trois. Exemple. Il est bon de n’of¬"
+                    HPOS="740"
+                    VPOS="707"
+                    WIDTH="1032"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT641"
+                    BASELINE="746 812 1778 812" 
+                    HPOS="746"
+                    VPOS="760"
+                    WIDTH="1032"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="746 812 746 760 1778 765 1778 812 1778 830 746 830"/></Shape>
+	    <String CONTENT="fenser personne: car il n&#39;est nul petit ennemy: et"
+                    HPOS="746"
+                    VPOS="760"
+                    WIDTH="1032"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT641"
+                    BASELINE="743 874 1699 874" 
+                    HPOS="743"
+                    VPOS="830"
+                    WIDTH="956"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="743 874 743 830 1699 830 1699 874 1699 894 743 894"/></Shape>
+	    <String CONTENT="chascun tasche de se venger, quand il est offensé."
+                    HPOS="743"
+                    VPOS="830"
+                    WIDTH="956"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT641"
+                    BASELINE="792 938 1778 929" 
+                    HPOS="786"
+                    VPOS="885"
+                    WIDTH="992"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="792 938 786 894 1769 885 1778 929 1778 944 792 953"/></Shape>
+	    <String CONTENT="Quant à la Parenthese, c’est vne interposition qui"
+                    HPOS="786"
+                    VPOS="885"
+                    WIDTH="992"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT641"
+                    BASELINE="746 999 1775 993" 
+                    HPOS="740"
+                    VPOS="950"
+                    WIDTH="1035"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="746 999 740 955 1767 950 1775 993 1772 1011 746 1017"/></Shape>
+	    <String CONTENT="a son sens parfaict: et pour son interuention ou de¬"
+                    HPOS="740"
+                    VPOS="950"
+                    WIDTH="1035"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT641"
+                    BASELINE="748 1058 1775 1052" 
+                    HPOS="746"
+                    VPOS="1008"
+                    WIDTH="1029"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="748 1058 746 1008 1769 1008 1775 1052 1772 1072 748 1078"/></Shape>
+	    <String CONTENT="traction, elle ne rend la Clausule plus parfaicte ou"
+                    HPOS="746"
+                    VPOS="1008"
+                    WIDTH="1029"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_13"
+                    TAGREFS="LT641"
+                    BASELINE="746 1116 1778 1116" 
+                    HPOS="746"
+                    VPOS="1067"
+                    WIDTH="1032"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="746 1116 746 1067 1778 1072 1778 1116 1778 1137 746 1137"/></Shape>
+	    <String CONTENT="imparfaicte. Exemple. Allant en Flandre il a passé"
+                    HPOS="746"
+                    VPOS="1067"
+                    WIDTH="1032"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT641"
+                    BASELINE="743 1181 1781 1181" 
+                    HPOS="743"
+                    VPOS="1134"
+                    WIDTH="1038"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="743 1181 743 1134 1781 1134 1781 1181 1781 1198 743 1198"/></Shape>
+	    <String CONTENT="(chose non esperée) par le royaulme de France. Oste"
+                    HPOS="743"
+                    VPOS="1134"
+                    WIDTH="1038"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT641"
+                    BASELINE="746 1242 1778 1236" 
+                    HPOS="740"
+                    VPOS="1192"
+                    WIDTH="1038"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="746 1242 740 1195 1769 1192 1778 1236 1775 1254 746 1259"/></Shape>
+	    <String CONTENT="Ia Parenthese, le sens sera aussy parfaict que sy elle y"
+                    HPOS="740"
+                    VPOS="1192"
+                    WIDTH="1038"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT641"
+                    BASELINE="746 1303 1775 1297" 
+                    HPOS="740"
+                    VPOS="1254"
+                    WIDTH="1035"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="746 1303 740 1259 1767 1254 1775 1297 1772 1324 746 1324"/></Shape>
+	    <String CONTENT="estoit. Ce qui est facile à congnoistre. Entends aussy"
+                    HPOS="740"
+                    VPOS="1254"
+                    WIDTH="1035"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT641"
+                    BASELINE="748 1359 1775 1365" 
+                    HPOS="743"
+                    VPOS="1309"
+                    WIDTH="1032"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="748 1359 748 1309 1775 1312 1775 1365 1769 1376 743 1373"/></Shape>
+	    <String CONTENT="que la Parenthese peult auoir lieu partout le discours"
+                    HPOS="743"
+                    VPOS="1309"
+                    WIDTH="1032"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT641"
+                    BASELINE="746 1426 1778 1417" 
+                    HPOS="740"
+                    VPOS="1373"
+                    WIDTH="1038"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="746 1426 740 1382 1769 1373 1778 1417 1775 1435 746 1444"/></Shape>
+	    <String CONTENT="du periode: sinon au commencement et à la fin."
+                    HPOS="740"
+                    VPOS="1373"
+                    WIDTH="1038"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_19"
+                    TAGREFS="LT641"
+                    BASELINE="746 1487 1781 1482" 
+                    HPOS="740"
+                    VPOS="1438"
+                    WIDTH="1041"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="746 1487 740 1441 1772 1438 1781 1482 1778 1499 746 1502"/></Shape>
+	    <String CONTENT="D’aduantage il est à noter que deuant, ou apres la"
+                    HPOS="740"
+                    VPOS="1438"
+                    WIDTH="1041"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_20"
+                    TAGREFS="LT641"
+                    BASELINE="748 1549 1781 1543" 
+                    HPOS="743"
+                    VPOS="1499"
+                    WIDTH="1038"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="748 1549 743 1505 1772 1499 1781 1543 1778 1558 748 1569"/></Shape>
+	    <String CONTENT="parenthese il n’y eschet aulcun poinct à queue ou"
+                    HPOS="743"
+                    VPOS="1499"
+                    WIDTH="1038"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_21"
+                    TAGREFS="LT641"
+                    BASELINE="748 1604 1781 1610" 
+                    HPOS="743"
+                    VPOS="1555"
+                    WIDTH="1038"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="748 1604 748 1555 1778 1561 1781 1610 1775 1622 743 1616"/></Shape>
+	    <String CONTENT="final. Et dedens y en eschet aussi peu : si ce n&#39;est vn"
+                    HPOS="743"
+                    VPOS="1555"
+                    WIDTH="1038"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_22"
+                    TAGREFS="LT641"
+                    BASELINE="751 1672 1778 1672" 
+                    HPOS="751"
+                    VPOS="1610"
+                    WIDTH="1027"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="751 1672 751 1610 1778 1622 1778 1672 1778 1686 751 1686"/></Shape>
+	    <String CONTENT="interrogant ou vn admiratif. Exemple du premier."
+                    HPOS="751"
+                    VPOS="1610"
+                    WIDTH="1027"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_23"
+                    TAGREFS="LT641"
+                    BASELINE="751 1730 1781 1724" 
+                    HPOS="746"
+                    VPOS="1680"
+                    WIDTH="1035"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="751 1730 746 1686 1772 1680 1781 1724 1778 1742 751 1748"/></Shape>
+	    <String CONTENT="Si ie puys iamais auoir puissance, ie me vengeray"
+                    HPOS="746"
+                    VPOS="1680"
+                    WIDTH="1035"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_24"
+                    TAGREFS="LT641"
+                    BASELINE="754 1792 1778 1792" 
+                    HPOS="751"
+                    VPOS="1745"
+                    WIDTH="1027"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="754 1792 754 1745 1778 1745 1778 1792 1775 1815 751 1809"/></Shape>
+	    <String CONTENT="d’vn si vilain tour (en doibs ie faire moins?) et luy"
+                    HPOS="751"
+                    VPOS="1745"
+                    WIDTH="1027"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
