@@ -13,16 +13,7 @@ authors:
   - family-names: Christensen
     given-names: Kelly
     orcid: https://orcid.org/0000-0002-7236-874X
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-title: "Données imprim\xE9s du 16e si\xE8cle"
-=======
-title: "Donn\xE9es HTR manuscrits du 15e si\xE8cle"
->>>>>>> 64ab2305bea58bbd60dce13332925bb07bf09577
-=======
 title: "Donn\xE9es HTR manuscrits du 16e si\xE8cle"
->>>>>>> 384ab8c91e82cbdf1abc1c7f912ca446be5765bb
 date-released: 2022
 url: "https://github.com/Gallicorpora/HTR-imprime-16e-siecle"
 identifiers:
