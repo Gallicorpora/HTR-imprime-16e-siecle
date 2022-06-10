@@ -1,11 +1,11 @@
-name: "Transform"
+name: "ALTO to TEI Workflow"
 on:
   push:
-    #paths:
-    #  - data/**
-    #  - data/*
+    paths:
+      - data/**
+      - data/*
 jobs:
-  Transform:
+  ALTO2TEI:
     runs-on: ubuntu-latest
     steps: 
       - uses: actions/checkout@v2
