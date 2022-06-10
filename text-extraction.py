@@ -70,7 +70,7 @@ def dump(text, directory):
         text (list): lines of text from a document's MainZone
     """    
     # join the text lines and words broken across line breaks together
-    s = "%%".join(df.loc[df["zone_type"]=="MainZone"]["text"])
+    s = "%%".join(text)
     s = re.sub(r"⁊", "et", s)
     s = re.sub(r"[¬|\-]%%", "", s)
     s = re.sub(r"%%", " ", s)
