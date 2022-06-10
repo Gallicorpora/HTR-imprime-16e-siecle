@@ -74,15 +74,15 @@ def dump(text, directory):
     s = re.sub(r"⁊", "et", s)
     s = re.sub(r"[¬|\-]%%", "", s)
     s = re.sub(r"%%", " ", s)
+
     # break up the string into segments small enough for the segmentation model
-    s = re.sub(r"(\.\s)([A-ZÉÀ])", r"\g<1>\n\g<2>", s)  # capture a period and space (group 1) before 
-	#capital letter or ⁋ (group 2)
-    s = re.sub(r"(?<!\n)Et\s|(?<!\n)⁋",r"\n\g<0>",s)  # capture "Et " if it is not preceded by string 
-	#beginning
-    s = re.sub(r"(?<!\n);|(?<!\n)\?|(?<!\n)\!",r"\g<0>\n", s)  # 
-    lines = s.split('\n')
+    # capture a period and space (group 1) before capital letter or ⁋ (group 2)
+    s = re.sub(r"(\.\s)([A-ZÉÀ])", r"\g<1>\n\n\g<2>", s)
+    # capture "Et " if it is not preceded by string beginning
+    s = re.sub(r"(?<!\n\n)Et\s|(?<!\n\n)⁋",r"\n\n\g<0>",s)
+    s = re.sub(r"(?<!\n\n);|(?<!\n\n)\?|(?<!\n\n)\!",r"\g<0>\n\n", s)
     with open(os.path.join(os.path.dirname(directory),os.path.basename(directory)+".txt"), "w") as f:
-        f.write(lines)
+        f.write(s)
 
 
 if __name__ == "__main__":
