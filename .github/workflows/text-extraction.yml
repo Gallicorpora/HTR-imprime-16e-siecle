@@ -1,7 +1,9 @@
 name: "Text Extraction Workflow"
 on:
-  - push
-  - pull_request
+  push:
+    paths:
+      - data/**
+      - data/*
 jobs:
   MainZone:
     runs-on: ubuntu-latest
@@ -19,6 +21,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add ./data/*.txt
-          git commit -m "[Automatated] Extract text from documents' MainZones" || echo "Nothing to commit"
+          git commit -m "[Automatatic] Extract text from documents' MainZones" || echo "Nothing to commit"
           git push || echo "Nothing to push"
 
