@@ -2044,172 +2044,459 @@
   </text>
   <standOff>
     <seg n="1" xml:id="s1">ESTIENNE DOLET, A MON SEIGNEVR DE LANGEI, Humble salut et recognoissance de sa liberalité enuers luy. </seg>
-    <seg n="2" xml:id="s2">I E n'ignore pas (seigneur par gloire immortel) que plusieurs ne s'esbaissent grandement de veoir sortir de moy ce present Oeuure : attendu que par le passé i'ay faict et fais encores maintenant profession totalle de la langue Latine. </seg>
-    <seg n="3" xml:id="s3">Mais à cecy ie donne deux raisons : l'vne, que mon affection est telle enuers l'honneur de mon païs que ie veux trouver tout moyen de l'illustrer. </seg>
-    <seg n="4" xml:id="s4">Et ne le puis myeulx faire que de celebrer sa langue, comme ont faict Grecs et Rommains la leur. </seg>
-    <seg n="5" xml:id="s5">L'autre raison est, que non sans exemple de plusieurs ie m'addonne à ceste exercitation. </seg>
-    <seg n="6" xml:id="s6">Quand aux antiques tant Grecs que Latins, ilz n'ont prins aultre instrument de leur ESTIENNE DOLET Au Peuple Francoys, Humble salut et accroissement d'honneur et puyssance. </seg>
-    <seg n="7" xml:id="s7">D EPVIS six ans (ô peuple Françoys) desrobbant quelques heures de mon estude principalle (qui est en la lecture de la langue Latine et Grecque), te voulant aussy illustrer par tous moyens, i'ay composé en nostre langage vn oeuure intitulé l’Orateur Francoys, duquel oeuure les traictez sont telz : La Grammaire, L'Ortographe, Les Accentz, La Punctuation, La Pronunciation, L’Origine d’aucunes Dictions, La Maniere de bien traduire d’vne langue en aultre, L'Art Oratoire, L'Art Poetique. </seg>
-    <seg n="8" xml:id="s8">Mais pour ce que le dict OEuure est de grand importance, et qu’il y eschet vn grand labeur, scauoir et extresme iugement, i’en differeray la publication (pour ne le precipiter) iusques à deux ou troys ans. </seg>
-    <seg n="9" xml:id="s9">Ce pendant tu t'ayderas des instructions qui sont en ce present liure. </seg>
-    <seg n="10" xml:id="s10">Lequel, si ie cognois t'estre aggreable, ie seray plus enclin à te bien polir, et parfaire le demeurant de mon entreprinse. </seg>
-    <seg n="11" xml:id="s11">Combien que i’en attends plus tost contentement de la posterité que du siecle present;</seg>
-    <seg n="12" xml:id="s12"> car le cours des choses humaines est tel, que la vertu du viuant est tousiours enuiée et deprimée par detracteurs, qui se pensent aduantager en reputation, s'ils mesprisent les labeurs d’autruy. </seg>
-    <seg n="13" xml:id="s13">Mais l'homme de scauoir et de bon iugement ne doibt regarder à telz resueurs, et plus tost s’en mocquer du tout. </seg>
-    <seg n="14" xml:id="s14">Ainsi faisant, ie poursuiuray mon effort, et LA MANIERE DE BIEN TRADUIRE D’VNE LANGVE EN AVTRE. </seg>
-    <seg n="15" xml:id="s15">L A maniere de bien traduire d'vne langue en autre, requiert principallement cinq choses. </seg>
-    <seg n="16" xml:id="s16">En premier lieu, il fault que le traducteur entende parfaictement le sens et matiere de l'autheur qu’il traduict;</seg>
-    <seg n="17" xml:id="s17"> car par ceste intelligence il ne sera iamais obscur en sa traduction : et si l'autheur lequel il traduict est aucunement scabreux, il le pourra rendre facile et du tout intelligible. </seg>
-    <seg n="18" xml:id="s18">Et de ce ie te vois bailler exemple familierement. </seg>
-    <seg n="19" xml:id="s19">Dedans le premier liure des questions Tusculanes de Ciceron, il y a vn tel pasage latin : « Animum autem animam » etiam fere nostri declarant nominari : nam et agere » animam, et efflare dicimus : et animosos, et bene » animatos : et ex animi sententia. </seg>
-    <seg n="20" xml:id="s20">Ipse autem animus » ab anima dictus est. » Traduisant cest oeuure de Ciceron, i’ay parlé comme il s’ensuyt. « Quant à la difference (dy ie) de ces dictions animus et anima, il ne s'y fault point arrester : car les facons de parler Latines, qui sont deduictes de ces deux mots, nous donnent à entendre qu’ilz signifient presque vne mesme chose. </seg>
-    <seg n="21" xml:id="s21">Et est certain que animus est dict de anima, et que anima est l’organe de animus, comme si tu voulois dire la vertu, et instrumens vitaulx estre origine de l’esperit: et icelluy esperit estre vn effect de ladicte vertu vitale. </seg>
-    <seg n="22" xml:id="s22">Dy moy, toy qui entends Latin, estoit il possible de bien traduire ce passage sans vne grande intelligence de Ciceron?</seg>
-    <seg n="23" xml:id="s23"> Or saiche donques qu'il est besoing et necessaire à tout traducteur d’entendre parfaictement le sens de l’autheur, qu’il tourne d’vne langue en autre. </seg>
-    <seg n="24" xml:id="s24">Et sans cela, il ne peut traduire seurement et fidelement. </seg>
-    <seg n="25" xml:id="s25">La seconde chose qui est requise en traduction, c'est que le traducteur ait parfaicte congnoissance de la langue de l'autheur qu’il traduict: et soit pareillement excellent en la langue en laquelle il se mect à traduire. </seg>
-    <seg n="26" xml:id="s26">Par ainsi il ne violera, et n’amoindrira la maiesté de l’vne et l'autre langue. </seg>
-    <seg n="27" xml:id="s27">Cuydes tu que si vn homme n’est parfaict on la langue Latine et Francoyse, qu’il puisse bien traduire en Francoys quelque oraison de Ciceron?</seg>
-    <seg n="28" xml:id="s28"> Entends que chascune langue a ses proprietés, translations en dictions, locutions, subtilités at vehemences à elle particulieres. </seg>
-    <seg n="29" xml:id="s29">Les quelles, si le traducteur ignore, il faict tort à l'autheur qu'il traduict, et aussy à la langue en la quelle il le tourne;</seg>
-    <seg n="30" xml:id="s30"> car il ne represente et n’exprime la dignité et richesse de ces deux langues, des quelles il prend le maniement. </seg>
-    <seg n="31" xml:id="s31">Le tiers poinct est qu’en traduisant il ne se fault pas asseruir iusques à la que l’on rende mot pour mot. </seg>
-    <seg n="32" xml:id="s32">Et si aucun le faict, cela luy procede de pauureté et deffault d’esprit. </seg>
-    <seg n="33" xml:id="s33">Car, s’il a les qualitez dessusdictes (les quelles il est besoing estre en vn bon traducteur), sans auoir esgard à l’ordre des mots, il s'arrestera aux sentences, et faira en sorte que l’intention de l’autheur sera exprimée, gardant curieusement la proprieté de l’vne et l’aultre langue. </seg>
-    <seg n="34" xml:id="s34">Et par ainsi, c’est superstition trop grande (diray ie besterie ou ignorance ?</seg>
-    <seg n="35" xml:id="s35">) de commencer sa traduction au commencement de la clausule. </seg>
-    <seg n="36" xml:id="s36">Mais si, l'ordre des mots peruerti, tu exprimes l’intention de celuy que tu traduis, aucun ne t’en peult reprendre. </seg>
-    <seg n="37" xml:id="s37">Ie ne veulx taire icy la follie d’aucuns traducteurs, lesquelz, au lieu de liberté, se submettent à seruitude. </seg>
-    <seg n="38" xml:id="s38">C'est asscauoir qu'ils sont si sotz, qu'ilz s'efforcent de rendre ligne pour ligne ou vers pour vers, par laquelle erreur ilz deprauent souuont le sens de l’autheur qu'ilz traduisent, et n’expriment la grace et perfection de l'vne et l'autre langue. </seg>
-    <seg n="39" xml:id="s39">Tu te garderas diligemment de ce vice, qui ne demonstre autre chose que l’ingnorance du traducteur. </seg>
-    <seg n="40" xml:id="s40">La quatriesme reigle que ie veulx bailler en cest endroict, et plus à obseruer en langues non reduictes en art, qu’en autres. </seg>
-    <seg n="41" xml:id="s41">I'appelle langues non reduictes encores en art certain et repceu : comme est la Francoyse, l’Italienne, I'Hespaignole, celle d’Allemaigne, d'Angleterre, et autres vulgaires. </seg>
-    <seg n="42" xml:id="s42">S'il aduient, doncques que tu traduises quelque liure Latin en icelles, mesmement en la Francoyse, il te fault garder d’vsurper mos trop approchans du Latin, et peu vsitez par le passé: mais contente toy du commun, sans innouer aucunes dictions follement, et par curiosité reprehensible. </seg>
-    <seg n="43" xml:id="s43">Ce que si aucuns font, ne les ensuy en cela: car leur arrogance ne vault rien, et n’est tollerable entre les gens scauans. </seg>
-    <seg n="44" xml:id="s44">Pour cela n’entends pas que ie die que le traducteur s’abstienne totallement de mots qui sont hors de l’vsaige commun : car on scait bien que la langue Grecque ou Latine est trop plus riche en dictions, que la Francoyse qui nous contrainct souuent d'vser de mots peu frequentés. </seg>
-    <seg n="45" xml:id="s45">Mais cela se doibt faire à l'extresme necessité. </seg>
-    <seg n="46" xml:id="s46">Ie scay bien en oultre qu’aulcuns pourroient dire que la plus part des dictions de la langue Francoyse est deriuée de la Latine, et que noz predecesseurs ont heu l’autorité de les mettre en vsaige, les modernes et posterieures en peuuent autant faire. </seg>
-    <seg n="47" xml:id="s47">Tout cela se peult debattre entre babillarts: mais le meilleur est de suyure le commun langage. </seg>
-    <seg n="48" xml:id="s48">En mon Orateur Francoys ie traicteray ce poinct plus amplement, et auec plus grand' demonstration. </seg>
-    <seg n="49" xml:id="s49">Venons maintenant à la cinquiesme reigle que doibt obseruer vn bon traducteur. </seg>
-    <seg n="50" xml:id="s50">La quelle est de si grand' vertu, que sans elle toute composition est lourde et mal plaisante. </seg>
-    <seg n="51" xml:id="s51">Mais qu’est ce qu’elle contient?</seg>
-    <seg n="52" xml:id="s52"> rien autre chose que l’obseruation des nombres oratoires: c’est asscauoir vne liaison et assemblement des dictions auec telle doulceur, que non seulemont l’ame s’en contente, mais aussi les oreilles on sont toutes rauies, et ne se faschent iamais d'vne telle harmonie de langage : d’yceulx nombres oratoires ie parle plus copieusement en mon orateur : par quoy n’en feray icy plus long discours. </seg>
-    <seg n="53" xml:id="s53">Et de rechef aduertiray le traducteur d’y prendre garde: car sans l’obseruation des nombres, on ne peult estre esmerueillable en quelque composition que ce soit : et sans yceulx les sentences ne peuuent estre graues et auoir leur poids requis et legitime. </seg>
-    <seg n="54" xml:id="s54">Car penses tu que ce soit assés d’auoir la diction propre et elegante sans vne bonne copulation des mots?</seg>
-    <seg n="55" xml:id="s55"> le t’aduise que c’est autant que d’vn monceau de diuerses pierres precieuses mal ordonnées : lesquelles ne peuuent auoir leur lustre, à cause d’vne collocation impertinente. </seg>
-    <seg n="56" xml:id="s56">Ou c’est aultant que de diuers instruments musicaulx mal conduicts par les ioueurs ingnorantz de l’art peu congnoissantz les tons et mesures de la musique. </seg>
-    <seg n="57" xml:id="s57">En somme, c’est peu de la splendeur des motz, si l’ordre et collocation d’yceulx n'est telle qu’il appartient. </seg>
-    <seg n="58" xml:id="s58">En cela sur tous fut iadis estimé Isocrate, orateur grec : et pareillement Demostene. </seg>
-    <seg n="59" xml:id="s59">Entre les latins, Marc Tulle Ciceron a esté grand obserauateur des nombres. </seg>
-    <seg n="60" xml:id="s60">Mais ne pense pas que cela se doibue plus obseruer par les orateurs que par les historiographes. </seg>
-    <seg n="61" xml:id="s61">Et qu'ainsi soit, tu ne trouueras Cæsar et Salluste moins nombreux que Ciceron. </seg>
-    <seg n="62" xml:id="s62">Conclusion quant à ce propos, sans grande obseruation des nombres vn autheur n’est rien: et auec yceulx il ne peult faillir à auoir bruict en eloquence si pareillement il est propre en diction, et graue en sentences: et en arguments subtil. </seg>
-    <seg n="63" xml:id="s63">Qui sont les poincts d'vn orateur parfaict, et vrayment comblé de toute gloire d’eloquence. </seg>
-    <seg n="64" xml:id="s64">FIN. </seg>
-    <seg n="65" xml:id="s65">LA PVNCTVATION DE LA LANGVE FRANCOYSE. </seg>
-    <seg n="66" xml:id="s66">S I toutes les langues generalement on leurs differences en parler et escripture, toutesfoys non obsant cela elles n'ont qu'vne punctuation seulement : et ne trouueras qu’en ycelle les Grecs, Latins, Francoys, Italiens ou Hespaignolz soient differents. </seg>
-    <seg n="67" xml:id="s67">Doncques ie t'instruiray briefuement en cecy. </seg>
-    <seg n="68" xml:id="s68">Et pour t’y bien endoctriner il est besoing de deux choses. </seg>
-    <seg n="69" xml:id="s69">L’vne est que tu congnoisses les noms et figures des points : l’autre que tu entendes les lieux ou il les fault mettre. </seg>
-    <seg n="70" xml:id="s70">Quand aux figures elles sont telles qu’il s’ensuit, ou en ceste sorte: plus confirmer ceste amytié, allant en Flandre il a passé (chose non esperée) par le royaulme de France, ou il a esté repceu en grand honneur, et extresme ioye du peuple. </seg>
-    <seg n="71" xml:id="s71">Car qui ne se reiouyroit d’vng tel accord?</seg>
-    <seg n="72" xml:id="s72"> Qui ne loueroit Dieu de veoir guerre assopie, et paix regner entre les chrestiens?</seg>
-    <seg n="73" xml:id="s73"> O que longtemps auons desiré ce bien!</seg>
-    <seg n="74" xml:id="s74"> o que bien heureux soient qui ont traité cest accord!</seg>
-    <seg n="75" xml:id="s75"> que mauldicts soient qui tascheront de le rompre!</seg>
-    <seg n="76" xml:id="s76"> Au premier Periode (qui commence l'Empereur congnoissant) ie te veux monstrer l’vsage du Poinct à queue, du Comma, de la Parenthese et du Poinct final, aultrement dict Poinct rond. </seg>
-    <seg n="77" xml:id="s77">Le Poinct à queue ne sert d'aultre chose que de distinguer les dictions et locutions l'vne de l’autre. </seg>
-    <seg n="78" xml:id="s78">Et ce ou en adiectifs, substantits, verbes ou aduerbes simples. </seg>
-    <seg n="79" xml:id="s79">Ou auec adiectifs ioincts aux substantiſs expressement. </seg>
-    <seg n="80" xml:id="s80">Ou auec adiectifs gouuernans vng substantif. </seg>
-    <seg n="81" xml:id="s81">Ou auec verbes regissans cas, ce que nous appellons locutions. </seg>
-    <seg n="82" xml:id="s82">Exemple de l’adiectif simple. </seg>
-    <seg n="83" xml:id="s83">Il est bon, beau, aduenant, ieune et riche. </seg>
-    <seg n="84" xml:id="s84">Ne vois-tu pas que ce Poinct distingue ces dictions bon, beau, aduenant, ieune et riche?</seg>
-    <seg n="85" xml:id="s85"> Exemple du substantif simple. </seg>
-    <seg n="86" xml:id="s86">Il est plein de grand' plus puissant. </seg>
-    <seg n="87" xml:id="s87">Exemple de Et. </seg>
-    <seg n="88" xml:id="s88">Il a tousiours esté consant et en bonne fortune, et en mauuaise. </seg>
-    <seg n="89" xml:id="s89">Ie viens maintenant à parler du Comma: lequel se mect en sentence suspendue, et non du tout finie. </seg>
-    <seg n="90" xml:id="s90">Et aulcunesfois il n’y en a qu’vn en vne sentence: aulcunesfois deux, ou trois. </seg>
-    <seg n="91" xml:id="s91">Exemple. </seg>
-    <seg n="92" xml:id="s92">Il est bon de n’offenser personne: car il n'est nul petit ennemy: et chascun tasche de se venger, quand il est offensé. </seg>
-    <seg n="93" xml:id="s93">Quant à la Parenthese, c’est vne interposition qui a son sens parfaict: et pour son interuention ou detraction, elle ne rend la Clausule plus parfaicte ou imparfaicte. </seg>
-    <seg n="94" xml:id="s94">Exemple. </seg>
-    <seg n="95" xml:id="s95">Allant en Flandre il a passé (chose non esperée) par le royaulme de France. </seg>
-    <seg n="96" xml:id="s96">Oste Ia Parenthese, le sens sera aussy parfaict que sy elle y estoit. </seg>
-    <seg n="97" xml:id="s97">Ce qui est facile à congnoistre. </seg>
-    <seg n="98" xml:id="s98">Entends aussy que la Parenthese peult auoir lieu partout le discours du periode: sinon au commencement et à la fin. </seg>
-    <seg n="99" xml:id="s99">D’aduantage il est à noter que deuant, ou apres la parenthese il n’y eschet aulcun poinct à queue ou final. </seg>
-    <seg n="100" xml:id="s100">Et dedens y en eschet aussi peu : si ce n'est vn interrogant ou vn admiratif. </seg>
-    <seg n="101" xml:id="s101">Exemple du premier. </seg>
-    <seg n="102" xml:id="s102">Si ie puys iamais auoir puissance, ie me vengeray d’vn si vilain tour (en doibs ie faire moins?</seg>
-    <seg n="103" xml:id="s103">) et luy donneray à entendre qu’il me souuient d'vne iniure dix ans apres qu'elle m’est faicte. </seg>
-    <seg n="104" xml:id="s104">Exemple du second. </seg>
-    <seg n="105" xml:id="s105">Estant le plus fort en toutes choses il fut vaincu (quel hasard de guerre!</seg>
-    <seg n="106" xml:id="s106">) et tost apres fut victeur seulement par prudence. </seg>
-    <seg n="107" xml:id="s107">Sans aulcune vigneur de Parenthese on trouue quelquesfois vn demy cercle en ceste sorte) ou ainsi ], et cela se faict quand nous exposons quelque mot, ou quant nous glosons quelque sentence d’aulcun autheur Grec, Latin, Francoys ou de toute autre langue. </seg>
-    <seg n="108" xml:id="s108">On trouue aussi ces demys cercles aucunesfois doublés: et ce sans force de Parenthese. </seg>
-    <seg n="109" xml:id="s109">Ils se doublent doncq' ainsi [ ] ou 6 9. </seg>
-    <seg n="110" xml:id="s110">Et lors en iceulx est comprinse quelque addition, ou exposition notée sur la matiere, que traicte l’autheur par nous interpreté. </seg>
-    <seg n="111" xml:id="s111">Mais le tout (comme i'ay dict) se faict sans efficace de Parenthese. </seg>
-    <seg n="112" xml:id="s112">Lisant les bons autheurs, et bien imprimés, tu pourras congnoistre ma traditiue estre vraye. </seg>
-    <seg n="113" xml:id="s113">Quant au Poinct final autrement dict Poinct rond, il se mect tousiours à la fin de la sentence, et iamais n’est en aultre lieu. </seg>
-    <seg n="114" xml:id="s114">Et apres luy on commence vouIontiers par vne grande lettre. </seg>
-    <seg n="115" xml:id="s115">Au demeurant: il n’y a que deux poincts: c’est 'interrogant et admiratif : et l'vn et l'aultre est final en sens : et en peult auoir plusieurs en vne periode. </seg>
-    <seg n="116" xml:id="s116">L’interrogant se faict par interrogation pleine addresée à vn ou plusieurs tacitement. </seg>
-    <seg n="117" xml:id="s117">Exemple: Qui ne se resiouiroit d'vn tel accord?</seg>
-    <seg n="118" xml:id="s118"> Qui ne loueroit Dieu de voir guerre assopie et paix regner entre les chrestiens ?</seg>
-    <seg n="119" xml:id="s119"> L’admiratif n’a si grand' vehemence: et eschet en admiration procedante de ioye ou detestation de vice et meschanceté faicte. </seg>
-    <seg n="120" xml:id="s120">Il conuient aussi en expression de soubhait et desir. </seg>
-    <seg n="121" xml:id="s121">Brief: il peult estre partout où il y a interiection. </seg>
-    <seg n="122" xml:id="s122">Exemple. </seg>
-    <seg n="123" xml:id="s123">O que longtemps auons desiré ce bien!</seg>
-    <seg n="124" xml:id="s124"> O que bien heureux soient qui ont traicté cet accord!</seg>
-    <seg n="125" xml:id="s125"> Que mauldicts soient qui tascheront de le rompre!</seg>
-    <seg n="126" xml:id="s126"> A tant te suffira de ce que i'ay dict des figures et collocation de la punctuation. </seg>
-    <seg n="127" xml:id="s127">Ie scay bien que plusieurs Grammariens latins en ont baillé d’auantage: mais tu ne te doibs amuser à leurs resueries. </seg>
-    <seg n="128" xml:id="s128">Et si tu entends et obserues bien les reigles precedentes, tu ne fauldras à doctement punctuer. </seg>
-    <seg n="129" xml:id="s129">LES ACCENTS DE LA LANGVE FRANCOYSE. </seg>
-    <seg n="130" xml:id="s130">L ES gens doctes ont de coustume de faire seruir les accents en deux sortes. </seg>
-    <seg n="131" xml:id="s131">L'vne est en pronunciation et expression de voix, expression dicte Quantité de voyelle. </seg>
-    <seg n="132" xml:id="s132">L’aultre en imposition de marcque sur quelque diction. </seg>
-    <seg n="133" xml:id="s133">Du premier vsage nous ne parlerons icy aulcunement: car il n'en est poinct de besoing. </seg>
-    <seg n="134" xml:id="s134">Et d’aduantage il a moins de lieu en la langue Francoyse qu’en toutes aultres: veu que ses mesures sont fondées aur syllabes et non sur voyelles: ce qui est tout au rebours en la langue Grecque et Latine. </seg>
-    <seg n="135" xml:id="s135">Quant à l'impositon de marcque (qui est le second membre de l’accent), i’en diray en ce Traicté ce Exemple en rhythme. </seg>
-    <seg n="136" xml:id="s136">Tu es tant belle et de grace tant bonne, Qu’à te seruir tout gentil cueur s’addonne. </seg>
-    <seg n="137" xml:id="s137">Necessairement en ce mot belle, le dernier e est mangé, ou autrement le vers seroit tron long. </seg>
-    <seg n="138" xml:id="s138">Et les Faictistes, qui composent rhythmes en langage vulgaire, appellent cela couppe feminine, c’est à dire abolition de l’e feminin, qui rencontre vne aultre voyelle, par laquelle il est aboli apres la quatriesme syllabe du vers. </seg>
-    <seg n="139" xml:id="s139">De cecy ie parleray plus amplement en l'art poétique. </seg>
-    <seg n="140" xml:id="s140">Ce dict e feminin est aucunes foys autrement mangé par apostrophe. </seg>
-    <seg n="141" xml:id="s141">Or l’apostrophe oste du tout la voyelle finale de ce qui precede la voyelle du mot ensuyuant, et faict qu’elle ne s’escript, ne profere aucunement, et suffist que seulement on la marque en dessus par son petit poinct. </seg>
-    <seg n="142" xml:id="s142">Deuant que de t'en bailler exemple, ie t’aduertis qu’apostrophe eschet princinalement sur ces monosyllabes, ce, se, si, te, me, que, ne, ie, re, le, la, de. </seg>
-    <seg n="143" xml:id="s143">Et combien que les Francoys n'ayent de coustume de signer ledict apostrophe, si en vsent ilz Exemple de si: S'il estoit possible, ie vouldrois bien faire cela. </seg>
-    <seg n="144" xml:id="s144">Pour si il estoit possible: Toutesfoys tu ne verras gueres qu’il recoipue apostrophe auec autre mot que ce mot il. </seg>
-    <seg n="145" xml:id="s145">Exemple de toutes autres voyelles. </seg>
-    <seg n="146" xml:id="s146">De la voyelle a: Si audace estoit prisée, chascun seroit audacieux. </seg>
-    <seg n="147" xml:id="s147">De la voyelle e: Si eloquence est en luy grande, ce n’est de merueille;</seg>
-    <seg n="148" xml:id="s148"> car il a vn esperit merueilleux, et puis il estudie continuellement en Ciceron. </seg>
-    <seg n="149" xml:id="s149">De la voyelle i: Si ignorance vient à regner, tout est perdu. </seg>
-    <seg n="150" xml:id="s150">De la voyelle o: Si orgueil est en vn homme, ie ne le puis frequenter. </seg>
-    <seg n="151" xml:id="s151">De la voyelle u: Si vn homme diligent peult paruenir à richesses, i’espere quelque iour estre riche. </seg>
-    <seg n="152" xml:id="s152">En tous ces exemples, ie confesse que l’apostrophe y peult escheoir: mais auec apostrophe le parler sera plus rude que sans apostrophe: ce que peult facilement iuger vn homme d’oreilles delicates, i'excepte tousiours les licences poetiques et les laisse en leur entier. </seg>
-    <seg n="153" xml:id="s153">Car vn poete pourra dire (à cause de sa rythme) s’audace, s’eloquence, s’ignorance, s'orgueil s'vn homme. </seg>
-    <seg n="154" xml:id="s154">D'aduantage il te conuient scauoir que ceste particule si est aulcunes foys conditionnale ou demonstrauable en la langue Francoyse, combien qu'aulcuns soient d’autre opinion. </seg>
-    <seg n="155" xml:id="s155">Lesquelz disent qu’il eschet en ces dictions: Ie, tu, vous, nous, ou, lon. </seg>
-    <seg n="156" xml:id="s156">La forme de cest accent est telle': par ainsi ilz vouldroient estre escript on da sorte qui ensuit. </seg>
-    <seg n="157" xml:id="s157">M’atendrai' ie à vous?</seg>
-    <seg n="158" xml:id="s158"> feras' tu cela?</seg>
-    <seg n="159" xml:id="s159"> quant aurons' nous paix?</seg>
-    <seg n="160" xml:id="s160"> dict' on tel cas de moy?</seg>
-    <seg n="161" xml:id="s161"> voirra' lon iamais ces meschantz punitz?</seg>
-    <seg n="162" xml:id="s162"> De rechef, ie t'aduise que cela est superflu en la langue Francoyse et toutes autres;</seg>
-    <seg n="163" xml:id="s163"> car telz pronoms demeurent en leur vigueur, encores qu’ilz soient postposés à leurs verbes. </seg>
-    <seg n="164" xml:id="s164">Et qui plus est, l’accent enclitique ne conuient qu’en dictions indeclinables, comme sont en Latin, Ne, ve, que, nam. </seg>
-    <seg n="165" xml:id="s165">Qu’ainsi soit, on n'escript point en Latin en ceste forme: « Feram' ego id iniuriæ?</seg>
-    <seg n="166" xml:id="s166"> eris' tu semper tam nullius consilii?</seg>
-    <seg n="167" xml:id="s167"> auersabimini' vos semper à vobis pauperes?</seg>
-    <seg n="168" xml:id="s168"> » Τiens doncques pour seur que tel accent n’est propre aulcunement à nostre langue: qui sera fin de ce petit Oeuure.</seg>
+    <seg n="2" xml:id="s2"></seg>
+    <seg n="3" xml:id="s3">I E n'ignore pas (seigneur par gloire immortel) que plusieurs ne s'esbaissent grandement de veoir sortir de moy ce present Oeuure :</seg>
+    <seg n="4" xml:id="s4"></seg>
+    <seg n="5" xml:id="s5"> attendu que par le passé i'ay faict et fais encores maintenant profession totalle de la langue Latine. </seg>
+    <seg n="6" xml:id="s6"></seg>
+    <seg n="7" xml:id="s7">Mais à cecy ie donne deux raisons :</seg>
+    <seg n="8" xml:id="s8"></seg>
+    <seg n="9" xml:id="s9"> l'vne, que mon affection est telle enuers l'honneur de mon païs que ie veux trouver tout moyen de l'illustrer. </seg>
+    <seg n="10" xml:id="s10"></seg>
+    <seg n="11" xml:id="s11">Et ne le puis myeulx faire que de celebrer sa langue, comme ont faict Grecs et Rommains la leur. </seg>
+    <seg n="12" xml:id="s12"></seg>
+    <seg n="13" xml:id="s13">L'autre raison est, que non sans exemple de plusieurs ie m'addonne à ceste exercitation. </seg>
+    <seg n="14" xml:id="s14"></seg>
+    <seg n="15" xml:id="s15">Quand aux antiques tant Grecs que Latins, ilz n'ont prins aultre instrument de leur ESTIENNE DOLET Au Peuple Francoys, Humble salut et accroissement d'honneur et puyssance. </seg>
+    <seg n="16" xml:id="s16"></seg>
+    <seg n="17" xml:id="s17">D EPVIS six ans (ô peuple Françoys) desrobbant quelques heures de mon estude principalle (qui est en la lecture de la langue Latine et Grecque), te voulant aussy illustrer par tous moyens, i'ay composé en nostre langage vn oeuure intitulé l’Orateur Francoys, duquel oeuure les traictez sont telz :</seg>
+    <seg n="18" xml:id="s18"></seg>
+    <seg n="19" xml:id="s19"> La Grammaire, L'Ortographe, Les Accentz, La Punctuation, La Pronunciation, L’Origine d’aucunes Dictions, La Maniere de bien traduire d’vne langue en aultre, L'Art Oratoire, L'Art Poetique. </seg>
+    <seg n="20" xml:id="s20"></seg>
+    <seg n="21" xml:id="s21">Mais pour ce que le dict OEuure est de grand importance, et qu’il y eschet vn grand labeur, scauoir et extresme iugement, i’en differeray la publication (pour ne le precipiter) iusques à deux ou troys ans. </seg>
+    <seg n="22" xml:id="s22"></seg>
+    <seg n="23" xml:id="s23">Ce pendant tu t'ayderas des instructions qui sont en ce present liure. </seg>
+    <seg n="24" xml:id="s24"></seg>
+    <seg n="25" xml:id="s25">Lequel, si ie cognois t'estre aggreable, ie seray plus enclin à te bien polir, et parfaire le demeurant de mon entreprinse. </seg>
+    <seg n="26" xml:id="s26"></seg>
+    <seg n="27" xml:id="s27">Combien que i’en attends plus tost contentement de la posterité que du siecle present;</seg>
+    <seg n="28" xml:id="s28"></seg>
+    <seg n="29" xml:id="s29"> car le cours des choses humaines est tel, que la vertu du viuant est tousiours enuiée et deprimée par detracteurs, qui se pensent aduantager en reputation, s'ils mesprisent les labeurs d’autruy. </seg>
+    <seg n="30" xml:id="s30"></seg>
+    <seg n="31" xml:id="s31">Mais l'homme de scauoir et de bon iugement ne doibt regarder à telz resueurs, et plus tost s’en mocquer du tout. </seg>
+    <seg n="32" xml:id="s32"></seg>
+    <seg n="33" xml:id="s33">Ainsi faisant, ie poursuiuray mon effort, et LA MANIERE DE BIEN TRADUIRE D’VNE LANGVE EN AVTRE. </seg>
+    <seg n="34" xml:id="s34"></seg>
+    <seg n="35" xml:id="s35">L A maniere de bien traduire d'vne langue en autre, requiert principallement cinq choses. </seg>
+    <seg n="36" xml:id="s36"></seg>
+    <seg n="37" xml:id="s37">En premier lieu, il fault que le traducteur entende parfaictement le sens et matiere de l'autheur qu’il traduict;</seg>
+    <seg n="38" xml:id="s38"></seg>
+    <seg n="39" xml:id="s39"> car par ceste intelligence il ne sera iamais obscur en sa traduction :</seg>
+    <seg n="40" xml:id="s40"></seg>
+    <seg n="41" xml:id="s41"> et si l'autheur lequel il traduict est aucunement scabreux, il le pourra rendre facile et du tout intelligible. </seg>
+    <seg n="42" xml:id="s42"></seg>
+    <seg n="43" xml:id="s43">Et de ce ie te vois bailler exemple familierement. </seg>
+    <seg n="44" xml:id="s44"></seg>
+    <seg n="45" xml:id="s45">Dedans le premier liure des questions Tusculanes de Ciceron, il y a vn tel pasage latin :</seg>
+    <seg n="46" xml:id="s46"></seg>
+    <seg n="47" xml:id="s47"> « Animum autem animam » etiam fere nostri declarant nominari :</seg>
+    <seg n="48" xml:id="s48"></seg>
+    <seg n="49" xml:id="s49"> nam et agere » animam, et efflare dicimus :</seg>
+    <seg n="50" xml:id="s50"></seg>
+    <seg n="51" xml:id="s51"> et animosos, et bene » animatos :</seg>
+    <seg n="52" xml:id="s52"></seg>
+    <seg n="53" xml:id="s53"> et ex animi sententia. </seg>
+    <seg n="54" xml:id="s54"></seg>
+    <seg n="55" xml:id="s55">Ipse autem animus » ab anima dictus est. » Traduisant cest oeuure de Ciceron, i’ay parlé comme il s’ensuyt. « Quant à la difference (dy ie) de ces dictions animus et anima, il ne s'y fault point arrester :</seg>
+    <seg n="56" xml:id="s56"></seg>
+    <seg n="57" xml:id="s57"> car les facons de parler Latines, qui sont deduictes de ces deux mots, nous donnent à entendre qu’ilz signifient presque vne mesme chose. </seg>
+    <seg n="58" xml:id="s58"></seg>
+    <seg n="59" xml:id="s59">Et est certain que animus est dict de anima, et que anima est l’organe de animus, comme si tu voulois dire la vertu, et instrumens vitaulx estre origine de l’esperit:</seg>
+    <seg n="60" xml:id="s60"></seg>
+    <seg n="61" xml:id="s61"> et icelluy esperit estre vn effect de ladicte vertu vitale. </seg>
+    <seg n="62" xml:id="s62"></seg>
+    <seg n="63" xml:id="s63">Dy moy, toy qui entends Latin, estoit il possible de bien traduire ce passage sans vne grande intelligence de Ciceron?</seg>
+    <seg n="64" xml:id="s64"></seg>
+    <seg n="65" xml:id="s65"> Or saiche donques qu'il est besoing et necessaire à tout traducteur d’entendre parfaictement le sens de l’autheur, qu’il tourne d’vne langue en autre. </seg>
+    <seg n="66" xml:id="s66"></seg>
+    <seg n="67" xml:id="s67">Et sans cela, il ne peut traduire seurement et fidelement. </seg>
+    <seg n="68" xml:id="s68"></seg>
+    <seg n="69" xml:id="s69">La seconde chose qui est requise en traduction, c'est que le traducteur ait parfaicte congnoissance de la langue de l'autheur qu’il traduict:</seg>
+    <seg n="70" xml:id="s70"></seg>
+    <seg n="71" xml:id="s71"> et soit pareillement excellent en la langue en laquelle il se mect à traduire. </seg>
+    <seg n="72" xml:id="s72"></seg>
+    <seg n="73" xml:id="s73">Par ainsi il ne violera, et n’amoindrira la maiesté de l’vne et l'autre langue. </seg>
+    <seg n="74" xml:id="s74"></seg>
+    <seg n="75" xml:id="s75">Cuydes tu que si vn homme n’est parfaict on la langue Latine et Francoyse, qu’il puisse bien traduire en Francoys quelque oraison de Ciceron?</seg>
+    <seg n="76" xml:id="s76"></seg>
+    <seg n="77" xml:id="s77"> Entends que chascune langue a ses proprietés, translations en dictions, locutions, subtilités at vehemences à elle particulieres. </seg>
+    <seg n="78" xml:id="s78"></seg>
+    <seg n="79" xml:id="s79">Les quelles, si le traducteur ignore, il faict tort à l'autheur qu'il traduict, et aussy à la langue en la quelle il le tourne;</seg>
+    <seg n="80" xml:id="s80"></seg>
+    <seg n="81" xml:id="s81"> car il ne represente et n’exprime la dignité et richesse de ces deux langues, des quelles il prend le maniement. </seg>
+    <seg n="82" xml:id="s82"></seg>
+    <seg n="83" xml:id="s83">Le tiers poinct est qu’en traduisant il ne se fault pas asseruir iusques à la que l’on rende mot pour mot. </seg>
+    <seg n="84" xml:id="s84"></seg>
+    <seg n="85" xml:id="s85">Et si aucun le faict, cela luy procede de pauureté et deffault d’esprit. </seg>
+    <seg n="86" xml:id="s86"></seg>
+    <seg n="87" xml:id="s87">Car, s’il a les qualitez dessusdictes (les quelles il est besoing estre en vn bon traducteur), sans auoir esgard à l’ordre des mots, il s'arrestera aux sentences, et faira en sorte que l’intention de l’autheur sera exprimée, gardant curieusement la proprieté de l’vne et l’aultre langue. </seg>
+    <seg n="88" xml:id="s88"></seg>
+    <seg n="89" xml:id="s89">Et par ainsi, c’est superstition trop grande (diray ie besterie ou ignorance ?</seg>
+    <seg n="90" xml:id="s90"></seg>
+    <seg n="91" xml:id="s91">) de commencer sa traduction au commencement de la clausule. </seg>
+    <seg n="92" xml:id="s92"></seg>
+    <seg n="93" xml:id="s93">Mais si, l'ordre des mots peruerti, tu exprimes l’intention de celuy que tu traduis, aucun ne t’en peult reprendre. </seg>
+    <seg n="94" xml:id="s94"></seg>
+    <seg n="95" xml:id="s95">Ie ne veulx taire icy la follie d’aucuns traducteurs, lesquelz, au lieu de liberté, se submettent à seruitude. </seg>
+    <seg n="96" xml:id="s96"></seg>
+    <seg n="97" xml:id="s97">C'est asscauoir qu'ils sont si sotz, qu'ilz s'efforcent de rendre ligne pour ligne ou vers pour vers, par laquelle erreur ilz deprauent souuont le sens de l’autheur qu'ilz traduisent, et n’expriment la grace et perfection de l'vne et l'autre langue. </seg>
+    <seg n="98" xml:id="s98"></seg>
+    <seg n="99" xml:id="s99">Tu te garderas diligemment de ce vice, qui ne demonstre autre chose que l’ingnorance du traducteur. </seg>
+    <seg n="100" xml:id="s100"></seg>
+    <seg n="101" xml:id="s101">La quatriesme reigle que ie veulx bailler en cest endroict, et plus à obseruer en langues non reduictes en art, qu’en autres. </seg>
+    <seg n="102" xml:id="s102"></seg>
+    <seg n="103" xml:id="s103">I'appelle langues non reduictes encores en art certain et repceu :</seg>
+    <seg n="104" xml:id="s104"></seg>
+    <seg n="105" xml:id="s105"> comme est la Francoyse, l’Italienne, I'Hespaignole, celle d’Allemaigne, d'Angleterre, et autres vulgaires. </seg>
+    <seg n="106" xml:id="s106"></seg>
+    <seg n="107" xml:id="s107">S'il aduient, doncques que tu traduises quelque liure Latin en icelles, mesmement en la Francoyse, il te fault garder d’vsurper mos trop approchans du Latin, et peu vsitez par le passé:</seg>
+    <seg n="108" xml:id="s108"></seg>
+    <seg n="109" xml:id="s109"> mais contente toy du commun, sans innouer aucunes dictions follement, et par curiosité reprehensible. </seg>
+    <seg n="110" xml:id="s110"></seg>
+    <seg n="111" xml:id="s111">Ce que si aucuns font, ne les ensuy en cela:</seg>
+    <seg n="112" xml:id="s112"></seg>
+    <seg n="113" xml:id="s113"> car leur arrogance ne vault rien, et n’est tollerable entre les gens scauans. </seg>
+    <seg n="114" xml:id="s114"></seg>
+    <seg n="115" xml:id="s115">Pour cela n’entends pas que ie die que le traducteur s’abstienne totallement de mots qui sont hors de l’vsaige commun :</seg>
+    <seg n="116" xml:id="s116"></seg>
+    <seg n="117" xml:id="s117"> car on scait bien que la langue Grecque ou Latine est trop plus riche en dictions, que la Francoyse qui nous contrainct souuent d'vser de mots peu frequentés. </seg>
+    <seg n="118" xml:id="s118"></seg>
+    <seg n="119" xml:id="s119">Mais cela se doibt faire à l'extresme necessité. </seg>
+    <seg n="120" xml:id="s120"></seg>
+    <seg n="121" xml:id="s121">Ie scay bien en oultre qu’aulcuns pourroient dire que la plus part des dictions de la langue Francoyse est deriuée de la Latine, et que noz predecesseurs ont heu l’autorité de les mettre en vsaige, les modernes et posterieures en peuuent autant faire. </seg>
+    <seg n="122" xml:id="s122"></seg>
+    <seg n="123" xml:id="s123">Tout cela se peult debattre entre babillarts:</seg>
+    <seg n="124" xml:id="s124"></seg>
+    <seg n="125" xml:id="s125"> mais le meilleur est de suyure le commun langage. </seg>
+    <seg n="126" xml:id="s126"></seg>
+    <seg n="127" xml:id="s127">En mon Orateur Francoys ie traicteray ce poinct plus amplement, et auec plus grand' demonstration. </seg>
+    <seg n="128" xml:id="s128"></seg>
+    <seg n="129" xml:id="s129">Venons maintenant à la cinquiesme reigle que doibt obseruer vn bon traducteur. </seg>
+    <seg n="130" xml:id="s130"></seg>
+    <seg n="131" xml:id="s131">La quelle est de si grand' vertu, que sans elle toute composition est lourde et mal plaisante. </seg>
+    <seg n="132" xml:id="s132"></seg>
+    <seg n="133" xml:id="s133">Mais qu’est ce qu’elle contient?</seg>
+    <seg n="134" xml:id="s134"></seg>
+    <seg n="135" xml:id="s135"> rien autre chose que l’obseruation des nombres oratoires:</seg>
+    <seg n="136" xml:id="s136"></seg>
+    <seg n="137" xml:id="s137"> c’est asscauoir vne liaison et assemblement des dictions auec telle doulceur, que non seulemont l’ame s’en contente, mais aussi les oreilles on sont toutes rauies, et ne se faschent iamais d'vne telle harmonie de langage :</seg>
+    <seg n="138" xml:id="s138"></seg>
+    <seg n="139" xml:id="s139"> d’yceulx nombres oratoires ie parle plus copieusement en mon orateur :</seg>
+    <seg n="140" xml:id="s140"></seg>
+    <seg n="141" xml:id="s141"> par quoy n’en feray icy plus long discours. </seg>
+    <seg n="142" xml:id="s142"></seg>
+    <seg n="143" xml:id="s143">Et de rechef aduertiray le traducteur d’y prendre garde:</seg>
+    <seg n="144" xml:id="s144"></seg>
+    <seg n="145" xml:id="s145"> car sans l’obseruation des nombres, on ne peult estre esmerueillable en quelque composition que ce soit :</seg>
+    <seg n="146" xml:id="s146"></seg>
+    <seg n="147" xml:id="s147"> et sans yceulx les sentences ne peuuent estre graues et auoir leur poids requis et legitime. </seg>
+    <seg n="148" xml:id="s148"></seg>
+    <seg n="149" xml:id="s149">Car penses tu que ce soit assés d’auoir la diction propre et elegante sans vne bonne copulation des mots?</seg>
+    <seg n="150" xml:id="s150"></seg>
+    <seg n="151" xml:id="s151"> le t’aduise que c’est autant que d’vn monceau de diuerses pierres precieuses mal ordonnées :</seg>
+    <seg n="152" xml:id="s152"></seg>
+    <seg n="153" xml:id="s153"> lesquelles ne peuuent auoir leur lustre, à cause d’vne collocation impertinente. </seg>
+    <seg n="154" xml:id="s154"></seg>
+    <seg n="155" xml:id="s155">Ou c’est aultant que de diuers instruments musicaulx mal conduicts par les ioueurs ingnorantz de l’art peu congnoissantz les tons et mesures de la musique. </seg>
+    <seg n="156" xml:id="s156"></seg>
+    <seg n="157" xml:id="s157">En somme, c’est peu de la splendeur des motz, si l’ordre et collocation d’yceulx n'est telle qu’il appartient. </seg>
+    <seg n="158" xml:id="s158"></seg>
+    <seg n="159" xml:id="s159">En cela sur tous fut iadis estimé Isocrate, orateur grec :</seg>
+    <seg n="160" xml:id="s160"></seg>
+    <seg n="161" xml:id="s161"> et pareillement Demostene. </seg>
+    <seg n="162" xml:id="s162"></seg>
+    <seg n="163" xml:id="s163">Entre les latins, Marc Tulle Ciceron a esté grand obserauateur des nombres. </seg>
+    <seg n="164" xml:id="s164"></seg>
+    <seg n="165" xml:id="s165">Mais ne pense pas que cela se doibue plus obseruer par les orateurs que par les historiographes. </seg>
+    <seg n="166" xml:id="s166"></seg>
+    <seg n="167" xml:id="s167">Et qu'ainsi soit, tu ne trouueras Cæsar et Salluste moins nombreux que Ciceron. </seg>
+    <seg n="168" xml:id="s168"></seg>
+    <seg n="169" xml:id="s169">Conclusion quant à ce propos, sans grande obseruation des nombres vn autheur n’est rien:</seg>
+    <seg n="170" xml:id="s170"></seg>
+    <seg n="171" xml:id="s171"> et auec yceulx il ne peult faillir à auoir bruict en eloquence si pareillement il est propre en diction, et graue en sentences:</seg>
+    <seg n="172" xml:id="s172"></seg>
+    <seg n="173" xml:id="s173"> et en arguments subtil. </seg>
+    <seg n="174" xml:id="s174"></seg>
+    <seg n="175" xml:id="s175">Qui sont les poincts d'vn orateur parfaict, et vrayment comblé de toute gloire d’eloquence. </seg>
+    <seg n="176" xml:id="s176"></seg>
+    <seg n="177" xml:id="s177">FIN. </seg>
+    <seg n="178" xml:id="s178"></seg>
+    <seg n="179" xml:id="s179">LA PVNCTVATION DE LA LANGVE FRANCOYSE. </seg>
+    <seg n="180" xml:id="s180"></seg>
+    <seg n="181" xml:id="s181">S I toutes les langues generalement on leurs differences en parler et escripture, toutesfoys non obsant cela elles n'ont qu'vne punctuation seulement :</seg>
+    <seg n="182" xml:id="s182"></seg>
+    <seg n="183" xml:id="s183"> et ne trouueras qu’en ycelle les Grecs, Latins, Francoys, Italiens ou Hespaignolz soient differents. </seg>
+    <seg n="184" xml:id="s184"></seg>
+    <seg n="185" xml:id="s185">Doncques ie t'instruiray briefuement en cecy. </seg>
+    <seg n="186" xml:id="s186"></seg>
+    <seg n="187" xml:id="s187">Et pour t’y bien endoctriner il est besoing de deux choses. </seg>
+    <seg n="188" xml:id="s188"></seg>
+    <seg n="189" xml:id="s189">L’vne est que tu congnoisses les noms et figures des points :</seg>
+    <seg n="190" xml:id="s190"></seg>
+    <seg n="191" xml:id="s191"> l’autre que tu entendes les lieux ou il les fault mettre. </seg>
+    <seg n="192" xml:id="s192"></seg>
+    <seg n="193" xml:id="s193">Quand aux figures elles sont telles qu’il s’ensuit, ou en ceste sorte:</seg>
+    <seg n="194" xml:id="s194"></seg>
+    <seg n="195" xml:id="s195"> plus confirmer ceste amytié, allant en Flandre il a passé (chose non esperée) par le royaulme de France, ou il a esté repceu en grand honneur, et extresme ioye du peuple. </seg>
+    <seg n="196" xml:id="s196"></seg>
+    <seg n="197" xml:id="s197">Car qui ne se reiouyroit d’vng tel accord?</seg>
+    <seg n="198" xml:id="s198"></seg>
+    <seg n="199" xml:id="s199"> Qui ne loueroit Dieu de veoir guerre assopie, et paix regner entre les chrestiens?</seg>
+    <seg n="200" xml:id="s200"></seg>
+    <seg n="201" xml:id="s201"> O que longtemps auons desiré ce bien!</seg>
+    <seg n="202" xml:id="s202"></seg>
+    <seg n="203" xml:id="s203"> o que bien heureux soient qui ont traité cest accord!</seg>
+    <seg n="204" xml:id="s204"></seg>
+    <seg n="205" xml:id="s205"> que mauldicts soient qui tascheront de le rompre!</seg>
+    <seg n="206" xml:id="s206"></seg>
+    <seg n="207" xml:id="s207"> Au premier Periode (qui commence l'Empereur congnoissant) ie te veux monstrer l’vsage du Poinct à queue, du Comma, de la Parenthese et du Poinct final, aultrement dict Poinct rond. </seg>
+    <seg n="208" xml:id="s208"></seg>
+    <seg n="209" xml:id="s209">Le Poinct à queue ne sert d'aultre chose que de distinguer les dictions et locutions l'vne de l’autre. </seg>
+    <seg n="210" xml:id="s210"></seg>
+    <seg n="211" xml:id="s211">Et ce ou en adiectifs, substantits, verbes ou aduerbes simples. </seg>
+    <seg n="212" xml:id="s212"></seg>
+    <seg n="213" xml:id="s213">Ou auec adiectifs ioincts aux substantiſs expressement. </seg>
+    <seg n="214" xml:id="s214"></seg>
+    <seg n="215" xml:id="s215">Ou auec adiectifs gouuernans vng substantif. </seg>
+    <seg n="216" xml:id="s216"></seg>
+    <seg n="217" xml:id="s217">Ou auec verbes regissans cas, ce que nous appellons locutions. </seg>
+    <seg n="218" xml:id="s218"></seg>
+    <seg n="219" xml:id="s219">Exemple de l’adiectif simple. </seg>
+    <seg n="220" xml:id="s220"></seg>
+    <seg n="221" xml:id="s221">Il est bon, beau, aduenant, ieune et riche. </seg>
+    <seg n="222" xml:id="s222"></seg>
+    <seg n="223" xml:id="s223">Ne vois-tu pas que ce Poinct distingue ces dictions bon, beau, aduenant, ieune et riche?</seg>
+    <seg n="224" xml:id="s224"></seg>
+    <seg n="225" xml:id="s225"> Exemple du substantif simple. </seg>
+    <seg n="226" xml:id="s226"></seg>
+    <seg n="227" xml:id="s227">Il est plein de grand' plus puissant. </seg>
+    <seg n="228" xml:id="s228"></seg>
+    <seg n="229" xml:id="s229">Exemple de Et. </seg>
+    <seg n="230" xml:id="s230"></seg>
+    <seg n="231" xml:id="s231">Il a tousiours esté consant et en bonne fortune, et en mauuaise. </seg>
+    <seg n="232" xml:id="s232"></seg>
+    <seg n="233" xml:id="s233">Ie viens maintenant à parler du Comma:</seg>
+    <seg n="234" xml:id="s234"></seg>
+    <seg n="235" xml:id="s235"> lequel se mect en sentence suspendue, et non du tout finie. </seg>
+    <seg n="236" xml:id="s236"></seg>
+    <seg n="237" xml:id="s237">Et aulcunesfois il n’y en a qu’vn en vne sentence:</seg>
+    <seg n="238" xml:id="s238"></seg>
+    <seg n="239" xml:id="s239"> aulcunesfois deux, ou trois. </seg>
+    <seg n="240" xml:id="s240"></seg>
+    <seg n="241" xml:id="s241">Exemple. </seg>
+    <seg n="242" xml:id="s242"></seg>
+    <seg n="243" xml:id="s243">Il est bon de n’offenser personne:</seg>
+    <seg n="244" xml:id="s244"></seg>
+    <seg n="245" xml:id="s245"> car il n'est nul petit ennemy:</seg>
+    <seg n="246" xml:id="s246"></seg>
+    <seg n="247" xml:id="s247"> et chascun tasche de se venger, quand il est offensé. </seg>
+    <seg n="248" xml:id="s248"></seg>
+    <seg n="249" xml:id="s249">Quant à la Parenthese, c’est vne interposition qui a son sens parfaict:</seg>
+    <seg n="250" xml:id="s250"></seg>
+    <seg n="251" xml:id="s251"> et pour son interuention ou detraction, elle ne rend la Clausule plus parfaicte ou imparfaicte. </seg>
+    <seg n="252" xml:id="s252"></seg>
+    <seg n="253" xml:id="s253">Exemple. </seg>
+    <seg n="254" xml:id="s254"></seg>
+    <seg n="255" xml:id="s255">Allant en Flandre il a passé (chose non esperée) par le royaulme de France. </seg>
+    <seg n="256" xml:id="s256"></seg>
+    <seg n="257" xml:id="s257">Oste Ia Parenthese, le sens sera aussy parfaict que sy elle y estoit. </seg>
+    <seg n="258" xml:id="s258"></seg>
+    <seg n="259" xml:id="s259">Ce qui est facile à congnoistre. </seg>
+    <seg n="260" xml:id="s260"></seg>
+    <seg n="261" xml:id="s261">Entends aussy que la Parenthese peult auoir lieu partout le discours du periode:</seg>
+    <seg n="262" xml:id="s262"></seg>
+    <seg n="263" xml:id="s263"> sinon au commencement et à la fin. </seg>
+    <seg n="264" xml:id="s264"></seg>
+    <seg n="265" xml:id="s265">D’aduantage il est à noter que deuant, ou apres la parenthese il n’y eschet aulcun poinct à queue ou final. </seg>
+    <seg n="266" xml:id="s266"></seg>
+    <seg n="267" xml:id="s267">Et dedens y en eschet aussi peu :</seg>
+    <seg n="268" xml:id="s268"></seg>
+    <seg n="269" xml:id="s269"> si ce n'est vn interrogant ou vn admiratif. </seg>
+    <seg n="270" xml:id="s270"></seg>
+    <seg n="271" xml:id="s271">Exemple du premier. </seg>
+    <seg n="272" xml:id="s272"></seg>
+    <seg n="273" xml:id="s273">Si ie puys iamais auoir puissance, ie me vengeray d’vn si vilain tour (en doibs ie faire moins?</seg>
+    <seg n="274" xml:id="s274"></seg>
+    <seg n="275" xml:id="s275">) et luy donneray à entendre qu’il me souuient d'vne iniure dix ans apres qu'elle m’est faicte. </seg>
+    <seg n="276" xml:id="s276"></seg>
+    <seg n="277" xml:id="s277">Exemple du second. </seg>
+    <seg n="278" xml:id="s278"></seg>
+    <seg n="279" xml:id="s279">Estant le plus fort en toutes choses il fut vaincu (quel hasard de guerre!</seg>
+    <seg n="280" xml:id="s280"></seg>
+    <seg n="281" xml:id="s281">) et tost apres fut victeur seulement par prudence. </seg>
+    <seg n="282" xml:id="s282"></seg>
+    <seg n="283" xml:id="s283">Sans aulcune vigneur de Parenthese on trouue quelquesfois vn demy cercle en ceste sorte) ou ainsi ], et cela se faict quand nous exposons quelque mot, ou quant nous glosons quelque sentence d’aulcun autheur Grec, Latin, Francoys ou de toute autre langue. </seg>
+    <seg n="284" xml:id="s284"></seg>
+    <seg n="285" xml:id="s285">On trouue aussi ces demys cercles aucunesfois doublés:</seg>
+    <seg n="286" xml:id="s286"></seg>
+    <seg n="287" xml:id="s287"> et ce sans force de Parenthese. </seg>
+    <seg n="288" xml:id="s288"></seg>
+    <seg n="289" xml:id="s289">Ils se doublent doncq' ainsi [ ] ou 6 9. </seg>
+    <seg n="290" xml:id="s290"></seg>
+    <seg n="291" xml:id="s291">Et lors en iceulx est comprinse quelque addition, ou exposition notée sur la matiere, que traicte l’autheur par nous interpreté. </seg>
+    <seg n="292" xml:id="s292"></seg>
+    <seg n="293" xml:id="s293">Mais le tout (comme i'ay dict) se faict sans efficace de Parenthese. </seg>
+    <seg n="294" xml:id="s294"></seg>
+    <seg n="295" xml:id="s295">Lisant les bons autheurs, et bien imprimés, tu pourras congnoistre ma traditiue estre vraye. </seg>
+    <seg n="296" xml:id="s296"></seg>
+    <seg n="297" xml:id="s297">Quant au Poinct final autrement dict Poinct rond, il se mect tousiours à la fin de la sentence, et iamais n’est en aultre lieu. </seg>
+    <seg n="298" xml:id="s298"></seg>
+    <seg n="299" xml:id="s299">Et apres luy on commence vouIontiers par vne grande lettre. </seg>
+    <seg n="300" xml:id="s300"></seg>
+    <seg n="301" xml:id="s301">Au demeurant:</seg>
+    <seg n="302" xml:id="s302"></seg>
+    <seg n="303" xml:id="s303"> il n’y a que deux poincts:</seg>
+    <seg n="304" xml:id="s304"></seg>
+    <seg n="305" xml:id="s305"> c’est 'interrogant et admiratif :</seg>
+    <seg n="306" xml:id="s306"></seg>
+    <seg n="307" xml:id="s307"> et l'vn et l'aultre est final en sens :</seg>
+    <seg n="308" xml:id="s308"></seg>
+    <seg n="309" xml:id="s309"> et en peult auoir plusieurs en vne periode. </seg>
+    <seg n="310" xml:id="s310"></seg>
+    <seg n="311" xml:id="s311">L’interrogant se faict par interrogation pleine addresée à vn ou plusieurs tacitement. </seg>
+    <seg n="312" xml:id="s312"></seg>
+    <seg n="313" xml:id="s313">Exemple:</seg>
+    <seg n="314" xml:id="s314"></seg>
+    <seg n="315" xml:id="s315"> Qui ne se resiouiroit d'vn tel accord?</seg>
+    <seg n="316" xml:id="s316"></seg>
+    <seg n="317" xml:id="s317"> Qui ne loueroit Dieu de voir guerre assopie et paix regner entre les chrestiens ?</seg>
+    <seg n="318" xml:id="s318"></seg>
+    <seg n="319" xml:id="s319"> L’admiratif n’a si grand' vehemence:</seg>
+    <seg n="320" xml:id="s320"></seg>
+    <seg n="321" xml:id="s321"> et eschet en admiration procedante de ioye ou detestation de vice et meschanceté faicte. </seg>
+    <seg n="322" xml:id="s322"></seg>
+    <seg n="323" xml:id="s323">Il conuient aussi en expression de soubhait et desir. </seg>
+    <seg n="324" xml:id="s324"></seg>
+    <seg n="325" xml:id="s325">Brief:</seg>
+    <seg n="326" xml:id="s326"></seg>
+    <seg n="327" xml:id="s327"> il peult estre partout où il y a interiection. </seg>
+    <seg n="328" xml:id="s328"></seg>
+    <seg n="329" xml:id="s329">Exemple. </seg>
+    <seg n="330" xml:id="s330"></seg>
+    <seg n="331" xml:id="s331">O que longtemps auons desiré ce bien!</seg>
+    <seg n="332" xml:id="s332"></seg>
+    <seg n="333" xml:id="s333"> O que bien heureux soient qui ont traicté cet accord!</seg>
+    <seg n="334" xml:id="s334"></seg>
+    <seg n="335" xml:id="s335"> Que mauldicts soient qui tascheront de le rompre!</seg>
+    <seg n="336" xml:id="s336"></seg>
+    <seg n="337" xml:id="s337"> A tant te suffira de ce que i'ay dict des figures et collocation de la punctuation. </seg>
+    <seg n="338" xml:id="s338"></seg>
+    <seg n="339" xml:id="s339">Ie scay bien que plusieurs Grammariens latins en ont baillé d’auantage:</seg>
+    <seg n="340" xml:id="s340"></seg>
+    <seg n="341" xml:id="s341"> mais tu ne te doibs amuser à leurs resueries. </seg>
+    <seg n="342" xml:id="s342"></seg>
+    <seg n="343" xml:id="s343">Et si tu entends et obserues bien les reigles precedentes, tu ne fauldras à doctement punctuer. </seg>
+    <seg n="344" xml:id="s344"></seg>
+    <seg n="345" xml:id="s345">LES ACCENTS DE LA LANGVE FRANCOYSE. </seg>
+    <seg n="346" xml:id="s346"></seg>
+    <seg n="347" xml:id="s347">L ES gens doctes ont de coustume de faire seruir les accents en deux sortes. </seg>
+    <seg n="348" xml:id="s348"></seg>
+    <seg n="349" xml:id="s349">L'vne est en pronunciation et expression de voix, expression dicte Quantité de voyelle. </seg>
+    <seg n="350" xml:id="s350"></seg>
+    <seg n="351" xml:id="s351">L’aultre en imposition de marcque sur quelque diction. </seg>
+    <seg n="352" xml:id="s352"></seg>
+    <seg n="353" xml:id="s353">Du premier vsage nous ne parlerons icy aulcunement:</seg>
+    <seg n="354" xml:id="s354"></seg>
+    <seg n="355" xml:id="s355"> car il n'en est poinct de besoing. </seg>
+    <seg n="356" xml:id="s356"></seg>
+    <seg n="357" xml:id="s357">Et d’aduantage il a moins de lieu en la langue Francoyse qu’en toutes aultres:</seg>
+    <seg n="358" xml:id="s358"></seg>
+    <seg n="359" xml:id="s359"> veu que ses mesures sont fondées aur syllabes et non sur voyelles:</seg>
+    <seg n="360" xml:id="s360"></seg>
+    <seg n="361" xml:id="s361"> ce qui est tout au rebours en la langue Grecque et Latine. </seg>
+    <seg n="362" xml:id="s362"></seg>
+    <seg n="363" xml:id="s363">Quant à l'impositon de marcque (qui est le second membre de l’accent), i’en diray en ce Traicté ce Exemple en rhythme. </seg>
+    <seg n="364" xml:id="s364"></seg>
+    <seg n="365" xml:id="s365">Tu es tant belle et de grace tant bonne, Qu’à te seruir tout gentil cueur s’addonne. </seg>
+    <seg n="366" xml:id="s366"></seg>
+    <seg n="367" xml:id="s367">Necessairement en ce mot belle, le dernier e est mangé, ou autrement le vers seroit tron long. </seg>
+    <seg n="368" xml:id="s368"></seg>
+    <seg n="369" xml:id="s369">Et les Faictistes, qui composent rhythmes en langage vulgaire, appellent cela couppe feminine, c’est à dire abolition de l’e feminin, qui rencontre vne aultre voyelle, par laquelle il est aboli apres la quatriesme syllabe du vers. </seg>
+    <seg n="370" xml:id="s370"></seg>
+    <seg n="371" xml:id="s371">De cecy ie parleray plus amplement en l'art poétique. </seg>
+    <seg n="372" xml:id="s372"></seg>
+    <seg n="373" xml:id="s373">Ce dict e feminin est aucunes foys autrement mangé par apostrophe. </seg>
+    <seg n="374" xml:id="s374"></seg>
+    <seg n="375" xml:id="s375">Or l’apostrophe oste du tout la voyelle finale de ce qui precede la voyelle du mot ensuyuant, et faict qu’elle ne s’escript, ne profere aucunement, et suffist que seulement on la marque en dessus par son petit poinct. </seg>
+    <seg n="376" xml:id="s376"></seg>
+    <seg n="377" xml:id="s377">Deuant que de t'en bailler exemple, ie t’aduertis qu’apostrophe eschet princinalement sur ces monosyllabes, ce, se, si, te, me, que, ne, ie, re, le, la, de. </seg>
+    <seg n="378" xml:id="s378"></seg>
+    <seg n="379" xml:id="s379">Et combien que les Francoys n'ayent de coustume de signer ledict apostrophe, si en vsent ilz Exemple de si:</seg>
+    <seg n="380" xml:id="s380"></seg>
+    <seg n="381" xml:id="s381"> S'il estoit possible, ie vouldrois bien faire cela. </seg>
+    <seg n="382" xml:id="s382"></seg>
+    <seg n="383" xml:id="s383">Pour si il estoit possible:</seg>
+    <seg n="384" xml:id="s384"></seg>
+    <seg n="385" xml:id="s385"> Toutesfoys tu ne verras gueres qu’il recoipue apostrophe auec autre mot que ce mot il. </seg>
+    <seg n="386" xml:id="s386"></seg>
+    <seg n="387" xml:id="s387">Exemple de toutes autres voyelles. </seg>
+    <seg n="388" xml:id="s388"></seg>
+    <seg n="389" xml:id="s389">De la voyelle a:</seg>
+    <seg n="390" xml:id="s390"></seg>
+    <seg n="391" xml:id="s391"> Si audace estoit prisée, chascun seroit audacieux. </seg>
+    <seg n="392" xml:id="s392"></seg>
+    <seg n="393" xml:id="s393">De la voyelle e:</seg>
+    <seg n="394" xml:id="s394"></seg>
+    <seg n="395" xml:id="s395"> Si eloquence est en luy grande, ce n’est de merueille;</seg>
+    <seg n="396" xml:id="s396"></seg>
+    <seg n="397" xml:id="s397"> car il a vn esperit merueilleux, et puis il estudie continuellement en Ciceron. </seg>
+    <seg n="398" xml:id="s398"></seg>
+    <seg n="399" xml:id="s399">De la voyelle i:</seg>
+    <seg n="400" xml:id="s400"></seg>
+    <seg n="401" xml:id="s401"> Si ignorance vient à regner, tout est perdu. </seg>
+    <seg n="402" xml:id="s402"></seg>
+    <seg n="403" xml:id="s403">De la voyelle o:</seg>
+    <seg n="404" xml:id="s404"></seg>
+    <seg n="405" xml:id="s405"> Si orgueil est en vn homme, ie ne le puis frequenter. </seg>
+    <seg n="406" xml:id="s406"></seg>
+    <seg n="407" xml:id="s407">De la voyelle u:</seg>
+    <seg n="408" xml:id="s408"></seg>
+    <seg n="409" xml:id="s409"> Si vn homme diligent peult paruenir à richesses, i’espere quelque iour estre riche. </seg>
+    <seg n="410" xml:id="s410"></seg>
+    <seg n="411" xml:id="s411">En tous ces exemples, ie confesse que l’apostrophe y peult escheoir:</seg>
+    <seg n="412" xml:id="s412"></seg>
+    <seg n="413" xml:id="s413"> mais auec apostrophe le parler sera plus rude que sans apostrophe:</seg>
+    <seg n="414" xml:id="s414"></seg>
+    <seg n="415" xml:id="s415"> ce que peult facilement iuger vn homme d’oreilles delicates, i'excepte tousiours les licences poetiques et les laisse en leur entier. </seg>
+    <seg n="416" xml:id="s416"></seg>
+    <seg n="417" xml:id="s417">Car vn poete pourra dire (à cause de sa rythme) s’audace, s’eloquence, s’ignorance, s'orgueil s'vn homme. </seg>
+    <seg n="418" xml:id="s418"></seg>
+    <seg n="419" xml:id="s419">D'aduantage il te conuient scauoir que ceste particule si est aulcunes foys conditionnale ou demonstrauable en la langue Francoyse, combien qu'aulcuns soient d’autre opinion. </seg>
+    <seg n="420" xml:id="s420"></seg>
+    <seg n="421" xml:id="s421">Lesquelz disent qu’il eschet en ces dictions:</seg>
+    <seg n="422" xml:id="s422"></seg>
+    <seg n="423" xml:id="s423"> Ie, tu, vous, nous, ou, lon. </seg>
+    <seg n="424" xml:id="s424"></seg>
+    <seg n="425" xml:id="s425">La forme de cest accent est telle':</seg>
+    <seg n="426" xml:id="s426"></seg>
+    <seg n="427" xml:id="s427"> par ainsi ilz vouldroient estre escript on da sorte qui ensuit. </seg>
+    <seg n="428" xml:id="s428"></seg>
+    <seg n="429" xml:id="s429">M’atendrai' ie à vous?</seg>
+    <seg n="430" xml:id="s430"></seg>
+    <seg n="431" xml:id="s431"> feras' tu cela?</seg>
+    <seg n="432" xml:id="s432"></seg>
+    <seg n="433" xml:id="s433"> quant aurons' nous paix?</seg>
+    <seg n="434" xml:id="s434"></seg>
+    <seg n="435" xml:id="s435"> dict' on tel cas de moy?</seg>
+    <seg n="436" xml:id="s436"></seg>
+    <seg n="437" xml:id="s437"> voirra' lon iamais ces meschantz punitz?</seg>
+    <seg n="438" xml:id="s438"></seg>
+    <seg n="439" xml:id="s439"> De rechef, ie t'aduise que cela est superflu en la langue Francoyse et toutes autres;</seg>
+    <seg n="440" xml:id="s440"></seg>
+    <seg n="441" xml:id="s441"> car telz pronoms demeurent en leur vigueur, encores qu’ilz soient postposés à leurs verbes. </seg>
+    <seg n="442" xml:id="s442"></seg>
+    <seg n="443" xml:id="s443">Et qui plus est, l’accent enclitique ne conuient qu’en dictions indeclinables, comme sont en Latin, Ne, ve, que, nam. </seg>
+    <seg n="444" xml:id="s444"></seg>
+    <seg n="445" xml:id="s445">Qu’ainsi soit, on n'escript point en Latin en ceste forme:</seg>
+    <seg n="446" xml:id="s446"></seg>
+    <seg n="447" xml:id="s447"> « Feram' ego id iniuriæ?</seg>
+    <seg n="448" xml:id="s448"></seg>
+    <seg n="449" xml:id="s449"> eris' tu semper tam nullius consilii?</seg>
+    <seg n="450" xml:id="s450"></seg>
+    <seg n="451" xml:id="s451"> auersabimini' vos semper à vobis pauperes?</seg>
+    <seg n="452" xml:id="s452"></seg>
+    <seg n="453" xml:id="s453"> » Τiens doncques pour seur que tel accent n’est propre aulcunement à nostre langue:</seg>
+    <seg n="454" xml:id="s454"></seg>
+    <seg n="455" xml:id="s455"> qui sera fin de ce petit Oeuure.</seg>
   </standOff>
 </TEI>
