@@ -79,8 +79,8 @@ def dump(text, directory):
     # capture a period and space (group 1) before capital letter or ⁋ (group 2)
     s = re.sub(r"(\.\s)([A-ZÉÀ])", r"\g<1>\n\n\g<2>", s)
     # capture "Et " if it is not preceded by string beginning
-    s = re.sub(r"(?<!\n\n)Et\s|(?<!\n\n)⁋",r"\n\n\g<0>",s)
-    s = re.sub(r"(?<!\n\n);|(?<!\n\n)\?|(?<!\n\n)\!",r"\g<0>\n\n", s)
+    s = re.sub(r"(?<!\n\n)Et\s|(?<!\n\n)⁋|(?<!\n\n)¶",r"\n\n\g<0>",s)
+    s = re.sub(r"(?<!\n\n);|(?<!\n\n)\?|(?<!\n\n)\!|(?<!\n\n):",r"\g<0>\n\n", s)
     with open(os.path.join(os.path.dirname(directory),os.path.basename(directory)+".txt"), "w") as f:
         f.write(s)
 
