@@ -1,4 +1,4 @@
-schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: "Donn\xE9es imprim\xE9s du 16e si\xE8cle"
 description: "Corpus d'entrainement pour l'HTR constitu\xE9 d'imprim\xE9s du 16e si\xE8\
   cle"
@@ -33,7 +33,7 @@ license:
 project-name: Gallicorpora
 project-website: https://github.com/Gallicorpora
 script:
-- Latn
+- iso: Latn
 script-type: only-typed
 time:
   notAfter: '1599'
@@ -50,3 +50,4 @@ volume:
 - metric: regions
   count: 235
 citation-file-link: https://github.com/Gallicorpora/HTR-imprime-16e-siecle/CITATION.cff
+production-software: eScriptorium + Kraken
