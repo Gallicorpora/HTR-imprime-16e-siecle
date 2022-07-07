@@ -26,14 +26,14 @@ def body(root, data):
         last_element = div[-1]
 
         # NumberingZone, QuireMarksZone, and RunningTitleZone line
-        if line.zone_type == "NumberingZone" or line.zone_type == "QuireMarksZone" or line.zone_type == "RunningTitleZone":
+        if line.zone_type == "numberingZone" or line.zone_type == "quireMarksZone" or line.zone_type == "runningTitleZone":
             # enclose any page number, quire marks, or running title inside a <fw>
             fw = etree.Element("fw", zone_atts)
             last_element.addnext(fw)
             fw.append(lb)
 
         # MarginTextZone line
-        elif line.zone_type == "MarginTextZone":
+        elif line.zone_type == "marginTextZone":
             # create a <note> if one is not already the preceding sibling
             if last_element.tag != "note":
                 note = etree.Element("note", zone_atts)
@@ -43,7 +43,7 @@ def body(root, data):
                 last_element.append(lb)
             
         # MainZone line
-        elif line.zone_type == "MainZone":
+        elif line.zone_type == "mainZone":
             # create an <ab> if one is not already the preceding sibling 
             if last_element.tag != "ab":
                 ab = etree.Element("ab", zone_atts)
@@ -52,7 +52,7 @@ def body(root, data):
                 last_element = div[-1]
 
             # if the line is emphasized for being 
-            if line.line_type == "DropCapitalLine" or line.line_type == "HeadingLine":
+            if line.line_type == "dropCapitalLine" or line.line_type == "headingLine":
                 # check if there is already an emphasized line in this MainZone
                 ab_children = last_element.getchildren()
                 if len(ab_children) == 0 or ab_children[-1].tag != "hi":
@@ -63,6 +63,6 @@ def body(root, data):
                     ab_children[-1].append(lb)
             
             # if the line is not emphasized, append it to the last element in the <ab>
-            elif line.line_type == "DefaultLine":
+            elif line.line_type == "defaultLine":
                 last_element.append(lb)
                 

@@ -8,7 +8,7 @@ import requests
 import re
 
 
-class IIIF_API:
+class IIIF:
     def __init__(self, document):
         self.document = document
 
