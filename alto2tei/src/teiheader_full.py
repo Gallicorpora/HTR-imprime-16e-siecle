@@ -4,6 +4,7 @@
 # -----------------------------------------------------------
 
 from lxml import etree
+import re
 from collections import namedtuple
 from .sourcedoc_build import labels
 
@@ -95,7 +96,7 @@ class FullTree:
                     Entry("date","resp",None,"date_resp"),
                     # @key for <country> in <msDesc>, onyl data from SRU
                     Entry("country","key",None,"country"),
-                    # <respository> in <msDesc>, only data from SRU
+                    # <respository> in <msDesc>, only data from IIIF
                     Entry("repository",None,"Repository",None),
                     # <idno> in <msDesc>, data from IIIF or SRU
                     Entry("idno",None,"Shelfmark","idno"),
@@ -118,13 +119,7 @@ class FullTree:
             tei_element.text = data
 
     def segmonto_taxonomy(self, filepaths):
-        # Get all the tags used on the pages of this document
-        all_tags = [labels(f) for f in filepaths]
-        # Remove duplicates from the dictionary of tags
-        unique_tags = {}
-        [unique_tags.update(item) for item in [doc_tags.items() for doc_tags in all_tags]]
-
-        # List all the SegmOnto tags and a URL pointing to their description
+        # List all the SegmOnto tags and a URL pointing to their description.
         SegmOntoZones = {
                 "CustomZone":"https://segmonto.github.io/gd/gdZ/CustomZone/",
                 "DamageZone":"https://segmonto.github.io/gd/gdZ/DamageZone",
@@ -150,24 +145,34 @@ class FullTree:
                 "MusicLine":"https://segmonto.github.io/gd/gdL/MusicLine"
             }
         
-        # Create a list of zone tags used in this document
-        document_zones = [tag[1] for tag in unique_tags.items() if "Zone" in tag[1]]
-        # Create a list of line tags used in this document
-        document_lines = [tag[1] for tag in unique_tags.items() if "Line" in tag[1]]
+        # Get all the tags used on the pages of this document.
+        all_tag_dicts = [labels(f) for f in filepaths]
 
-        # Descending directly from <taxonomy>, create the TEI element <category> for SegmOnto zones
+        # With regex, extract the main part (string before a colon, if present) of a label in the tag dictionary.
+        # And use dictionary comprehension to parse all the labels in the document's tags dictionaries.
+        unique_labels = list(set(re.match(r"(\w+):?(\w+)?#?(\d?)?", value).group(1)\
+                                for dic in all_tag_dicts\
+                                for value in dic.values()))
+
+        # Create a list of zone tags used in this document.
+        document_zones = [label for label in unique_labels if "Zone" in label]
+        # Create a list of line tags used in this document.
+        document_lines = [label for label in unique_labels if "Line" in label]
+
+        # Descending directly from <taxonomy>, create the TEI element <category> for SegmOnto zones.
         cat_id = {"{http://www.w3.org/XML/1998/namespace}id":"SegmOntoZones"}
         category = etree.SubElement(self.children["taxonomy"], "category", cat_id)
-        # Enter into the <category> every zone in the document that is also named in the SemOnto guidelines
+        # Enter into the <category> every zone in the document that is also named in the SemOnto guidelines.
         for z in set(SegmOntoZones).intersection(set(document_zones)):
             self.enter_taxonomy_category(category, z, SegmOntoZones[z])
         
-        # Descending directly from <taxonomy>, create the TEI element <category> for SegmOnto lines
+        # Descending directly from <taxonomy>, create the TEI element <category> for SegmOnto lines.
         cat_id = {"{http://www.w3.org/XML/1998/namespace}id":"SegmOntoLines"}
         category = etree.SubElement(self.children["taxonomy"], "category", cat_id)
-        # Enter into the <category> every line in the document that is also named in the SemOnto guidelines
+        # Enter into the <category> every line in the document that is also named in the SemOnto guidelines.
         for l in set(SegmOntoLines).intersection(set(document_lines)):
             self.enter_taxonomy_category(category, l, SegmOntoLines[l])
+        return document_zones, document_lines
             
     def enter_taxonomy_category(self, category, tag, url):
         """Enter into the TEI-XML tree a <catDesc> for a specific SegmOnto line or zone.

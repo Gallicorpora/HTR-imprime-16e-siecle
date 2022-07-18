@@ -9,12 +9,17 @@ class TEI:
     metadata = {"sru":None, "iiif":None}
     tags = {}
     root = None
+    segmonto_zones = None
+    segmonto_lines = None
     def __init__(self, document, filepaths):
         self.d = document  # (str) this document's name / name of directory contiaining the ALTO files
         self.fp = filepaths  # (list) paths of ALTO files
         self.metadata  # (dict) dict with two keys ("iiif", "sru"), each of which is equal to its own dictionary of metadata
         self.tags  # (dict) a label-ref pair for each tag used in this document's ALTO files
         self.root  # (etree_Element) root for this document's XML-TEI tree
+        self.segmonto_zones
+        self.segmonto_lines
+
 
     def build_tree(self):
         """Parse and map data from ALTO files to an XML-TEI tree's <teiHeader> and <sourceDoc>.
@@ -27,14 +32,11 @@ class TEI:
     def build_header(self, config, version):
         # confirm that the metadata is being récupéré
         self.metadata = Metadata(self.d).prepare()
-        teiheader(self.metadata, self.d, self.root, len(self.fp), config, version, self.fp)
+        self.root, self.segmonto_zones, self.segmonto_lines = teiheader(self.metadata, self.d, self.root, len(self.fp), config, version, self.fp, self.segmonto_zones, self.segmonto_lines)
     
     def build_sourcedoc(self):
-        sourcedoc(self.d, self.root, self.fp, self.tags)
+        sourcedoc(self.d, self.root, self.fp, self.tags, self.segmonto_zones, self.segmonto_lines)
 
     def build_body(self):
-        if self.root.find('.//c') is not None:
-            print("Text data for <body> is not yet ready for this type of document.")
-        else:
-            text = Text(self.root)
-            body(self.root, text.data)
+        text = Text(self.root)
+        body(self.root, text.data)

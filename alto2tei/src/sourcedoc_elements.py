@@ -45,7 +45,7 @@ class SurfaceTree:
         Returns:
             _type_: _description_
         """        
-        xml_id = {"{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_id}-bn{blocks_on_page}"}
+        xml_id = {"{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_id}-blockCount{blocks_on_page}"}
         zone = etree.SubElement(surface, "zone", xml_id)
         for k,v in attributes.items():
             zone.attrib[k]=v
@@ -66,14 +66,14 @@ class SurfaceTree:
             _type_: _description_
         """         
         # -------------------------------------------
-        zone_id = {"{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_id}-ln{lines_on_page}"}
+        zone_id = {"{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_id}-lineCount{lines_on_page}"}
         # Insert the <zone> with this xml:id into the TEI-XML tree.
         zone = etree.SubElement(textblock, "zone", zone_id)
         # Insert the 
         for k,v in attributes.items():
             zone.attrib[k]=v
         # -------------------------------------------
-        path_id = {"{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_id}-ln{lines_on_page}-baseline"}
+        path_id = {"{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_id}-lineCount{lines_on_page}-baseline"}
         #
         baseline = etree.SubElement(zone, "path", path_id)
         #
@@ -82,7 +82,7 @@ class SurfaceTree:
         baseline.attrib["points"] = " ".join([re.sub(r"\s", ",", x) for x in re.findall(r"(\d+ \d+)", b)])
         return zone
 
-    def line(self, textline, block_parent, line_parent, lines_on_page):
+    def line(self, textline, block_parent, line_parent, lines_on_page, extracted_words):
         """If the ALTO file stores all of a line's textual data in the <TextLine> attribute @CONTENT, 
             make the xml:id for <line>.
 
@@ -95,12 +95,14 @@ class SurfaceTree:
         Returns:
             _type_: _description_
         """        
-        xml_id = {"{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-ln{lines_on_page}-text"}
+        xml_id = {"{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-lineCount{lines_on_page}-text"}
         # If the 
         line = etree.SubElement(textline, "line", xml_id)
         line.attrib["n"] = str(lines_on_page)
-        #
-        line.text = self.root.find(f'.//a:TextLine[@ID="{line_parent}"]/a:String', namespaces=NS).get("CONTENT")
+        if extracted_words:
+            line.text = extracted_words
+        else:
+            line.text = self.root.find(f'.//a:TextLine[@ID="{line_parent}"]/a:String', namespaces=NS).get("CONTENT")
         return line
         
     def zone3(self, textline, block_parent, line_parent, attributes, seg_id, strings_on_page):
@@ -117,7 +119,7 @@ class SurfaceTree:
         Returns:
             _type_: _description_
         """        
-        xml_id = {"{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-{seg_id}-sn{strings_on_page}"}
+        xml_id = {"{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-{seg_id}-segCount{strings_on_page}"}
         zone = etree.SubElement(textline, "zone", xml_id)
         for k,v in attributes.items():
             zone.attrib[k]=v
@@ -126,8 +128,8 @@ class SurfaceTree:
             and self.root.find(f'.//a:String[@ID="{seg_id}"]', namespaces=NS).get("WC") is not None:
             word_certainty = self.root.find(f'.//a:String[@ID="{seg_id}"]', namespaces=NS).get("WC")
             cert_attribs = {
-                "{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-{seg_id}-sn{strings_on_page}-cert",
-                "target":f"f{self.folio}-{block_parent}-{line_parent}-{seg_id}-sn{strings_on_page}-text",
+                "{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-{seg_id}-segCount{strings_on_page}-cert",
+                "target":f"f{self.folio}-{block_parent}-{line_parent}-{seg_id}-segCount{strings_on_page}-text",
                 "locus":"value",
                 "degree":word_certainty
             }
@@ -148,7 +150,7 @@ class SurfaceTree:
         Returns:
             _type_: _description_
         """        
-        xml_id = {"{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-{seg_parent}-{glyph_id}-gn{glyphs_on_page}"}
+        xml_id = {"{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-{seg_parent}-{glyph_id}-glyphCount{glyphs_on_page}"}
         zone = etree.SubElement(string, "zone", xml_id)
         for k,v in attributes.items():
             zone.attrib[k]=v
@@ -156,7 +158,7 @@ class SurfaceTree:
         if self.root.find(f'.//a:Glyph[@ID="{glyph_id}"]', namespaces=NS).get("GC") is not None:
             glyph_certainty = self.root.find(f'.//a:Glyph[@ID="{glyph_id}"]', namespaces=NS).get("GC")
             cert_attribs = {
-                "{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-{seg_parent}-{glyph_id}-gn{glyphs_on_page}-cert",
+                "{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-{seg_parent}-{glyph_id}-glyphCount{glyphs_on_page}-cert",
                 "locus":"value",
                 "degree":glyph_certainty
             }
@@ -164,12 +166,12 @@ class SurfaceTree:
         return zone
 
     def car(self, zone,  glyph, block_parent, line_parent, seg_parent, glyph_id, glyphs_on_page):     
-        xml_id = {"{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-{seg_parent}-{glyph_id}-gn{glyphs_on_page}-text"}
+        xml_id = {"{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-{seg_parent}-{glyph_id}-glyphCount{glyphs_on_page}-text"}
         car = etree.SubElement(zone, "c", xml_id)
         if self.root.find(f'.//a:Glyph[@ID="{glyph_id}"]', namespaces=NS).get("WC") is not None:
             word_certainty = self.root.find(f'.//a:Glyph[@ID="{glyph_id}"]', namespaces=NS).get("WC")
             cert_attribs = {
-                "{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-{seg_parent}-{glyph_id}-gn{glyphs_on_page}-cert",
+                "{http://www.w3.org/XML/1998/namespace}id":f"f{self.folio}-{block_parent}-{line_parent}-{seg_parent}-{glyph_id}-glyphCount{glyphs_on_page}-cert",
                 "locus":"value",
                 "degree":word_certainty
             }

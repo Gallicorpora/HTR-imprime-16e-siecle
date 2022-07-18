@@ -9,7 +9,7 @@ from src.teiheader_full import FullTree
 NS = {"s":"http://www.loc.gov/zing/srw/", "m":"info:lc/xmlns/marcxchange-v2"}
 
 
-def teiheader(metadata, document, root, count_pages, config, version, filepaths):
+def teiheader(metadata, document, root, count_pages, config, version, filepaths, segmonto_zones, segmonto_lines):
     """Create all elements of the <teiHeader>.
     Args:
         document (str): name of directory containing ALTO-encoded transcriptions of the document's pages
@@ -27,5 +27,5 @@ def teiheader(metadata, document, root, count_pages, config, version, filepaths)
     htree = FullTree(elements.children, metadata)  # full_teiheader.py
     htree.author_data()
     htree.bib_data()
-    htree.segmonto_taxonomy(filepaths)
-    return root
+    segmonto_zones, segmonto_lines = htree.segmonto_taxonomy(filepaths)
+    return root, segmonto_zones, segmonto_lines
