@@ -39,7 +39,7 @@
         <availability status="restricted" n="cc-by">
           <licence target="https://creativecommons.org/licenses/by/4.0/"/>
         </availability>
-        <date when="2022-07-29"/>
+        <date when="2022-08-18"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
@@ -93,48 +93,44 @@
             <ptr target="https://github.com/segmonto"/>
           </bibl>
           <category xml:id="SegmOntoZones">
-            <catDesc xml:id="NumberingZone">
-              <title>NumberingZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
+            <catDesc xml:id="RunningTitleZone">
+              <title>RunningTitleZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
             </catDesc>
             <catDesc xml:id="SealZone">
               <title>SealZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/SealZone"/>
             </catDesc>
-            <catDesc xml:id="QuireMarksZone">
-              <title>QuireMarksZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
-            </catDesc>
-            <catDesc xml:id="MainZone">
-              <title>MainZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
-            </catDesc>
-            <catDesc xml:id="DropCapitalZone">
-              <title>DropCapitalZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
-            </catDesc>
-            <catDesc xml:id="DamageZone">
-              <title>DamageZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
-            </catDesc>
             <catDesc xml:id="TitlePageZone">
               <title>TitlePageZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/TitlePageZone"/>
-            </catDesc>
-            <catDesc xml:id="RunningTitleZone">
-              <title>RunningTitleZone</title>
-              <ptr target="https://segmonto.github.io/gd/gdZ/RunningTitleZone"/>
             </catDesc>
             <catDesc xml:id="StampZone">
               <title>StampZone</title>
               <ptr target="https://segmonto.github.io/gd/gdZ/StampZone"/>
             </catDesc>
+            <catDesc xml:id="QuireMarksZone">
+              <title>QuireMarksZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/QuireMarksZone"/>
+            </catDesc>
+            <catDesc xml:id="DropCapitalZone">
+              <title>DropCapitalZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/DropCapitalZone"/>
+            </catDesc>
+            <catDesc xml:id="NumberingZone">
+              <title>NumberingZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/NumberingZone"/>
+            </catDesc>
+            <catDesc xml:id="DamageZone">
+              <title>DamageZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/DamageZone"/>
+            </catDesc>
+            <catDesc xml:id="MainZone">
+              <title>MainZone</title>
+              <ptr target="https://segmonto.github.io/gd/gdZ/MainZone"/>
+            </catDesc>
           </category>
           <category xml:id="SegmOntoLines">
-            <catDesc xml:id="DropCapitalLine">
-              <title>DropCapitalLine</title>
-              <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
-            </catDesc>
             <catDesc xml:id="HeadingLine">
               <title>HeadingLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/HeadingLine"/>
@@ -150,6 +146,10 @@
             <catDesc xml:id="InterlinearLine">
               <title>InterlinearLine</title>
               <ptr target="https://segmonto.github.io/gd/gdL/InterlinearLine"/>
+            </catDesc>
+            <catDesc xml:id="DropCapitalLine">
+              <title>DropCapitalLine</title>
+              <ptr target="https://segmonto.github.io/gd/gdL/DropCapitalLine"/>
             </catDesc>
           </category>
         </taxonomy>
@@ -603,7 +603,7 @@
         </zone>
         <zone xml:id="f18-eSc_textblock_ad589c19-line_2-lineCount3" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="195" uly="312" lrx="1278" lry="405" points="202,396 195,337 239,319 242,319 244,319 386,332 404,319 406,319 408,319 410,319 694,330 721,317 723,317 726,317 728,317 763,328 859,314 861,314 863,314 890,328 917,314 919,314 921,314 1005,328 1192,312 1194,312 1274,328 1278,388 1276,399 202,405" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k15260973/f18/195,312,1083,93/full/0/native.jpg">
           <path xml:id="f18-eSc_textblock_ad589c19-line_2-lineCount3-baseline" points="202,396 1278,388"/>
-          <line xml:id="f18-eSc_textblock_ad589c19-line_2-lineCount3-text" n="3">Oſtant flateurs de aupres ď leur  perſõne</line>
+          <line xml:id="f18-eSc_textblock_ad589c19-line_2-lineCount3-text" n="3">Oſtant flateurs de aupres d leur  perſõne</line>
         </zone>
         <zone xml:id="f18-eSc_textblock_ad589c19-line_3-lineCount4" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="197" uly="388" lrx="1234" lry="490" points="199,467 197,401 450,405 461,401 477,392 479,392 579,390 581,390 674,401 699,403 710,401 746,390 748,390 750,390 752,390 783,401 792,403 817,401 941,388 943,388 945,388 983,401 1012,388 1014,388 1016,388 1019,388 1021,388 1021,390 1034,401 1034,403 1230,403 1234,461 1230,481 888,472 643,485 641,485 559,474 524,487 521,487 521,490 452,490 368,490 366,487 364,487 361,487 346,476 199,490" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k15260973/f18/197,388,1037,102/full/0/native.jpg">
           <path xml:id="f18-eSc_textblock_ad589c19-line_3-lineCount4-baseline" points="199,467 1234,461"/>
@@ -1575,7 +1575,7 @@
         </zone>
         <zone xml:id="f48-eSc_textblock_bdf5061a-line_6-lineCount8" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="226" uly="598" lrx="1326" lry="695" points="233,671 226,614 257,601 259,601 262,601 753,609 788,598 790,598 793,598 1321,609 1326,667 1326,678 1273,691 1271,691 993,684 850,680 817,686 777,693 775,693 773,693 753,686 738,682 720,686 698,693 696,693 696,695 418,695 416,693 414,693 411,693 411,691 400,682 317,682 233,693" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k15260973/f48/226,598,1100,97/full/0/native.jpg">
           <path xml:id="f48-eSc_textblock_bdf5061a-line_6-lineCount8-baseline" points="233,671 1326,667"/>
-          <line xml:id="f48-eSc_textblock_bdf5061a-line_6-lineCount8-text" n="8">Mais mars miſt ſus un tas ď gẽs meſchãs</line>
+          <line xml:id="f48-eSc_textblock_bdf5061a-line_6-lineCount8-text" n="8">Mais mars miſt ſus un tas d gẽs meſchãs</line>
         </zone>
         <zone xml:id="f48-eSc_textblock_bdf5061a-line_7-lineCount9" type="DefaultLine" corresp="#DefaultLine" subtype="none" n="none" ulx="233" uly="673" lrx="1220" lry="770" points="237,748 233,684 1213,673 1220,741 1216,757 947,752 865,761 834,766 832,766 830,766 823,763 801,755 711,763 689,766 687,766 676,766 623,755 612,763 612,766 610,766 608,766 605,766 599,766 541,757 420,768 409,768 407,768 398,768 266,757 240,770" source="https://gallica.bnf.fr/iiif/ark:/12148//bpt6k15260973/f48/233,673,987,97/full/0/native.jpg">
           <path xml:id="f48-eSc_textblock_bdf5061a-line_7-lineCount9-baseline" points="237,748 1220,741"/>
@@ -1998,7 +1998,7 @@
         <ab corresp="#f13-eSc_textblock_4eda4a4d-blockCount1" type="MainZone"><lb corresp="#f13-eSc_textblock_4eda4a4d-line_0-lineCount1"/>A ſes enſans:auſquelz il ordonna<lb corresp="#f13-eSc_textblock_4eda4a4d-line_1-lineCount2"/>De mettre a mort paix qui princes allie<lb corresp="#f13-eSc_textblock_4eda4a4d-line_2-lineCount3"/>Quant paix te ſceut de France fiſt ſaillie<lb corresp="#f13-eSc_textblock_4eda4a4d-line_3-lineCount4"/>Et dallemaigne eut ſa place en Lorraine<lb corresp="#f13-eSc_textblock_4eda4a4d-line_4-lineCount5"/>Dieu moyennant, ⁊ le bon duc Anthoine.<hi rend="HeadingLine"><lb corresp="#f13-eSc_textblock_4eda4a4d-line_5-lineCount6"/>¶En ce dit an il y eut deux ſouldare</hi><lb corresp="#f13-eSc_textblock_4eda4a4d-line_6-lineCount7"/>Qui mirent ſus guidons et eſtandare<lb corresp="#f13-eSc_textblock_4eda4a4d-line_7-lineCount8"/>En eſmouuant une folle querelle<lb corresp="#f13-eSc_textblock_4eda4a4d-line_8-lineCount9"/>A fors diſcorde empoigna lance et dars<lb corresp="#f13-eSc_textblock_4eda4a4d-line_9-lineCount10"/>Les pouruoyant de picques auſſi de arcs<lb corresp="#f13-eSc_textblock_4eda4a4d-line_10-lineCount11"/>Dont fit preſens a gens pareilz a elle<lb corresp="#f13-eSc_textblock_4eda4a4d-line_11-lineCount12"/>Ainſi ſe eſmeut guerre non trop cruelle<lb corresp="#f13-eSc_textblock_4eda4a4d-line_12-lineCount13"/>Car ſe neſtoit que pour ung uireton<lb corresp="#f13-eSc_textblock_4eda4a4d-line_13-lineCount14"/>Maint eſt batu de ſon propre baſton.<hi rend="HeadingLine"><lb corresp="#f13-eSc_textblock_4eda4a4d-line_14-lineCount15"/>¶Di aduint il aue ſoubz umbre de bien</hi><lb corresp="#f13-eSc_textblock_4eda4a4d-line_15-lineCount16"/>Laigle uolla diſant trouuer moyen<lb corresp="#f13-eSc_textblock_4eda4a4d-line_16-lineCount17"/>De briſer,rompre,abolir et deſtruire<lb corresp="#f13-eSc_textblock_4eda4a4d-line_17-lineCount18"/>Lieux ſarcineux ⁊ ny eſpargnoit rien<lb corresp="#f13-eSc_textblock_4eda4a4d-line_18-lineCount19"/>Tant que on diſoit que per le terrien<lb corresp="#f13-eSc_textblock_4eda4a4d-line_19-lineCount20"/>Seroit tenu deſſoubz luy ſe reduyre<lb corresp="#f13-eSc_textblock_4eda4a4d-line_20-lineCount21"/>Deu quil prenoit plaiſir a ſoy deduyre<lb corresp="#f13-eSc_textblock_4eda4a4d-line_21-lineCount22"/>Que marchandiſe allaſt par ſe chemin<lb corresp="#f13-eSc_textblock_4eda4a4d-line_22-lineCount23"/>Bien cõmencer uault peu ſans bonne fin<hi rend="HeadingLine"><lb corresp="#f13-eSc_textblock_4eda4a4d-line_23-lineCount24"/>¶Lyon de ſable eſtant a laigle uny</hi></ab>
         <fw corresp="#f13-eSc_textblock_bb84c4be-blockCount2" type="QuireMarksZone"><lb corresp="#f13-eSc_textblock_bb84c4be-line_24-lineCount25"/>a.iii.</fw>
         <pb corresp="#f18"/>
-        <ab corresp="#f18-eSc_textblock_ad589c19-blockCount1" type="MainZone"><lb corresp="#f18-eSc_textblock_ad589c19-line_0-lineCount1"/>Nourrir amour entre eulx ⁊ publier<lb corresp="#f18-eSc_textblock_ad589c19-line_1-lineCount2"/>Guerre et debatz deſſoubz le pied plier<lb corresp="#f18-eSc_textblock_ad589c19-line_2-lineCount3"/>Oſtant flateurs de aupres ď leur  perſõne<lb corresp="#f18-eSc_textblock_ad589c19-line_3-lineCount4"/>Recognoiſſant que dieu uictoire donne<lb corresp="#f18-eSc_textblock_ad589c19-line_4-lineCount5"/>Et gloire auſſi ce ne fault oublier.<hi rend="HeadingLine"><lb corresp="#f18-eSc_textblock_ad589c19-line_5-lineCount6"/>¶Rondeau</hi><lb corresp="#f18-eSc_textblock_ad589c19-line_6-lineCount7"/>¶ Sainct Pierre print le glaiue de ſainct Pol<lb corresp="#f18-eSc_textblock_ad589c19-line_7-lineCount8"/>Dont de rechief cuyda coupper le coſ<lb corresp="#f18-eSc_textblock_ad589c19-line_8-lineCount9"/>A ſainct Denys, car ſainct Jacque en galice<lb corresp="#f18-eSc_textblock_ad589c19-line_9-lineCount10"/>Appetoit fort luy faire preiudice<lb corresp="#f18-eSc_textblock_ad589c19-line_10-lineCount11"/>De ſon bourdon dont il fiſt ung flaiol.<lb corresp="#f18-eSc_textblock_ad589c19-line_11-lineCount12"/>¶ Sainct Marc le ſceut il luy deſpleut du dol<lb corresp="#f18-eSc_textblock_ad589c19-line_12-lineCount13"/>Et de la fraulde aſors dung gros licol<lb corresp="#f18-eSc_textblock_ad589c19-line_13-lineCount14"/>Lya Remmains,congnoiſſant le malice<lb corresp="#f18-eSc_textblock_ad589c19-line_14-lineCount15"/>fainct.<lb corresp="#f18-eSc_textblock_ad589c19-line_15-lineCount16"/>¶Sainct Andre uint en ſecret de plain uol<lb corresp="#f18-eSc_textblock_ad589c19-line_16-lineCount17"/>Cuydant trouuer ſainct Frãcois laſche ⁊ mol<lb corresp="#f18-eSc_textblock_ad589c19-line_17-lineCount18"/>Qui deſira ſoy uenger dung tel uice<lb corresp="#f18-eSc_textblock_ad589c19-line_18-lineCount19"/>Sainct George y fut comme chef de iuſtice<lb corresp="#f18-eSc_textblock_ad589c19-line_19-lineCount20"/>Apperceut bien que lung de eulx eſtoit fol<lb corresp="#f18-eSc_textblock_ad589c19-line_20-lineCount21"/>fainct<lb corresp="#f18-eSc_textblock_ad589c19-line_21-lineCount22"/>¶Raiſon par tout.<hi rend="HeadingLine"><lb corresp="#f18-eSc_textblock_ad589c19-line_22-lineCount23"/>¶ Menus propos de la maniere de ſoy<lb corresp="#f18-eSc_textblock_ad589c19-line_23-lineCount24"/>gouuuerner es cours des princes</hi></ab>
+        <ab corresp="#f18-eSc_textblock_ad589c19-blockCount1" type="MainZone"><lb corresp="#f18-eSc_textblock_ad589c19-line_0-lineCount1"/>Nourrir amour entre eulx ⁊ publier<lb corresp="#f18-eSc_textblock_ad589c19-line_1-lineCount2"/>Guerre et debatz deſſoubz le pied plier<lb corresp="#f18-eSc_textblock_ad589c19-line_2-lineCount3"/>Oſtant flateurs de aupres d leur  perſõne<lb corresp="#f18-eSc_textblock_ad589c19-line_3-lineCount4"/>Recognoiſſant que dieu uictoire donne<lb corresp="#f18-eSc_textblock_ad589c19-line_4-lineCount5"/>Et gloire auſſi ce ne fault oublier.<hi rend="HeadingLine"><lb corresp="#f18-eSc_textblock_ad589c19-line_5-lineCount6"/>¶Rondeau</hi><lb corresp="#f18-eSc_textblock_ad589c19-line_6-lineCount7"/>¶ Sainct Pierre print le glaiue de ſainct Pol<lb corresp="#f18-eSc_textblock_ad589c19-line_7-lineCount8"/>Dont de rechief cuyda coupper le coſ<lb corresp="#f18-eSc_textblock_ad589c19-line_8-lineCount9"/>A ſainct Denys, car ſainct Jacque en galice<lb corresp="#f18-eSc_textblock_ad589c19-line_9-lineCount10"/>Appetoit fort luy faire preiudice<lb corresp="#f18-eSc_textblock_ad589c19-line_10-lineCount11"/>De ſon bourdon dont il fiſt ung flaiol.<lb corresp="#f18-eSc_textblock_ad589c19-line_11-lineCount12"/>¶ Sainct Marc le ſceut il luy deſpleut du dol<lb corresp="#f18-eSc_textblock_ad589c19-line_12-lineCount13"/>Et de la fraulde aſors dung gros licol<lb corresp="#f18-eSc_textblock_ad589c19-line_13-lineCount14"/>Lya Remmains,congnoiſſant le malice<lb corresp="#f18-eSc_textblock_ad589c19-line_14-lineCount15"/>fainct.<lb corresp="#f18-eSc_textblock_ad589c19-line_15-lineCount16"/>¶Sainct Andre uint en ſecret de plain uol<lb corresp="#f18-eSc_textblock_ad589c19-line_16-lineCount17"/>Cuydant trouuer ſainct Frãcois laſche ⁊ mol<lb corresp="#f18-eSc_textblock_ad589c19-line_17-lineCount18"/>Qui deſira ſoy uenger dung tel uice<lb corresp="#f18-eSc_textblock_ad589c19-line_18-lineCount19"/>Sainct George y fut comme chef de iuſtice<lb corresp="#f18-eSc_textblock_ad589c19-line_19-lineCount20"/>Apperceut bien que lung de eulx eſtoit fol<lb corresp="#f18-eSc_textblock_ad589c19-line_20-lineCount21"/>fainct<lb corresp="#f18-eSc_textblock_ad589c19-line_21-lineCount22"/>¶Raiſon par tout.<hi rend="HeadingLine"><lb corresp="#f18-eSc_textblock_ad589c19-line_22-lineCount23"/>¶ Menus propos de la maniere de ſoy<lb corresp="#f18-eSc_textblock_ad589c19-line_23-lineCount24"/>gouuuerner es cours des princes</hi></ab>
         <pb corresp="#f19"/>
         <ab corresp="#f19-eSc_textblock_91145c5a-blockCount1" type="MainZone"><hi rend="HeadingLine"><lb corresp="#f19-eSc_textblock_91145c5a-line_1-lineCount1"/>¶Le curial.</hi><hi rend="DropCapitalLine"><lb corresp="#f19-eSc_textblock_91145c5a-line_0-lineCount2"/>H</hi><lb corresp="#f19-eSc_textblock_91145c5a-line_3-lineCount3"/>Omme qui ueult ſoy mettre en ſeruitude<lb corresp="#f19-eSc_textblock_91145c5a-line_4-lineCount4"/>Cuydant auoir aux princes habitude<lb corresp="#f19-eSc_textblock_91145c5a-eSc_line_f2f7381e-lineCount5"/>Suyuant la court doit regarder comment<lb corresp="#f19-eSc_textblock_91145c5a-line_6-lineCount6"/>Pourra complaire a une multitude<lb corresp="#f19-eSc_textblock_91145c5a-line_7-lineCount7"/>De gens qui ſont differendz en eſtude<lb corresp="#f19-eSc_textblock_91145c5a-line_8-lineCount8"/>Par diuers ſens et prompt entendement<lb corresp="#f19-eSc_textblock_91145c5a-line_9-lineCount9"/>Sa liberte laiſſe totallement</ab>
         <pb corresp="#f24"/>
@@ -2024,7 +2024,7 @@
         <ab corresp="#f47-eSc_textblock_5058cb6e-blockCount1" type="MainZone"><lb corresp="#f47-eSc_textblock_5058cb6e-line_0-lineCount1"/>Se neſt pas trop commune choſe<lb corresp="#f47-eSc_textblock_5058cb6e-line_1-lineCount2"/>Chaſſer ſouuent on ſe diſpoſe<lb corresp="#f47-eSc_textblock_5058cb6e-line_2-lineCount3"/>Etſi couſte cher uiſ ion<lb corresp="#f47-eSc_textblock_5058cb6e-line_3-lineCount4"/>Il fault auoir par tout raiſon<hi rend="HeadingLine"><lb corresp="#f47-eSc_textblock_5058cb6e-line_4-lineCount5"/>¶Menus propos ſur la chaſſe<lb corresp="#f47-eSc_textblock_5058cb6e-line_5-lineCount6"/>du ſanglier moraliſee.</hi></ab>
         <fw corresp="#f47-eSc_textblock_f73eee02-blockCount2" type="QuireMarksZone"><lb corresp="#f47-eSc_textblock_f73eee02-line_12-lineCount7"/>c.iii.</fw>
         <pb corresp="#f48"/>
-        <ab corresp="#f48-eSc_textblock_bdf5061a-blockCount1" type="MainZone"><hi rend="DropCapitalLine"><lb corresp="#f48-eSc_textblock_bdf5061a-eSc_line_d712f547-lineCount1"/>I</hi><lb corresp="#f48-eSc_textblock_bdf5061a-line_0-lineCount2"/>E ueis la paix regner pour ung eſpaſſe<lb corresp="#f48-eSc_textblock_bdf5061a-line_1-lineCount3"/>Par le uouloir diuin qui tout compaſſe<lb corresp="#f48-eSc_textblock_bdf5061a-line_2-lineCount4"/>Pan faiſoit lors ſes armonicques chantz<lb corresp="#f48-eSc_textblock_bdf5061a-line_3-lineCount5"/>Simples bergiers et de ruſticque race<lb corresp="#f48-eSc_textblock_bdf5061a-line_4-lineCount6"/>Par prez et boys donnerent grant audace<lb corresp="#f48-eSc_textblock_bdf5061a-line_5-lineCount7"/>Aux fauniens que diſons dieux des chãps<lb corresp="#f48-eSc_textblock_bdf5061a-line_6-lineCount8"/>Mais mars miſt ſus un tas ď gẽs meſchãs<lb corresp="#f48-eSc_textblock_bdf5061a-line_7-lineCount9"/>Qui aux buiſſons ſecretz ſe latiterent<lb corresp="#f48-eSc_textblock_bdf5061a-line_8-lineCount10"/>Et ſans le ſceu de Minerue inciterent<lb corresp="#f48-eSc_textblock_bdf5061a-line_9-lineCount11"/>Pluſieurs chaſſeurs a prendre uenoiſon<lb corresp="#f48-eSc_textblock_bdf5061a-line_10-lineCount12"/>Quãt par les boys ⁊ buyſſõs ſaſſemblerẽt<lb corresp="#f48-eSc_textblock_bdf5061a-line_11-lineCount13"/>Les gens de paix et ſes amys troublerent<lb corresp="#f48-eSc_textblock_bdf5061a-line_12-lineCount14"/>Plus que de Medee au depart de Iaſon<lb corresp="#f48-eSc_textblock_bdf5061a-line_13-lineCount15"/>Tel eſt grant clerc qui ne uſe de raiſon<lb corresp="#f48-eSc_textblock_bdf5061a-line_14-lineCount16"/>Demogorgon print a Lahos diſcord<lb corresp="#f48-eSc_textblock_bdf5061a-line_15-lineCount17"/>Les elemenes ne peurent faire accord<lb corresp="#f48-eSc_textblock_bdf5061a-line_16-lineCount18"/>Chaſcun diceulx ſe diſoit ſans droicture<lb corresp="#f48-eSc_textblock_bdf5061a-line_17-lineCount19"/>Premier moteur:fuſt a droit ou a tort<lb corresp="#f48-eSc_textblock_bdf5061a-line_18-lineCount20"/>Eternite qui bruſle:rompt:ou tord<lb corresp="#f48-eSc_textblock_bdf5061a-line_19-lineCount21"/>Le qui luy plaiſt allegua leur nature<lb corresp="#f48-eSc_textblock_bdf5061a-line_20-lineCount22"/>Et que la terre auoit la couuerture<lb corresp="#f48-eSc_textblock_bdf5061a-line_21-lineCount23"/>Par ſon moyen mer nourriſſoit poiſſons<lb corresp="#f48-eSc_textblock_bdf5061a-line_22-lineCount24"/>Dyſeaulx en lair par diuerſes faſſons<lb corresp="#f48-eSc_textblock_bdf5061a-line_23-lineCount25"/>Auoir crees:auiſſi les clements<lb corresp="#f48-eSc_textblock_bdf5061a-line_24-lineCount26"/>Pout ſon plaiſir faiſoit:neiges:glaſſons<lb corresp="#f48-eSc_textblock_bdf5061a-line_25-lineCount27"/>Et ſouſtenoit tous humains:or penſons</ab>
+        <ab corresp="#f48-eSc_textblock_bdf5061a-blockCount1" type="MainZone"><hi rend="DropCapitalLine"><lb corresp="#f48-eSc_textblock_bdf5061a-eSc_line_d712f547-lineCount1"/>I</hi><lb corresp="#f48-eSc_textblock_bdf5061a-line_0-lineCount2"/>E ueis la paix regner pour ung eſpaſſe<lb corresp="#f48-eSc_textblock_bdf5061a-line_1-lineCount3"/>Par le uouloir diuin qui tout compaſſe<lb corresp="#f48-eSc_textblock_bdf5061a-line_2-lineCount4"/>Pan faiſoit lors ſes armonicques chantz<lb corresp="#f48-eSc_textblock_bdf5061a-line_3-lineCount5"/>Simples bergiers et de ruſticque race<lb corresp="#f48-eSc_textblock_bdf5061a-line_4-lineCount6"/>Par prez et boys donnerent grant audace<lb corresp="#f48-eSc_textblock_bdf5061a-line_5-lineCount7"/>Aux fauniens que diſons dieux des chãps<lb corresp="#f48-eSc_textblock_bdf5061a-line_6-lineCount8"/>Mais mars miſt ſus un tas d gẽs meſchãs<lb corresp="#f48-eSc_textblock_bdf5061a-line_7-lineCount9"/>Qui aux buiſſons ſecretz ſe latiterent<lb corresp="#f48-eSc_textblock_bdf5061a-line_8-lineCount10"/>Et ſans le ſceu de Minerue inciterent<lb corresp="#f48-eSc_textblock_bdf5061a-line_9-lineCount11"/>Pluſieurs chaſſeurs a prendre uenoiſon<lb corresp="#f48-eSc_textblock_bdf5061a-line_10-lineCount12"/>Quãt par les boys ⁊ buyſſõs ſaſſemblerẽt<lb corresp="#f48-eSc_textblock_bdf5061a-line_11-lineCount13"/>Les gens de paix et ſes amys troublerent<lb corresp="#f48-eSc_textblock_bdf5061a-line_12-lineCount14"/>Plus que de Medee au depart de Iaſon<lb corresp="#f48-eSc_textblock_bdf5061a-line_13-lineCount15"/>Tel eſt grant clerc qui ne uſe de raiſon<lb corresp="#f48-eSc_textblock_bdf5061a-line_14-lineCount16"/>Demogorgon print a Lahos diſcord<lb corresp="#f48-eSc_textblock_bdf5061a-line_15-lineCount17"/>Les elemenes ne peurent faire accord<lb corresp="#f48-eSc_textblock_bdf5061a-line_16-lineCount18"/>Chaſcun diceulx ſe diſoit ſans droicture<lb corresp="#f48-eSc_textblock_bdf5061a-line_17-lineCount19"/>Premier moteur:fuſt a droit ou a tort<lb corresp="#f48-eSc_textblock_bdf5061a-line_18-lineCount20"/>Eternite qui bruſle:rompt:ou tord<lb corresp="#f48-eSc_textblock_bdf5061a-line_19-lineCount21"/>Le qui luy plaiſt allegua leur nature<lb corresp="#f48-eSc_textblock_bdf5061a-line_20-lineCount22"/>Et que la terre auoit la couuerture<lb corresp="#f48-eSc_textblock_bdf5061a-line_21-lineCount23"/>Par ſon moyen mer nourriſſoit poiſſons<lb corresp="#f48-eSc_textblock_bdf5061a-line_22-lineCount24"/>Dyſeaulx en lair par diuerſes faſſons<lb corresp="#f48-eSc_textblock_bdf5061a-line_23-lineCount25"/>Auoir crees:auiſſi les clements<lb corresp="#f48-eSc_textblock_bdf5061a-line_24-lineCount26"/>Pout ſon plaiſir faiſoit:neiges:glaſſons<lb corresp="#f48-eSc_textblock_bdf5061a-line_25-lineCount27"/>Et ſouſtenoit tous humains:or penſons</ab>
         <pb corresp="#f54"/>
         <ab corresp="#f54-eSc_textblock_aacb670c-blockCount1" type="MainZone"><lb corresp="#f54-eSc_textblock_aacb670c-line_0-lineCount1"/>Se neſt pas or tout ce quon uoit reluire<lb corresp="#f54-eSc_textblock_aacb670c-line_1-lineCount2"/>¶Quant le ſanglier eſt prins et mis a mort<lb corresp="#f54-eSc_textblock_aacb670c-line_2-lineCount3"/>Et tire hors de ſon buiſſon ou ſort<lb corresp="#f54-eSc_textblock_aacb670c-line_3-lineCount4"/>Le ueneur doit prendre et couper ſa hure<lb corresp="#f54-eSc_textblock_aacb670c-line_4-lineCount5"/>Apres de oſter ſes traſſes faire effort<lb corresp="#f54-eSc_textblock_aacb670c-line_5-lineCount6"/>Puie ſoit fouaille et batu pat laccord<lb corresp="#f54-eSc_textblock_aacb670c-line_6-lineCount7"/>Des aſſiſtens qui le prendre ont prins cure<lb corresp="#f54-eSc_textblock_aacb670c-line_7-lineCount8"/>Oſtant ſon poil en le gardant dardure<lb corresp="#f54-eSc_textblock_aacb670c-line_8-lineCount9"/>Treſ bien frote le reſte ſoit deffaict<lb corresp="#f54-eSc_textblock_aacb670c-line_9-lineCount10"/>Comme eſt requis, en apres cela faict<lb corresp="#f54-eSc_textblock_aacb670c-line_10-lineCount11"/>Droit de ueneurs et de chiens conuient rendre<lb corresp="#f54-eSc_textblock_aacb670c-line_11-lineCount12"/>Si le ſanglier par ſes armes a faict<lb corresp="#f54-eSc_textblock_aacb670c-line_12-lineCount13"/>Maulx infiniz ie conclus en effect<lb corresp="#f54-eSc_textblock_aacb670c-line_13-lineCount14"/>Que chaſcun ueult le bien de lautruy prendre<lb corresp="#f54-eSc_textblock_aacb670c-line_14-lineCount15"/>Raiſon par tout chaſcun ne ueult entendre<lb corresp="#f54-eSc_textblock_aacb670c-line_15-lineCount16"/>Raiſon par tout<lb corresp="#f54-eSc_textblock_aacb670c-line_17-lineCount17"/>Nobleſſe uoy qui taſche ſe allier<hi rend="HeadingLine"><lb corresp="#f54-eSc_textblock_aacb670c-line_16-lineCount18"/>¶ Balade</hi><lb corresp="#f54-eSc_textblock_aacb670c-line_18-lineCount19"/>Auec legliſe et par amour lier<lb corresp="#f54-eSc_textblock_aacb670c-line_19-lineCount20"/>Pource que peuple eſt deſpit et rebelle<lb corresp="#f54-eSc_textblock_aacb670c-line_20-lineCount21"/>Et ne ſe ueult a droit humilier<lb corresp="#f54-eSc_textblock_aacb670c-line_21-lineCount22"/>Nya raiſon,uilles uoy palier<lb corresp="#f54-eSc_textblock_aacb670c-line_22-lineCount23"/>En eſcoutaut maint different libelle<lb corresp="#f54-eSc_textblock_aacb670c-line_23-lineCount24"/>Proueſſe abruit par minerue et cibelle<lb corresp="#f54-eSc_textblock_aacb670c-line_24-lineCount25"/>Sol retrrograde en oſtant ſa chaleur</ab>
         <pb corresp="#f56"/>
