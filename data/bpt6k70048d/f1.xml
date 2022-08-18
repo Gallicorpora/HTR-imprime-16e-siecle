@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f1.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1919" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1918" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1917" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1916" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT1915" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1914" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1913" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1912" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1911" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1924" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1923" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1922" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1920" LABEL="SealZone" DESCRIPTION="block type SealZone"/>
+    <OtherTag ID="LT661" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT662" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT663" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT664" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT665" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2592"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2592"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="543"
+                   VPOS="0"
+                   WIDTH="629"
+                   HEIGHT="593"
+                   ID="eSc_textblock_88f9933b"
+                   TAGREFS="BT1917">
+          <Shape><Polygon POINTS="1172 593 1172 0 543 0 543 593"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+            TAGREFS="LT661"
+                    BASELINE="634 111 971 119" 
+                    HPOS="631"
+                    VPOS="23"
+                    WIDTH="340"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="634 111 634 23 737 26 737 26 737 26 740 26 740 26 743 26 743 26 743 29 743 29 754 40 778 67 971 73 971 119 968 134 631 134"/></Shape>
+	    <String CONTENT="Réserve"
+                    HPOS="631"
+                    VPOS="23"
+                    WIDTH="340"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+            TAGREFS="LT661"
+                    BASELINE="617 350 1098 333" 
+                    HPOS="597"
+                    VPOS="132"
+                    WIDTH="501"
+                    HEIGHT="316">
+            <Shape><Polygon POINTS="614 347 602 266 631 257 634 257 637 257 640 257 664 268 649 137 797 132 803 234 769 251 819 227 842 251 845 251 848 251 848 254 877 280 892 193 1098 197 1097 330 1097 339 1059 356 1056 356 1053 356 1050 356 1032 347 1021 342 822 362 819 362 754 353 707 388 699 397 696 397 646 448 597 427"/></Shape>
+	    <String CONTENT="pYe 327"
+                    HPOS="597"
+                    VPOS="132"
+                    WIDTH="501"
+                    HEIGHT="316"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
