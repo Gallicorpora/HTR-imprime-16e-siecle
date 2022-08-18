@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f16.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1925" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1926" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT1927" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1928" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1929" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1930" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1931" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT1932" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1933" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1934" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1935" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT1936" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1937" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1938" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT666" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT667" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT668" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT669" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT670" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1538"
+          HEIGHT="2480"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1538"
+                  HEIGHT="2480">
+        
+        <TextBlock HPOS="288"
+                   VPOS="346"
+                   WIDTH="994"
+                   HEIGHT="1455"
+                   ID="eSc_textblock_c12b9a72"
+                   TAGREFS="BT1929">
+          <Shape><Polygon POINTS="288 346 288 1801 1282 1801 1282 346"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT668"
+                    BASELINE="429 508 1182 498" 
+                    HPOS="425"
+                    VPOS="423"
+                    WIDTH="757"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="429 508 425 434 1176 423 1182 498 1182 547 1132 551 1130 551 1128 551 1126 551 1120 547 1083 522 1033 522 1008 545 1006 545 1006 547 1004 547 1002 547 967 553 965 553 963 553 940 543 926 537 903 543 843 555 841 555 731 543 704 558 702 558 702 560 630 560 628 558 626 558 624 558 593 535 580 529 429 531"/></Shape>
+	    <String CONTENT="LES ACTEVRS."
+                    HPOS="425"
+                    VPOS="423"
+                    WIDTH="757"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT666"
+                    BASELINE="355 677 775 669" 
+                    HPOS="347"
+                    VPOS="595"
+                    WIDTH="428"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="355 677 347 624 372 601 372 599 374 599 376 599 378 599 516 611 558 615 576 607 609 595 611 595 613 595 771 597 775 669 771 690 684 682 659 690 638 698 636 698 634 698 580 690 566 688 564 690 560 696 558 696 558 698 556 698 554 698 551 698 549 698 516 690 514 690 456 702 454 702 353 688"/></Shape>
+	    <String CONTENT="Megere, furie."
+                    HPOS="347"
+                    VPOS="595"
+                    WIDTH="428"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT666"
+                    BASELINE="355 760 694 756" 
+                    HPOS="351"
+                    VPOS="690"
+                    WIDTH="343"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="355 760 351 702 394 692 396 692 398 692 436 702 452 706 469 702 525 690 527 690 529 690 531 690 551 704 554 704 578 690 580 690 582 690 585 690 587 690 605 704 607 706 690 706 694 756 694 779 355 781"/></Shape>
+	    <String CONTENT="Le Chœur."
+                    HPOS="351"
+                    VPOS="690"
+                    WIDTH="343"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT666"
+                    BASELINE="359 849 591 845" 
+                    HPOS="355"
+                    VPOS="772"
+                    WIDTH="236"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="359 849 355 783 396 775 398 775 401 775 403 775 403 777 411 783 419 791 469 791 483 785 527 772 529 772 531 772 533 772 589 789 591 845 589 861 357 857"/></Shape>
+	    <String CONTENT="Porcie."
+                    HPOS="355"
+                    VPOS="772"
+                    WIDTH="236"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT666"
+                    BASELINE="357 938 756 932" 
+                    HPOS="349"
+                    VPOS="859"
+                    WIDTH="407"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="357 938 349 878 376 863 378 863 380 863 382 863 425 874 506 861 508 861 510 861 512 861 512 863 529 876 529 878 605 878 611 876 638 859 640 859 642 859 644 859 647 859 684 876 686 876 750 876 756 932 754 952 477 965 475 965 355 952"/></Shape>
+	    <String CONTENT="La Nourrice."
+                    HPOS="349"
+                    VPOS="859"
+                    WIDTH="407"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT666"
+                    BASELINE="361 1020 1072 1014" 
+                    HPOS="357"
+                    VPOS="942"
+                    WIDTH="715"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="361 1020 357 958 471 946 473 946 475 946 498 958 508 965 589 965 599 958 620 944 622 944 624 944 626 944 766 954 843 942 845 942 847 942 849 942 870 958 932 948 934 948 1066 961 1072 1014 1070 1029 361 1033"/></Shape>
+	    <String CONTENT="Octaue Ceſar, Triumuir."
+                    HPOS="357"
+                    VPOS="942"
+                    WIDTH="715"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT666"
+                    BASELINE="359 1111 831 1101" 
+                    HPOS="351"
+                    VPOS="1023"
+                    WIDTH="482"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="359 1111 351 1056 394 1033 396 1033 398 1033 401 1033 403 1033 421 1049 527 1049 547 1029 547 1027 549 1027 551 1027 554 1027 630 1039 694 1025 696 1025 698 1025 733 1037 764 1023 766 1023 769 1023 771 1023 773 1023 800 1045 826 1045 831 1101 833 1113 737 1142 735 1142 607 1144 605 1144 603 1144 601 1144 576 1124 547 1147 545 1147 543 1147 541 1147 539 1147 537 1147 500 1124 359 1124"/></Shape>
+	    <String CONTENT="Aree, Philoſophe."
+                    HPOS="351"
+                    VPOS="1023"
+                    WIDTH="482"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT666"
+                    BASELINE="359 1196 1041 1190" 
+                    HPOS="357"
+                    VPOS="1120"
+                    WIDTH="684"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="359 1196 357 1124 481 1124 483 1124 485 1124 485 1126 498 1136 512 1126 514 1126 516 1126 518 1126 520 1126 523 1126 537 1136 566 1126 587 1120 589 1120 591 1120 593 1120 609 1128 630 1138 740 1138 750 1130 762 1120 764 1120 766 1120 769 1120 822 1120 824 1120 866 1132 870 1134 1037 1136 1041 1190 1039 1204 357 1202"/></Shape>
+	    <String CONTENT="M.Anthoine, Triumuir."
+                    HPOS="357"
+                    VPOS="1120"
+                    WIDTH="684"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT666"
+                    BASELINE="367 1279 1209 1272" 
+                    HPOS="363"
+                    VPOS="1192"
+                    WIDTH="844"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="365 1277 365 1304 479 1304 485 1308 502 1322 502 1324 504 1324 506 1324 508 1324 541 1320 556 1330 558 1330 560 1330 562 1330 564 1330 611 1312 630 1306 642 1314 651 1320 653 1320 655 1320 657 1320 659 1320 661 1320 661 1318 665 1314 680 1302 804 1318 909 1333 911 1333 1006 1324 1054 1322 1203 1330 1207 1271 1205 1206 1172 1194 1170 1194 1167 1194 1165 1194 1163 1194 1163 1196 1153 1206 1023 1206 1004 1194 1002 1194 1000 1194 998 1194 996 1194 965 1204 930 1192 928 1192 926 1192 802 1206 694 1194 692 1194 690 1194 667 1204 487 1196 485 1196 483 1196 452 1209 452 1211 363 1211 365 1277"/></Shape>
+	    <String CONTENT="Ventidie, Mareſchal de camp."
+                    HPOS="363"
+                    VPOS="1192"
+                    WIDTH="844"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT666"
+                    BASELINE="363 1370 973 1370" 
+                    HPOS="361"
+                    VPOS="1295"
+                    WIDTH="612"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="363 1370 363 1295 467 1295 469 1295 471 1295 475 1297 504 1316 597 1316 609 1304 616 1297 616 1295 618 1295 620 1295 622 1295 624 1295 644 1304 667 1314 678 1306 690 1295 692 1295 694 1295 696 1295 744 1295 746 1295 748 1295 762 1308 771 1314 797 1310 828 1304 831 1304 833 1304 847 1310 855 1316 973 1316 973 1370 971 1392 917 1382 762 1382 754 1390 752 1390 752 1392 750 1392 748 1392 746 1392 361 1382"/></Shape>
+	    <String CONTENT="M.Lepide, Triumuir."
+                    HPOS="361"
+                    VPOS="1295"
+                    WIDTH="612"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT666"
+                    BASELINE="365 1454 938 1454" 
+                    HPOS="363"
+                    VPOS="1374"
+                    WIDTH="577"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="365 1454 370 1380 380 1388 398 1382 417 1374 419 1374 421 1374 502 1374 558 1384 589 1390 607 1386 644 1374 647 1374 649 1374 651 1374 653 1374 653 1376 663 1384 711 1376 713 1376 715 1376 717 1376 717 1378 727 1388 731 1392 766 1392 773 1388 812 1376 814 1376 816 1376 818 1376 847 1390 851 1390 911 1380 913 1380 915 1380 940 1392 938 1454 938 1498 789 1498 787 1496 785 1496 783 1496 769 1485 729 1465 537 1465 523 1471 487 1488 485 1488 483 1488 481 1488 427 1465 423 1463 363 1461"/></Shape>
+	    <String CONTENT="Chœur deſoudars."
+                    HPOS="363"
+                    VPOS="1374"
+                    WIDTH="577"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT666"
+                    BASELINE="363 1541 775 1537" 
+                    HPOS="357"
+                    VPOS="1459"
+                    WIDTH="418"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="363 1541 357 1469 374 1461 376 1461 378 1461 380 1461 382 1461 392 1469 409 1483 427 1471 436 1465 438 1465 440 1465 442 1465 485 1471 512 1461 514 1461 516 1461 518 1461 545 1475 556 1481 562 1475 578 1461 578 1459 580 1459 582 1459 585 1459 634 1459 636 1459 638 1459 665 1479 669 1483 771 1483 775 1537 775 1556 649 1566 647 1566 611 1562 572 1556 551 1564 537 1568 535 1568 533 1568 531 1568 520 1564 498 1556 392 1556 365 1568"/></Shape>
+	    <String CONTENT="Le Meſſaiger."
+                    HPOS="357"
+                    VPOS="1459"
+                    WIDTH="418"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT666"
+                    BASELINE="370 1628 847 1624" 
+                    HPOS="365"
+                    VPOS="1547"
+                    WIDTH="482"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="370 1628 365 1558 446 1550 448 1550 450 1550 452 1550 467 1560 485 1572 520 1572 547 1562 570 1554 572 1554 574 1554 576 1554 578 1554 591 1562 597 1566 601 1562 622 1550 624 1550 626 1550 628 1550 630 1550 671 1564 680 1568 682 1564 698 1550 698 1547 700 1547 702 1547 704 1547 771 1547 773 1547 775 1547 804 1568 806 1570 843 1570 847 1624 845 1655 686 1636 663 1649 663 1651 661 1651 659 1651 657 1651 642 1649 589 1638 543 1645 456 1659 454 1659 452 1659 450 1659 450 1657 436 1643 367 1638"/></Shape>
+	    <String CONTENT="Chœur de filles."
+                    HPOS="365"
+                    VPOS="1547"
+                    WIDTH="482"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

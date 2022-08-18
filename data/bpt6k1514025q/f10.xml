@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>f10.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1925" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT1926" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT1927" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1928" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1929" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1930" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1931" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT1932" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1933" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1934" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1935" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT1936" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1937" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT1938" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT666" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT667" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT668" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT669" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT670" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1559"
+          HEIGHT="2477"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1559"
+                  HEIGHT="2477">
+        
+        <TextBlock HPOS="326"
+                   VPOS="495"
+                   WIDTH="1120"
+                   HEIGHT="803"
+                   ID="eSc_textblock_ae2189de"
+                   TAGREFS="BT1929">
+          <Shape><Polygon POINTS="326 495 326 1298 1446 1298 1446 495"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT668"
+                    BASELINE="388 598 1369 602" 
+                    HPOS="386"
+                    VPOS="538"
+                    WIDTH="983"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="388 598 388 538 1366 549 1369 602 1364 619 1311 608 1282 619 1280 619 1278 619 1276 619 1255 608 873 617 871 617 869 617 867 617 865 617 850 606 838 617 836 617 834 617 832 617 830 617 794 606 770 617 768 617 766 617 764 617 728 606 386 615"/></Shape>
+	    <String CONTENT="EXTRAICT DV PRIVILEGE."
+                    HPOS="386"
+                    VPOS="538"
+                    WIDTH="983"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT666"
+                    BASELINE="410 708 1420 708" 
+                    HPOS="410"
+                    VPOS="652"
+                    WIDTH="1010"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="410 708 410 662 472 666 479 662 489 654 489 652 491 652 493 652 495 652 497 652 516 662 526 668 768 668 778 664 813 652 815 652 817 652 819 652 850 662 881 652 883 652 885 652 1032 662 1069 652 1071 652 1073 652 1075 652 1112 666 1115 666 1117 666 1131 654 1133 654 1135 654 1199 652 1201 652 1203 652 1205 652 1226 664 1271 652 1274 652 1276 652 1278 652 1305 666 1307 668 1420 668 1420 708 1420 718 410 726"/></Shape>
+	    <String CONTENT="Par lettres patentes du Roy donnees à Paris le pre¬"
+                    HPOS="410"
+                    VPOS="652"
+                    WIDTH="1010"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT666"
+                    BASELINE="340 759 1422 755" 
+                    HPOS="334"
+                    VPOS="703"
+                    WIDTH="1090"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="340 759 334 718 377 705 379 705 382 705 640 716 644 716 658 705 660 705 662 705 900 703 902 703 904 703 937 714 964 703 966 703 968 703 1418 716 1422 755 1424 763 1406 776 1404 776 1402 776 1402 778 1063 778 1061 776 1007 767 995 765 968 767 840 778 838 778 774 769 761 767 757 769 747 778 745 778 743 778 741 778 739 778 718 769 712 767 340 771"/></Shape>
+	    <String CONTENT="mier iour du mois de Iuin M. D. LXVI I. ſignées"
+                    HPOS="334"
+                    VPOS="703"
+                    WIDTH="1090"
+                    HEIGHT="75"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT666"
+                    BASELINE="342 809 1422 809" 
+                    HPOS="342"
+                    VPOS="763"
+                    WIDTH="1080"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="342 809 342 763 1422 769 1422 809 1422 815 342 817"/></Shape>
+	    <String CONTENT="Par le Roy à voſtre relation, DE VABRES, &amp; ſeellees"
+                    HPOS="342"
+                    VPOS="763"
+                    WIDTH="1080"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT666"
+                    BASELINE="342 858 1424 858" 
+                    HPOS="342"
+                    VPOS="809"
+                    WIDTH="1082"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="342 858 342 809 1424 815 1424 858 1424 866 342 869"/></Shape>
+	    <String CONTENT="du grand ſeel ſur ſimple queüe : Il eſt permis à maiſtre"
+                    HPOS="342"
+                    VPOS="809"
+                    WIDTH="1082"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT666"
+                    BASELINE="342 906 1422 910" 
+                    HPOS="340"
+                    VPOS="862"
+                    WIDTH="1082"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="342 906 342 862 1420 866 1422 910 1420 916 340 922"/></Shape>
+	    <String CONTENT="Rober Garnier de faire imprimer la preſente Tragedie"
+                    HPOS="340"
+                    VPOS="862"
+                    WIDTH="1082"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT666"
+                    BASELINE="338 959 1422 959" 
+                    HPOS="336"
+                    VPOS="906"
+                    WIDTH="1086"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="338 959 338 906 386 916 417 906 419 906 421 906 423 906 1422 916 1422 959 1420 976 336 972"/></Shape>
+	    <String CONTENT="intitulee PORCIE, par tel Imprimeur que bon luy"
+                    HPOS="336"
+                    VPOS="906"
+                    WIDTH="1086"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT666"
+                    BASELINE="340 1007 1422 1011" 
+                    HPOS="336"
+                    VPOS="959"
+                    WIDTH="1086"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="340 1007 340 959 1420 966 1422 1011 1418 1023 336 1019"/></Shape>
+	    <String CONTENT="ſemblera:auec defenſes à tous aultres Imprimeurs de ce"
+                    HPOS="336"
+                    VPOS="959"
+                    WIDTH="1086"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT666"
+                    BASELINE="340 1054 1422 1060" 
+                    HPOS="334"
+                    VPOS="1013"
+                    WIDTH="1088"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="340 1054 340 1013 1420 1013 1422 1060 1420 1067 702 1075 700 1075 359 1073 357 1073 334 1060"/></Shape>
+	    <String CONTENT="Royaume, de l’imprimer durant le tẽps &amp; terme de ſept"
+                    HPOS="334"
+                    VPOS="1013"
+                    WIDTH="1088"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_9"
+                    TAGREFS="LT666"
+                    BASELINE="342 1106 1422 1110" 
+                    HPOS="340"
+                    VPOS="1054"
+                    WIDTH="1082"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="342 1106 344 1054 373 1067 450 1056 452 1056 518 1067 600 1056 602 1056 605 1056 607 1056 609 1056 625 1067 666 1056 669 1056 671 1056 673 1056 675 1056 700 1067 712 1056 714 1056 716 1056 718 1056 726 1056 794 1067 1418 1063 1422 1110 1420 1116 914 1127 912 1127 910 1127 875 1116 873 1116 340 1116"/></Shape>
+	    <String CONTENT="ans, à compter du iour que ladicte Tragedie aura eſté"
+                    HPOS="340"
+                    VPOS="1054"
+                    WIDTH="1082"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_10"
+                    TAGREFS="LT666"
+                    BASELINE="338 1155 1418 1160" 
+                    HPOS="336"
+                    VPOS="1114"
+                    WIDTH="1082"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="338 1155 338 1114 1416 1118 1418 1160 1416 1170 336 1170"/></Shape>
+	    <String CONTENT="acheuee d’imprimer, ſur peine d’amende &amp; de confiſca¬"
+                    HPOS="336"
+                    VPOS="1114"
+                    WIDTH="1082"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    TAGREFS="LT666"
+                    BASELINE="344 1205 1420 1209" 
+                    HPOS="342"
+                    VPOS="1164"
+                    WIDTH="1078"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="344 1205 344 1164 1418 1168 1420 1209 1420 1228 1358 1248 1356 1248 1354 1248 1352 1248 1307 1238 1234 1248 1232 1248 1230 1248 1197 1234 1146 1248 1143 1248 1143 1250 1036 1250 1034 1248 1032 1248 1030 1248 1013 1236 943 1248 941 1248 939 1248 910 1234 805 1246 803 1246 801 1246 799 1246 780 1230 778 1228 776 1230 751 1246 749 1246 747 1246 747 1248 689 1248 687 1246 685 1246 683 1246 660 1230 654 1228 342 1230"/></Shape>
+	    <String CONTENT="tion deſdicts liures : comme plus à plain eſt contenu"
+                    HPOS="342"
+                    VPOS="1164"
+                    WIDTH="1078"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_12"
+                    TAGREFS="LT666"
+                    BASELINE="344 1259 695 1259" 
+                    HPOS="340"
+                    VPOS="1207"
+                    WIDTH="355"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="344 1259 340 1221 369 1207 371 1207 373 1207 695 1221 695 1259 693 1296 342 1290"/></Shape>
+	    <String CONTENT="eſdictes patentes."
+                    HPOS="340"
+                    VPOS="1207"
+                    WIDTH="355"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
