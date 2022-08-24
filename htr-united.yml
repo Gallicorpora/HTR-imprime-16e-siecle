@@ -42,13 +42,13 @@ transcription-guidelines: "Les normes de transcription suivent les pr\xE9conisat
   \ du projet Gallicorpora"
 volume:
 - metric: characters
-  count: 116558
+  count: 172693
 - metric: files
-  count: 140
+  count: 160
 - metric: lines
-  count: 3523
+  count: 4445
 - metric: regions
-  count: 406
+  count: 530
 citation-file-link: https://github.com/Gallicorpora/HTR-imprime-16e-siecle/CITATION.cff
 production-software: eScriptorium + Kraken
 characters:
@@ -57,13 +57,13 @@ characters:
   - e
   - u
   - r
-  - n
   - a
+  - n
   - i
   - t
   - o
-  - s
   - l
+  - s
   - "\u017F"
   - d
   - c
@@ -71,81 +71,82 @@ characters:
   - p
   - ','
   - q
-  - g
-  - f
-  - v
-  - b
   - y
-  - .
+  - v
+  - f
+  - g
+  - b
   - h
-  - E
+  - .
   - "\u2019"
-  - ''''
-  - x
-  - "\u0301"
-  - A
   - '&'
+  - E
+  - x
   - z
-  - D
-  - L
-  - R
-  - I
-  - "\xAC"
+  - "\u0301"
+  - ''''
   - "\u0300"
+  - A
+  - "\xAC"
+  - "\u0303"
   - C
-  - ':'
+  - D
+  - R
+  - L
   - S
+  - ':'
+  - I
   - P
   - N
-  - "\u0303"
-  - M
-  - T
-  - Q
   - O
-  - V
-  - F
-  - B
+  - M
+  - Q
+  - T
   - G
-  - '-'
-  - '?'
-  - j
-  - "\u0327"
-  - "\xBB"
+  - V
   - H
+  - B
+  - F
+  - "\u0327"
+  - '-'
+  - j
+  - '?'
+  - "\xBB"
   - (
   - )
-  - "\xB6"
   - '1'
-  - U
-  - "\u0153"
-  - '!'
   - "\u0308"
+  - "\xB6"
+  - "\u0153"
+  - U
+  - '!'
   - '2'
   - ;
   - '9'
-  - '"'
   - "\xDF"
   - Y
-  - '3'
-  - J
   - '4'
-  - "\xE6"
+  - '3'
+  - '"'
   - '7'
   - '5'
-  - '8'
   - X
-  - '0'
+  - J
+  - '8'
+  - "\xE6"
+  - "\uA770"
   - '6'
+  - '0'
   - "\u02B3"
   - "\u0302"
   - "\u204A"
-  - "\uA770"
   - "\xAB"
   - '*'
+  - "\uA757"
   - "\uA753"
+  - "\_"
   - "\u204B"
   - "\uA751"
-  - "\_"
   - ']'
   - "\u0365"
   - "\u0399"
